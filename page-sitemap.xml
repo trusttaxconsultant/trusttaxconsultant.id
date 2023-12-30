@@ -2,31 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2023-12-23T03:32:17+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2020/06/ava-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2021/03/setting-icon.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2021/03/rotor.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2021/03/shocks.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2021/03/system-inside.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2021/03/ac-repairs.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2021/03/tyre-service.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2020/06/ava-2.jpg</image:loc>
-		</image:image>
+		<lastmod>2023-12-30T04:52:27+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2020/06/ava-1.jpg</image:loc>
 		</image:image>
