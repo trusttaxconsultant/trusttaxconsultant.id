@@ -8,23 +8,23 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./about/index.html</loc>
+		<loc>./about.html</loc>
 		<lastmod>2017-08-16T08:50:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./services/index.html</loc>
+		<loc>./services.html</loc>
 		<lastmod>2017-08-16T10:11:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./our-staff/index.html</loc>
+		<loc>./our-staff.html</loc>
 		<lastmod>2017-08-16T10:53:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./contact/index.html</loc>
+		<loc>./contact.html</loc>
 		<lastmod>2017-10-04T04:07:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>./sample-page/index.html</loc>
+		<loc>./sample-page.html</loc>
 		<lastmod>2023-12-22T07:22:31+00:00</lastmod>
 	</url>
 </urlset>
