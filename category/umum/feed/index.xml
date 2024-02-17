@@ -10,9 +10,9 @@
 <channel>
 	<title>Umum Archives - Trust Tax Consultant</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<link></link>
 	<description></description>
-	<lastBuildDate>Sat, 03 Feb 2024 04:11:56 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Feb 2024 23:38:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,11 +23,483 @@
 <image>
 	<url>./../../../wp-content/uploads/2024/01/cropped-favicon-32x32.webp</url>
 	<title>Umum Archives - Trust Tax Consultant</title>
-	<link>./../index.html</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cara Registrasi e-Filling &#038; Penggunaannya di DJP Online</title>
+		<link>./../../../registrasi-e-filling-djp-online.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 14 Feb 2024 23:38:14 +0000</pubDate>
+				<category><![CDATA[Umum]]></category>
+		<category><![CDATA[e-Filling]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2539</guid>
+
+					<description><![CDATA[<p>Ditjen Pajak Indonesia telah menghadirkan inovasi terbaru dalam sistem perpajakan melalui DJP Online. Layanan ini mempermudah wajib pajak dalam melaporkan pajak secara elektronik, salah satunya melalui fitur e-Filing. Artikel ini akan membahas secara detail cara registrasi DJP Online dan penggunaan fitur e-Filing untuk melaporkan SPT secara online. Tentang DJP Online DJP Online adalah layanan perpajakan [&#8230;]</p>
+<p>The post <a href="./../../../registrasi-e-filling-djp-online.html">Cara Registrasi e-Filling &amp; Penggunaannya di DJP Online</a> appeared first on <a href="./../../../index.html">Trust Tax Consultant</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Ditjen Pajak Indonesia telah menghadirkan inovasi terbaru dalam sistem perpajakan melalui DJP Online. Layanan ini mempermudah wajib pajak dalam melaporkan pajak secara elektronik, salah satunya melalui fitur e-Filing. Artikel ini akan membahas secara detail cara registrasi DJP Online dan penggunaan fitur e-Filing untuk melaporkan SPT secara online.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Tentang DJP Online</strong></h2>
+
+
+
+<p>DJP Online adalah layanan perpajakan yang disediakan oleh Ditjen Pajak Indonesia. Tujuan utamanya adalah untuk memudahkan wajib pajak dalam menunaikan kewajiban pajak secara elektronik. Dengan adanya DJP Online, tingkat kepatuhan wajib pajak dalam memenuhi kewajiban pajak diharapkan dapat meningkat.</p>
+
+
+
+<p>Pada awalnya, fitur layanan perpajakan elektronik yang disediakan oleh DJP tersedia secara terpisah. Namun, sejak tahun 2014, Ditjen Pajak telah mengintegrasikan seluruh aplikasi perpajakan, termasuk e-Billing dan e-Filing, ke dalam situs DJP Online.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/perbedaan-spt-masa-dan-spt-tahunan">Apa Beda SPT Masa dan SPT Tahunan?</a></strong></p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Fitur DJP Online</strong></h2>
+
+
+
+<p>DJP Online menyediakan berbagai fitur yang memudahkan wajib pajak dalam aktivitas perpajakan, antara lain:</p>
+
+
+
+<ul>
+<li><strong>Portal Layanan Perpajakan</strong>:
+<ul>
+<li>e-Filing: Untuk melaporkan SPT secara online.</li>
+
+
+
+<li>e-Billing: Untuk pembayaran pajak secara online.</li>
+
+
+
+<li>e-Form: Untuk mengakses formulir elektronik SPT.</li>
+
+
+
+<li>e-Registration: Untuk mengaktifkan EFIN (Electronic Filing Identification Number).</li>
+
+
+
+<li>e-Tracking: Untuk melacak status pembayaran pajak.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Fitur Layanan Lainnya</strong>:
+<ul>
+<li>e-Objection: Untuk menyampaikan Surat Keberatan.</li>
+
+
+
+<li>e-PHTB: Untuk validasi SSP PPh PHTB.</li>
+
+
+
+<li>e-SKD: Berfungsi untuk membuat dokumen bagi Wajib Pajak Luar Negeri.</li>
+
+
+
+<li>e-SKTD: Untuk permohonan Surat Keterangan Tidak Dipungut.</li>
+
+
+
+<li>Info KSWP: Untuk mengetahui status wajib pajak dan memperoleh Surat Keterangan Fiskal.</li>
+
+
+
+<li>Rumah Konfirmasi: Berfungsi untuk melakukan konfirmasi atau validasi dokumen perpajakan.</li>
+
+
+
+<li>e-Reporting: Untuk menyampaikan laporan realisasi investasi.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Cara Registrasi DJP Online</strong></h2>
+
+
+
+<p>Untuk dapat menggunakan layanan DJP Online, wajib pajak harus melakukan registrasi terlebih dahulu. Berikut langkah-langkahnya:</p>
+
+
+
+<ul>
+<li><strong>Mengajukan Permohonan EFIN</strong><br>Wajib pajak harus mengajukan permohonan EFIN terlebih dahulu.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Membuka Situs DJP Online</strong><br>Buka situs resmi DJP Online di efiling.pajak.go.id.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Mengisi e-Form</strong><br>Isi e-Form dengan identitas pribadi dan data yang dibutuhkan.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Memasukkan NPWP dan EFIN</strong><br>Masukkan NPWP dan nomor EFIN yang Anda miliki, lalu klik tombol &#8216;Verifikasi&#8217;.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Aktivasi Akun</strong><br>Setelah verifikasi berhasil, aktivasi akun dengan memasukkan alamat email, nomor telepon, dan membuat password.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Verifikasi Email</strong><br>Buka email Anda dan klik link verifikasi dari DJP Online untuk mengaktifkan akun.</li>
+</ul>
+
+
+
+<p>Setelah langkah-langkah di atas dilakukan, wajib pajak sudah bisa menggunakan layanan DJP Online, termasuk e-Filing.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-ast-global-color-4-background-color has-background">Anda pasti ingin memiliki konsultan pajak yang dapat diandalkan, bukan? Itulah mengapa Trust Tax Consultant hadir untuk membantu Anda mengelola pajak dengan cepat, tepat, dan efisien. Dengan layanan kami, Anda akan mendapatkan solusi pajak yang terbaik untuk kebutuhan bisnis Anda. Kunjungi laman penawaran kami di <strong><a href="https://trusttaxconsultant.id/">https://trusttaxconsultant.id/</a></strong> untuk informasi lebih lanjut.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Penggunaan e-Filing DJP Online</strong></h2>
+
+
+
+<p>e-Filing merupakan aplikasi pajak online yang berfungsi untuk melaporkan SPT Tahunan. Berikut langkah-langkah penggunaannya:</p>
+
+
+
+<ul>
+<li><strong>Login ke DJP Online</strong><br>Buka situs web DJP Online dan login dengan NPWP dan kata sandi.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Pilih Layanan e-Filing</strong><br>Klik &#8220;Lapor&#8221; dan pilih layanan &#8220;E-Filing&#8221;.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Buat SPT</strong><br>Klik &#8220;Buat SPT&#8221; dan jawab pertanyaan yang muncul untuk mendapatkan formulir SPT yang sesuai.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Isi Formulir</strong><br>Isi kolom formulir dengan data yang benar dan lengkap.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Verifikasi</strong><br>Dapatkan kode verifikasi melalui email atau nomor ponsel Anda.</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Kirim SPT</strong><br>Masukkan kode verifikasi dan klik &#8220;Kirim SPT&#8221; untuk mengirimkan SPT secara online.</li>
+</ul>
+
+
+
+<p>Dengan menggunakan e-Filing DJP Online, wajib pajak dapat melaporkan pajak secara praktis, cepat, dan efisien. Selain itu, e-Filing juga memungkinkan wajib pajak untuk melaporkan pajak di mana saja dan kapan saja selama sesuai dengan batas waktu yang ditentukan DJP.</p>
+
+
+
+<p>Dengan demikian, DJP Online dan fitur e-Filing merupakan solusi modern untuk memudahkan wajib pajak dalam memenuhi kewajiban perpajakannya. Dengan adanya layanan ini, diharapkan tingkat kepatuhan wajib pajak terhadap perpajakan dapat meningkat, serta proses pelaporan pajak menjadi lebih efisien dan transparan.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/spt-tahunan">Jenis Formulir SPT Tahunan &amp; Cara Pelaporannya</a></strong></p>
+<p>The post <a href="./../../../registrasi-e-filling-djp-online.html">Cara Registrasi e-Filling &amp; Penggunaannya di DJP Online</a> appeared first on <a href="./../../../index.html">Trust Tax Consultant</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NPWP: Pengertian, Fungsi, Jenis, dan Cara Membuatnya</title>
+		<link>./../../../npwp.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 14 Feb 2024 23:17:02 +0000</pubDate>
+				<category><![CDATA[Umum]]></category>
+		<category><![CDATA[NPWP]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2527</guid>
+
+					<description><![CDATA[<p>Nomor Pokok Wajib Pajak (NPWP) merupakan salah satu identitas penting dalam administrasi perpajakan di Indonesia. Setiap wajib pajak, baik individu maupun badan usaha, harus memiliki NPWP untuk memenuhi kewajiban perpajakan mereka. Artikel ini akan mengulas secara detail tentang pengertian NPWP, fungsi-fungsinya, jenis-jenis NPWP, serta syarat dan cara membuat NPWP. Pengertian NPWP NPWP adalah singkatan dari [&#8230;]</p>
+<p>The post <a href="./../../../npwp.html">NPWP: Pengertian, Fungsi, Jenis, dan Cara Membuatnya</a> appeared first on <a href="./../../../index.html">Trust Tax Consultant</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Nomor Pokok Wajib Pajak (NPWP) merupakan salah satu identitas penting dalam administrasi perpajakan di Indonesia. Setiap wajib pajak, baik individu maupun badan usaha, harus memiliki NPWP untuk memenuhi kewajiban perpajakan mereka. Artikel ini akan mengulas secara detail tentang pengertian NPWP, fungsi-fungsinya, jenis-jenis NPWP, serta syarat dan cara membuat NPWP.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Pengertian NPWP</strong></h2>
+
+
+
+<p>NPWP adalah singkatan dari Nomor Pokok Wajib Pajak. NPWP merupakan nomor identifikasi pajak yang diberikan kepada setiap wajib pajak oleh Direktorat Jenderal Pajak (DJP) sebagai wujud dari registrasi mereka dalam sistem perpajakan di Indonesia. NPWP terdiri dari 15 digit angka, di mana 9 digit pertama merupakan kode wajib pajak, dan 6 digit berikutnya adalah kode administrasi.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/spt-masa">Definisi SPT Masa, Jenis &amp; Cara Lapor</a></strong></p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Fungsi NPWP</strong></h2>
+
+
+
+<p>Fungsi NPWP sangat penting dalam administrasi perpajakan, memudahkan proses perpajakan bagi wajib pajak. Keberadaannya juga menjadi syarat vital dalam urusan administrasi di berbagai lembaga keuangan.</p>
+
+
+
+<ul>
+<li><strong>Sebagai Syarat Administrasi</strong><br>NPWP memiliki peran penting dalam urusan administrasi perpajakan. Sebelum mendapatkan layanan perpajakan, wajib pajak harus menyertakan NPWP mereka. Selain itu, NPWP juga seringkali menjadi syarat administrasi di lembaga keuangan seperti bank, misalnya untuk pengajuan kredit atau pembuatan Surat Izin Usaha Perdagangan (SIUP).</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Memudahkan Proses Perpajakan</strong><br>NPWP memudahkan proses perpajakan bagi wajib pajak. Tanpa NPWP, wajib pajak mungkin tidak akan dilayani dalam urusan perpajakan. Selain itu, memiliki NPWP juga dapat menghindarkan wajib pajak dari sanksi hukum karena kepemilikan NPWP bersifat wajib.</li>
+</ul>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-ast-global-color-4-background-color has-background">Pentingnya memiliki NPWP tidak bisa diabaikan, terutama dalam memastikan kepatuhan pajak yang tepat. Oleh karena itu, Trust Tax Consultant sebagai <strong><a href="https://trusttaxconsultant.id/konsultan-pajak-jogja">konsultan pajak Jogja</a></strong> siap membantu Anda. Dengan pengalaman dan keahlian yang teruji, kami menawarkan layanan konsultasi yang komprehensif untuk memenuhi kebutuhan perpajakan Anda.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Jenis NPWP</strong></h2>
+
+
+
+<p>Jenis NPWP dibagi menjadi NPWP Pribadi dan NPWP Badan, sesuai dengan status dan sumber penghasilan masing-masing.</p>
+
+
+
+<ul>
+<li><strong>NPWP Pribadi</strong><br>NPWP pribadi adalah NPWP yang dimiliki oleh individu yang memiliki penghasilan di Indonesia. NPWP pribadi dibagi menjadi beberapa kategori, yaitu:
+<ul>
+<li>Memiliki Penghasilan dari Pekerjaan</li>
+
+
+
+<li>Memiliki Penghasilan dari Pekerjaan Bebas</li>
+
+
+
+<li>Memiliki Penghasilan dari Usaha</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>NPWP Badan</strong>NPWP badan adalah NPWP yang dimiliki oleh perusahaan atau badan usaha yang mendapat penghasilan di Indonesia. NPWP badan juga dibagi menjadi beberapa kategori, yaitu:
+<ul>
+<li>Badan Milik Pemerintah</li>
+
+
+
+<li>Badan Milik Swasta</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/spt-tahunan">Definisi SPT Tahunan, Jenis Formulir &amp; Cara Lapor</a></strong></p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading"><strong>Syarat dan Cara Membuat NPWP</strong></h2>
+
+
+
+<p>Untuk membuat NPWP, terdapat beberapa persyaratan yang harus dipenuhi, antara lain:</p>
+
+
+
+<ul>
+<li><strong>Orang Pribadi yang Menjalankan Usaha/Pekerjaan Bebas</strong>
+<ul>
+<li>Fotokopi KTP bagi WNI</li>
+
+
+
+<li>Fotokopi paspor dan KITAS/KITAP bagi WNA</li>
+
+
+
+<li>Surat pernyataan bermaterai</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li><strong>Persyaratan Umum Lainnya</strong>
+<ul>
+<li>Bagi WNA: Fotokopi atau scan Kartu Tanda Penduduk (KTP), Kartu Izin Tinggal Terbatas (KITAS), Kartu Izin Tinggal Tetap (KITAP).</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>Proses pembuatan NPWP pribadi dapat dilakukan dengan langkah-langkah sebagai berikut:</p>
+
+
+
+<ol>
+<li>Siapkan dokumen persyaratan yang telah difotokopi.</li>
+
+
+
+<li>Datang ke Kantor Pelayanan Pajak (KPP) terdekat dari alamat pada KTP Anda.</li>
+
+
+
+<li>Isi formulir pengajuan NPWP.</li>
+
+
+
+<li>Serahkan dokumen dan formulir ke petugas.</li>
+</ol>
+
+
+
+<p>Dengan memiliki NPWP, wajib pajak akan lebih mudah dalam mengurus masalah perpajakan dan memenuhi kewajiban perpajakannya. Selain itu, NPWP juga membantu pemerintah dalam mengumpulkan pajak untuk pembangunan dan kemajuan negara.</p>
+<p>The post <a href="./../../../npwp.html">NPWP: Pengertian, Fungsi, Jenis, dan Cara Membuatnya</a> appeared first on <a href="./../../../index.html">Trust Tax Consultant</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Perbedaan SPT Masa dan SPT Tahunan Secara Detail</title>
 		<link>./../../../perbedaan-spt-masa-dan-spt-tahunan.html</link>
 		
