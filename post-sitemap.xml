@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>./berita.html</loc>
+		<lastmod>2024-03-16T06:24:26+00:00</lastmod>
+	</url>
+	<url>
 		<loc>./tarif-efektif-pph-21-baru.html</loc>
 		<lastmod>2024-01-20T01:22:08+00:00</lastmod>
 		<image:image>
@@ -257,6 +261,41 @@
 		<lastmod>2024-03-09T09:38:42+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/03/pajak-perpajakan.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./bea-meterai.html</loc>
+		<lastmod>2024-03-16T06:02:03+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/meterai.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-karbon.html</loc>
+		<lastmod>2024-03-16T06:07:17+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/pajak-karbon.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-sewa-gedung-bangunan.html</loc>
+		<lastmod>2024-03-16T06:10:41+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/pajak-sewa-gedung-bangunan.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-restoran.html</loc>
+		<lastmod>2024-03-16T06:21:35+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/restoran.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pph-pasal-4-ayat-2.html</loc>
+		<lastmod>2024-03-16T06:24:26+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/02/perpajakan.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
