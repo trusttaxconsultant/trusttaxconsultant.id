@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./berita.html</loc>
-		<lastmod>2024-03-16T06:24:26+00:00</lastmod>
+		<lastmod>2024-03-24T01:22:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>./tarif-efektif-pph-21-baru.html</loc>
@@ -296,6 +296,41 @@
 		<lastmod>2024-03-16T06:24:26+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/02/perpajakan.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-kontraktor.html</loc>
+		<lastmod>2024-03-24T00:59:29+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/pajak-kontraktor-konstruksi.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-konsultan.html</loc>
+		<lastmod>2024-03-24T01:02:27+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/02/akuntan-pajak.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-sewa-mobil.html</loc>
+		<lastmod>2024-03-24T01:06:18+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/mobil-.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pph-29.html</loc>
+		<lastmod>2024-03-24T01:15:41+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/gambar-pajak-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pph-15.html</loc>
+		<lastmod>2024-03-24T01:22:10+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/01/pajak.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
