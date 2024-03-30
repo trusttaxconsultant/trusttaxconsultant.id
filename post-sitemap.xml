@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./berita.html</loc>
-		<lastmod>2024-03-24T01:22:10+00:00</lastmod>
+		<lastmod>2024-03-30T04:50:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>./tarif-efektif-pph-21-baru.html</loc>
@@ -331,6 +331,41 @@
 		<lastmod>2024-03-24T01:22:10+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/01/pajak.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-reklame.html</loc>
+		<lastmod>2024-03-30T04:26:19+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/reklame.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-iklan.html</loc>
+		<lastmod>2024-03-30T04:36:59+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/iklan.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-thr-2024-pns-pegawai-swasta.html</loc>
+		<lastmod>2024-03-30T04:40:03+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/02/perhitungan-pajak.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./nomor-seri-faktur-pajak.html</loc>
+		<lastmod>2024-03-30T04:46:27+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/tax-pajak.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./faktur-pajak.html</loc>
+		<lastmod>2024-03-30T04:50:01+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/pajak-tax.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
