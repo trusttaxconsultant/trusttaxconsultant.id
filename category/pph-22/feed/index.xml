@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 
 <image>
 	<url>./../../../wp-content/uploads/2024/01/cropped-favicon-32x32.webp</url>
@@ -111,7 +111,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>PPh 22 = 2,5% x Rp 100.000.000,- </p>
 
 
@@ -125,7 +125,7 @@
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>PPh 22 = 1,5% x Rp 50.000.000,- </p>
 
 
