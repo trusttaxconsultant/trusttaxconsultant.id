@@ -1,4 +1,4 @@
-/*! elementor - v3.20.0 - 26-03-2024 */
+/*! elementor - v3.21.0 - 18-04-2024 */
 "use strict";
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["video"],{
 
@@ -160,18 +160,7 @@ class Video extends elementorModules.frontend.handlers.Base {
       this.intersectionObserver.observe(this.elements.$video.parent()[0]);
       return;
     }
-
-    // When Optimized asset loading is set to off, the video type is set to 'Youtube', and 'Privacy Mode' is set
-    // to 'On', there might be a conflict with other videos that are loaded WITHOUT privacy mode, such as a
-    // video bBackground in a section. In these cases, to avoid the conflict, a timeout is added to postpone the
-    // initialization of the Youtube API object.
-    if (!elementorFrontend.config.experimentalFeatures.e_optimized_assets_loading) {
-      setTimeout(() => {
-        this.apiProvider.onApiReady(apiObject => this.prepareYTVideo(apiObject));
-      }, 0);
-    } else {
-      this.apiProvider.onApiReady(apiObject => this.prepareYTVideo(apiObject));
-    }
+    this.apiProvider.onApiReady(apiObject => this.prepareYTVideo(apiObject));
   }
   onElementChange(propertyName) {
     if (0 === propertyName.indexOf('lightbox_content_animation')) {
@@ -189,4 +178,4 @@ exports["default"] = Video;
 /***/ })
 
 }]);
-//# sourceMappingURL=video.bb330f394f46f2666bc1.bundle.js.map
+//# sourceMappingURL=video.57bb05ea17924bda3c02.bundle.js.map

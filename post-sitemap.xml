@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./berita.html</loc>
-		<lastmod>2024-04-06T02:41:08+00:00</lastmod>
+		<lastmod>2024-04-21T09:06:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>./tarif-efektif-pph-21-baru.html</loc>
@@ -399,6 +399,41 @@
 	<url>
 		<loc>./kode-faktur-pajak-030.html</loc>
 		<lastmod>2024-04-06T02:41:08+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/04/akuntan-pajak.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./kode-faktur-pajak-060.html</loc>
+		<lastmod>2024-04-21T08:57:57+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/pajak-perpajakan.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./kode-faktur-pajak-070.html</loc>
+		<lastmod>2024-04-21T08:59:49+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/02/bukti-pembayaran-pajak.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./kode-faktur-pajak-090.html</loc>
+		<lastmod>2024-04-21T09:01:26+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/02/dokumen-pajak.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./klasifikasi-faktur-pajak-040-bisa-dikreditkan.html</loc>
+		<lastmod>2024-04-21T09:03:19+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/01/koreksi-fiskal-positif-negatif.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./faktur-pajak-masukan.html</loc>
+		<lastmod>2024-04-21T09:06:06+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/04/akuntan-pajak.webp</image:loc>
 		</image:image>

@@ -1,4 +1,4 @@
-/*! elementor - v3.20.0 - 26-03-2024 */
+/*! elementor - v3.21.0 - 18-04-2024 */
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["modules_nested-elements_assets_js_editor_module_js"],{
 
 /***/ "../modules/nested-elements/assets/js/editor/component.js":
@@ -320,14 +320,29 @@ var NestedRepeaterDuplicateContainer = /*#__PURE__*/function (_Base) {
     value: function apply(_ref) {
       var container = _ref.container,
         index = _ref.index;
-      $e.run('document/elements/duplicate', {
+      var result = $e.run('document/elements/duplicate', {
         container: (0, _utils.findChildContainerOrFail)(container, index),
         options: {
           edit: false // Not losing focus.
         }
       });
 
-      container.render();
+      var widgetType = container.settings.get('widgetType');
+      if ((0, _utils.shouldUseAtomicRepeaters)(widgetType)) {
+        container.view.children._views = (0, _utils.sortViewsByModels)(container);
+        elementor.$preview[0].contentWindow.dispatchEvent(new CustomEvent('elementor/nested-container/atomic-repeater', {
+          detail: {
+            container: container,
+            targetContainer: result,
+            index: index,
+            action: {
+              type: 'duplicate'
+            }
+          }
+        }));
+      } else {
+        container.render();
+      }
     }
   }]);
   return NestedRepeaterDuplicateContainer;
@@ -410,6 +425,18 @@ var NestedRepeaterCreateContainer = /*#__PURE__*/function (_Base) {
           edit: false // Not losing focus.
         }
       });
+
+      var widgetType = container.settings.get('widgetType');
+      if ((0, _utils.shouldUseAtomicRepeaters)(widgetType)) {
+        elementor.$preview[0].contentWindow.dispatchEvent(new CustomEvent('elementor/nested-container/atomic-repeater', {
+          detail: {
+            container: container,
+            action: {
+              type: 'create'
+            }
+          }
+        }));
+      }
     }
   }]);
   return NestedRepeaterCreateContainer;
@@ -466,7 +493,7 @@ var NestedRepeaterMoveContainer = /*#__PURE__*/function (_Base) {
       var container = _ref.container,
         sourceIndex = _ref.sourceIndex,
         targetIndex = _ref.targetIndex;
-      $e.run('document/elements/move', {
+      var result = $e.run('document/elements/move', {
         container: (0, _utils.findChildContainerOrFail)(container, sourceIndex),
         target: container,
         options: {
@@ -474,6 +501,21 @@ var NestedRepeaterMoveContainer = /*#__PURE__*/function (_Base) {
           edit: false // Not losing focus.
         }
       });
+
+      var widgetType = container.settings.get('widgetType');
+      if ((0, _utils.shouldUseAtomicRepeaters)(widgetType)) {
+        container.view.children._views = (0, _utils.sortViewsByModels)(container);
+        elementor.$preview[0].contentWindow.dispatchEvent(new CustomEvent('elementor/nested-container/atomic-repeater', {
+          detail: {
+            container: container,
+            targetContainer: result,
+            index: targetIndex,
+            action: {
+              type: 'move'
+            }
+          }
+        }));
+      }
     }
   }]);
   return NestedRepeaterMoveContainer;
@@ -544,6 +586,17 @@ var NestedRepeaterRemoveContainer = /*#__PURE__*/function (_Base) {
         container: (0, _utils.findChildContainerOrFail)(container, index),
         force: true
       });
+      var widgetType = container.settings.get('widgetType');
+      if ((0, _utils.shouldUseAtomicRepeaters)(widgetType)) {
+        elementor.$preview[0].contentWindow.dispatchEvent(new CustomEvent('elementor/nested-container/atomic-repeater', {
+          detail: {
+            container: container,
+            action: {
+              type: 'remove'
+            }
+          }
+        }));
+      }
     }
   }]);
   return NestedRepeaterRemoveContainer;
@@ -831,7 +884,12 @@ var NestedViewBase = /*#__PURE__*/function (_elementor$modules$el) {
     // Sometimes the children placement is not in the end of the element, but somewhere else, eg: deep inside the element template.
     // If `defaults_placeholder_selector` is set, it will be used to find the correct place to insert the children.
     function getChildViewContainer(containerView, childView) {
-      var customSelector = this.model.config.defaults.elements_placeholder_selector;
+      var _this$model$config$de = this.model.config.defaults,
+        customSelector = _this$model$config$de.elements_placeholder_selector,
+        childContainerSelector = _this$model$config$de.child_container_placeholder_selector;
+      if (childView !== undefined && childView._index !== undefined && childContainerSelector) {
+        return containerView.$el.find("".concat(childContainerSelector, ":nth-child(").concat(childView._index + 1, ")"));
+      }
       if (customSelector) {
         return containerView.$el.find(this.model.config.defaults.elements_placeholder_selector);
       }
@@ -870,7 +928,11 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports.extractNestedItemTitle = extractNestedItemTitle;
 exports.findChildContainerOrFail = findChildContainerOrFail;
+exports.isWidgetSupportAtomicRepeaters = isWidgetSupportAtomicRepeaters;
 exports.isWidgetSupportNesting = isWidgetSupportNesting;
+exports.shouldUseAtomicRepeaters = shouldUseAtomicRepeaters;
+exports.sortViewsByModels = sortViewsByModels;
+exports.widgetNodes = widgetNodes;
 function extractNestedItemTitle(container, index) {
   var title = container.view.model.config.defaults.elements_title;
 
@@ -884,12 +946,43 @@ function isWidgetSupportNesting(widgetType) {
   }
   return widgetConfig.support_nesting;
 }
+function isWidgetSupportAtomicRepeaters(widgetType) {
+  var widgetConfig = elementor.widgetsCache[widgetType];
+  if (!widgetConfig) {
+    return false;
+  }
+  return widgetConfig.support_improved_repeaters;
+}
+function widgetNodes(widgetType) {
+  var widgetConfig = elementor.widgetsCache[widgetType];
+  if (!widgetConfig) {
+    return false;
+  }
+  return {
+    targetContainer: widgetConfig.target_container,
+    node: widgetConfig.node
+  };
+}
 function findChildContainerOrFail(container, index) {
   var childView = container.view.children.findByIndex(index);
   if (!childView) {
     throw new Error('Child container was not found for the current repeater item.');
   }
   return childView.getContainer();
+}
+function shouldUseAtomicRepeaters(widgetType) {
+  return isWidgetSupportNesting(widgetType) && isWidgetSupportAtomicRepeaters(widgetType);
+}
+function sortViewsByModels(container) {
+  var models = container.model.get('elements').models,
+    children = container.view.children,
+    updatedViews = {};
+  models.forEach(function (model, index) {
+    var view = children.findByModel(model);
+    view._index = index;
+    updatedViews[view.cid] = view;
+  });
+  return updatedViews;
 }
 
 /***/ }),
@@ -1061,4 +1154,4 @@ module.exports = _superPropBase, module.exports.__esModule = true, module.export
 /***/ })
 
 }]);
-//# sourceMappingURL=f9b37afff6a65f7b9541.bundle.js.map
+//# sourceMappingURL=fa0cbd4c7b6a8ad83224.bundle.js.map
