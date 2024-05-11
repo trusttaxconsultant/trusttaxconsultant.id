@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./berita.html</loc>
-		<lastmod>2024-04-27T08:32:21+00:00</lastmod>
+		<lastmod>2024-05-11T09:51:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>./tarif-efektif-pph-21-baru.html</loc>
@@ -471,6 +471,41 @@
 		<lastmod>2024-04-27T08:32:21+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/02/bukti-pembayaran-pajak.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pengusaha-kena-pajak.html</loc>
+		<lastmod>2024-05-11T09:41:56+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/05/pengusaha.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./beda-pkp-dan-non-pkp.html</loc>
+		<lastmod>2024-05-11T09:43:35+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/01/pajak.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./kerugian-menjadi-pkp.html</loc>
+		<lastmod>2024-05-11T09:45:43+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/02/lupa-pusing-bimbang.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pengajuan-pkp.html</loc>
+		<lastmod>2024-05-11T09:48:08+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/02/pajak-penghasilan.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pkp-wajib-gunakan-e-bupot.html</loc>
+		<lastmod>2024-05-11T09:51:07+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/02/digitalisasi-pajak.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
