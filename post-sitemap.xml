@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./berita.html</loc>
-		<lastmod>2024-05-11T09:51:07+00:00</lastmod>
+		<lastmod>2024-05-19T10:02:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>./tarif-efektif-pph-21-baru.html</loc>
@@ -506,6 +506,41 @@
 		<lastmod>2024-05-11T09:51:07+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/02/digitalisasi-pajak.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./hak-kewajiban-pkp.html</loc>
+		<lastmod>2024-05-19T09:53:46+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/05/pkp.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./nppkp.html</loc>
+		<lastmod>2024-05-19T09:55:21+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/pajak-perpajakan.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./syarat-menjadi-pkp-omzet-di-bawah-48-miliar.html</loc>
+		<lastmod>2024-05-19T09:58:52+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/05/pendaftaran-registrasi.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./faktur-pajak-kawasan-berikat.html</loc>
+		<lastmod>2024-05-19T10:00:40+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/03/gambar-pajak-1.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-mengatasi-ppn-lebih-bayar.html</loc>
+		<lastmod>2024-05-19T10:02:20+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/02/perhitungan-pajak.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
