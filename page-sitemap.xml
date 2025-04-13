@@ -2,112 +2,266 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2024-03-16T06:52:13+00:00</lastmod>
+		<lastmod>2025-04-13T09:04:30+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/01/trust-tax-consultant.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/02/trust-tax-consultant.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/02/perpajakan-768x576.webp</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/konsultan-pajak-pribadi.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/restoran-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/akuntan-pajak.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/pajak-sewa-gedung-bangunan-768x576.png</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/konsultan-pajak-perusahaan.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/pajak-karbon-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/kursus-pajak.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/meterai-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/heru-prasetiawan.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/pajak-perpajakan-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/evinka.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/mobil--768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-2.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/belanja-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/staf-akuntan-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/01/pajak-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/staf-akuntan-2.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-3-baru.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-5.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>./about.html</loc>
-		<lastmod>2024-01-27T03:18:22+00:00</lastmod>
+		<loc>./elementor-128/index.html</loc>
+		<lastmod>2024-09-07T23:59:25+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/logo-ipsum1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/logo-ipsum2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/logo-ipsum3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/about-section.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/icon-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/icon-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/icon-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/icon-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/services1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/services1-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/services1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/services1-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/who-we.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/team.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/team-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/team-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/partner-logo0.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/partner-logo01.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/partner-logo02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/partner-logo03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/partner-logo04.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/partner-6.png</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>./contact.html</loc>
-		<lastmod>2024-01-27T03:28:22+00:00</lastmod>
+		<loc>./berita/index.html</loc>
+		<lastmod>2025-03-16T08:27:55+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/11/aturan-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/perhitungan-pajak-768x576.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/kenaikan-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/tempat-hiburan-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/hiburan-bioskop-768x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/01/kenaikan-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/10/perpajakan-768x576.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/bukti-pembayaran-pajak-768x576.jpeg</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>./konsultan-pajak-semarang.html</loc>
-		<lastmod>2024-06-30T03:07:03+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/01/tim-konsultan-pajak-trust-tax.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/01/aturan-pajak-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/pajak-perpajakan-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/pembangunan-infrastruktur-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/01/pajak-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/belanja-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/mobil--768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/meterai-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/pajak-karbon-768x576.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/pajak-sewa-gedung-bangunan-768x576.png</image:loc>
-		</image:image>
+		<loc>./tentang-kami/index.html</loc>
+		<lastmod>2025-03-23T07:26:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>./konsultan-pajak-jogja.html</loc>
-		<lastmod>2024-07-06T06:46:35+00:00</lastmod>
+		<lastmod>2025-04-13T09:04:37+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/01/tim-konsultan-pajak-trust-tax.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2024/09/pajak-penghasilan.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/02/hadiah-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/heru-prasetiawan.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/02/djp-online-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/evinka.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/gambar-pajak-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-2.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/pemerintah-pusat-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/staf-akuntan-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/pajak-perpajakan-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/staf-akuntan-2.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/gambar-pajak-1-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-3-baru.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/03/pajak-tax-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-5.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/04/kode-faktur-pajak-020-768x576.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/02/dokumen-pajak-768x576.jpeg</image:loc>
+			<image:loc>./wp-content/uploads/2024/10/perpajakan-768x576.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/bukti-pembayaran-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/akuntan-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/npwp-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/digitalisasi-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/akuntan-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/pajak-penghasilan-1-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/hadiah-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/11/djp-online-768x576.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./konsultan-pajak-semarang.html</loc>
+		<lastmod>2025-04-13T09:05:08+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/perhitungan-pajak.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/heru-prasetiawan.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/evinka.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-2.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/staf-akuntan-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/staf-akuntan-2.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-3-baru.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-5.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/03/staf-konsultan-pajak-1.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/10/perpajakan-768x576.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/bukti-pembayaran-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/akuntan-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/npwp-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/digitalisasi-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/akuntan-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/09/pajak-penghasilan-1-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/hadiah-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/11/djp-online-768x576.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
