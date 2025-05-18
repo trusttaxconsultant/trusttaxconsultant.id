@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href=".//wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./hukum-pajak.html</loc>
@@ -1032,6 +1032,56 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/05/Pajak-Panitera.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./tips-menghitung-pph-25-bulanan-bagi-wp-badan.html</loc>
+		<lastmod>2025-05-18T09:07:22+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Tips-Menghitung-PPh-25-Bulanan-bagi-WP-Badan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Tips-Menghitung-PPh-25-Bulanan-bagi-WP-Badan.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./restitusi-pajak-lebih-cepat-untuk-pengusaha.html</loc>
+		<lastmod>2025-05-18T09:44:30+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Cara-Syarat-Restitusi-Pajak-Lebih-Cepat-untuk-Pengusaha-yang-Patuh.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Cara-Syarat-Restitusi-Pajak-Lebih-Cepat-untuk-Pengusaha-yang-Patuh.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./perlakuan-akuntansi-dan-pajak-sewa-berdasarkan-psak-73.html</loc>
+		<lastmod>2025-05-18T09:57:24+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Perlakuan-Akuntansi-dan-Pajak-Sewa-Berdasarkan-PSAK-73.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Perlakuan-Akuntansi-dan-Pajak-Sewa-Berdasarkan-PSAK-73.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-menghitung-ppn-pph-dari-transaksi-pemerintah.html</loc>
+		<lastmod>2025-05-18T10:09:29+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Cara-Menghitung-PPN-PPh-dari-Transaksi-Pemerintah.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Cara-Menghitung-PPN-PPh-dari-Transaksi-Pemerintah.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./strategi-perpajakan-atas-biaya-hiburan-bagi-klien-bisnis-mitra.html</loc>
+		<lastmod>2025-05-18T10:24:39+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Strategi-Perpajakan-atas-Biaya-Hiburan-bagi-Klien-Bisnis-Mitra.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Strategi-Perpajakan-atas-Biaya-Hiburan-bagi-Klien-Bisnis-Mitra.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
