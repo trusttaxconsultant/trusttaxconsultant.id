@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href=".//wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./hukum-pajak.html</loc>
@@ -1232,6 +1232,56 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/06/Nomor-Objek-Pajak.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./tahapan-fitur-pemeriksaan-bukper-terbuka-dalam-coretax.html</loc>
+		<lastmod>2025-06-22T09:43:50+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tahapan-dan-Fitur-Pemeriksaan-Bukper-Terbuka-dalam-Coretax.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tahapan-dan-Fitur-Pemeriksaan-Bukper-Terbuka-dalam-Coretax.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-pengisian-bp21-di-coretax.html</loc>
+		<lastmod>2025-06-22T09:46:30+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tutorial-Cara-Pengisian-BP21-di-Coretax-Sesuai-PER-11PJ2025.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tutorial-Cara-Pengisian-BP21-di-Coretax-Sesuai-PER-11PJ2025.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./tutorial-isi-formulir-bp21-berdasarkan-per-11-pj-2025.html</loc>
+		<lastmod>2025-06-22T09:57:03+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tutorial-Isi-Formulir-BP21-Berdasarkan-PER-11PJ2025.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tutorial-Isi-Formulir-BP21-Berdasarkan-PER-11PJ2025.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./tutorial-reaktivasi-akses-faktur-pajak-yang-ditangguhkan-djp.html</loc>
+		<lastmod>2025-06-22T10:07:19+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tutorial-Reaktivasi-Akses-Faktur-Pajak-yang-Ditangguhkan-DJP.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tutorial-Reaktivasi-Akses-Faktur-Pajak-yang-Ditangguhkan-DJP.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./perubahan-format-bupot-dan-spt-pph-21-26.html</loc>
+		<lastmod>2025-06-22T10:18:20+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tutorial-Cara-Pengisian-BP21-di-Coretax-Sesuai-PER-11PJ2025-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tutorial-Cara-Pengisian-BP21-di-Coretax-Sesuai-PER-11PJ2025-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
