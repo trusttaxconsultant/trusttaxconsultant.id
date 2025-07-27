@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./hukum-pajak.html</loc>
@@ -1105,16 +1105,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./dissenting-opinion.html</loc>
-		<lastmod>2025-05-25T07:54:31+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/05/Apa-itu-Dissenting-Opinion.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/05/Apa-itu-Dissenting-Opinion.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./uji-arus-piutang.html</loc>
 		<lastmod>2025-05-25T08:02:04+00:00</lastmod>
 		<image:image>
@@ -1232,16 +1222,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/06/Nomor-Objek-Pajak.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./tahapan-fitur-pemeriksaan-bukper-terbuka-dalam-coretax.html</loc>
-		<lastmod>2025-06-22T09:43:50+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/06/Tahapan-dan-Fitur-Pemeriksaan-Bukper-Terbuka-dalam-Coretax.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/06/Tahapan-dan-Fitur-Pemeriksaan-Bukper-Terbuka-dalam-Coretax.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1382,6 +1362,116 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/07/Penerapan-Faktur-Pajak-Gabungan-Berdasarkan-PER-11PJ2025.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-penerbitan-faktur-pajak-digunggung-untuk-pedagang-eceran.html</loc>
+		<lastmod>2025-07-20T06:06:24+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Cara-Penerbitan-Faktur-Pajak-Digunggung-untuk-Pedagang-Eceran.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Cara-Penerbitan-Faktur-Pajak-Digunggung-untuk-Pedagang-Eceran.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./kode-e-billing-pajak-kedaluwarsa.html</loc>
+		<lastmod>2025-07-20T06:21:04+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Kode-E-Billing-Pajak-Kedaluwarsa.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Kode-E-Billing-Pajak-Kedaluwarsa.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./kesalahan-faktur-pajak.html</loc>
+		<lastmod>2025-07-20T06:58:03+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/5-Jenis-Kesalahan-Faktur-Pajak-yang-Paling-Sering-Terjadi.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/5-Jenis-Kesalahan-Faktur-Pajak-yang-Paling-Sering-Terjadi.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pelaporan-pembayaran-ppn-pmse.html</loc>
+		<lastmod>2025-07-27T07:35:22+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Panduan-Pelaporan-Pembayaran-PPN-PMSE-Sesuai-PER-12PJ2025.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Panduan-Pelaporan-Pembayaran-PPN-PMSE-Sesuai-PER-12PJ2025.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-hindari-pungutan-pph-22-untuk-umkm-online-omzet-kecil.html</loc>
+		<lastmod>2025-07-27T07:46:36+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Cara-Hindari-Pungutan-PPh-22-untuk-UMKM-Online-Omzet-Kecil.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Cara-Hindari-Pungutan-PPh-22-untuk-UMKM-Online-Omzet-Kecil.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-menghadapi-marketplace-tarik-pajak-0-5-persen.html</loc>
+		<lastmod>2025-07-27T08:04:08+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Cara-Menghadapi-Marketplace-Tarik-Pajak-05.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Cara-Menghadapi-Marketplace-Tarik-Pajak-05.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./panduan-lapor-pajak-untuk-penjual-di-marketplace.html</loc>
+		<lastmod>2025-07-27T08:17:26+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Panduan-Lapor-Pajak-untuk-Penjual-di-Marketplace.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Panduan-Lapor-Pajak-untuk-Penjual-di-Marketplace.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./prosedur-pencabutan-status-pkp.html</loc>
+		<lastmod>2025-07-27T08:29:33+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Prosedur-Pencabutan-Status-PKP-oleh-DJP-Sesuai-PER-7PJ2025.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Prosedur-Pencabutan-Status-PKP-oleh-DJP-Sesuai-PER-7PJ2025.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./daftar-barang-dan-jasa-yang-wajib-menggunakan-e-faktur.html</loc>
+		<lastmod>2025-07-27T08:33:51+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Daftar-Barang-dan-Jasa-yang-Wajib-Menggunakan-e-Faktur.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/07/Daftar-Barang-dan-Jasa-yang-Wajib-Menggunakan-e-Faktur.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./tahapan-fitur-pemeriksaan-bukper-terbuka-dalam-coretax.html</loc>
+		<lastmod>2025-07-27T08:34:09+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tahapan-dan-Fitur-Pemeriksaan-Bukper-Terbuka-dalam-Coretax.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/06/Tahapan-dan-Fitur-Pemeriksaan-Bukper-Terbuka-dalam-Coretax.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./dissenting-opinion.html</loc>
+		<lastmod>2025-07-27T08:34:35+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Apa-itu-Dissenting-Opinion.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/05/Apa-itu-Dissenting-Opinion.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
