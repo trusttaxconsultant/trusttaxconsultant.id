@@ -12,7 +12,7 @@
 	<atom:link href="./feed/index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sun, 03 Aug 2025 04:34:02 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Aug 2025 07:18:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,455 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mengatasi Bupot A1 Tidak Bisa Diproses di Coretax</title>
+		<link>./../../mengatasi-bupot-a1-tidak-bisa-diproses-di-coretax.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2025 07:18:21 +0000</pubDate>
+				<category><![CDATA[Pajak Penghasilan]]></category>
+		<category><![CDATA[coretax]]></category>
+		<guid isPermaLink="false">./../../index.html?p=975</guid>
+
+					<description><![CDATA[<p>Perubahan kebijakan perpajakan di Indonesia semakin menuntut ketelitian tinggi dalam administrasi, terutama bagi perusahaan yang bertanggung jawab atas pelaporan pajak [&#8230;]</p>
+<p>The post <a href="./../../mengatasi-bupot-a1-tidak-bisa-diproses-di-coretax.html">Mengatasi Bupot A1 Tidak Bisa Diproses di Coretax</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Mengatasi-Bupot-A1-yang-Tidak-Bisa-Diproses-di-Coretax.png" alt="" class="wp-image-976" srcset="./../../wp-content/uploads/2025/08/Mengatasi-Bupot-A1-yang-Tidak-Bisa-Diproses-di-Coretax.png 1024w, ./../../wp-content/uploads/2025/08/Mengatasi-Bupot-A1-yang-Tidak-Bisa-Diproses-di-Coretax-300x210.png 300w, ./../../wp-content/uploads/2025/08/Mengatasi-Bupot-A1-yang-Tidak-Bisa-Diproses-di-Coretax-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Perubahan kebijakan perpajakan di Indonesia semakin menuntut ketelitian tinggi dalam administrasi, terutama bagi perusahaan yang bertanggung jawab atas pelaporan pajak pegawai. Banyak pemberi kerja yang tidak menyadari bahwa kesalahan sederhana seperti tidak memvalidasi Nomor Induk Kependudukan (NIK) pegawai dapat menyebabkan Bupot A1 gagal diproses. Akibatnya, pelaporan pajak tahunan menjadi terhambat dan membutuhkan pembetulan yang memakan waktu.</p>
+
+
+
+<p>Dalam konteks transformasi digital yang dijalankan oleh Direktorat Jenderal Pajak (DJP) melalui sistem Coretax, penggunaan NIK valid kini menjadi syarat mutlak. Sistem ini tidak lagi menerima Nomor Pokok Wajib Pajak (NPWP) sementara atau data yang belum dipadankan. Bagi perusahaan yang ingin menghindari masalah di akhir tahun, memahami prosedur validasi NIK dan implikasinya adalah langkah strategis.</p>
+
+
+
+<h2 class="wp-block-heading">Mengapa NIK Valid Menjadi Syarat Wajib di Coretax?</h2>
+
+
+
+<p>Integrasi NIK ke dalam <strong><a href="https://www.kemenkeu.go.id/informasi-publik/publikasi/berita-utama/Forum-Perpajakan-Asia-Pasifik-%282%29">sistem perpajakan nasional</a></strong> adalah bagian dari upaya pemerintah untuk menyatukan data kependudukan dan pajak. Hanya data pegawai dengan NIK yang tervalidasi yang dapat diproses otomatis di Coretax untuk pembuatan Bupot A1.</p>
+
+
+
+<p>Beberapa alasan mengapa validasi NIK sangat krusial:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Menghindari Data Tidak Terbaca</strong>: Tanpa NIK valid, sistem tidak dapat menarik histori pajak.</li>
+
+
+
+<li><strong>Memastikan Keakuratan Data</strong>: Mengurangi risiko perbedaan data antara laporan bulanan dan tahunan.</li>
+
+
+
+<li><strong>Mendukung Efisiensi Administrasi</strong>: Meminimalkan pembetulan yang memakan waktu.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Dampak Penggunaan NPWP Sementara</h2>
+
+
+
+<p>NPWP sementara awalnya diperkenalkan sebagai solusi praktis untuk pegawai baru yang belum memiliki NPWP. Namun, dalam sistem Coretax, data dari NPWP sementara tidak dapat digunakan untuk membuat Bupot A1. Akibatnya, jika pegawai resign di tengah tahun dan seluruh data mereka terekam dengan NPWP sementara, perusahaan harus membatalkan dan membuat ulang Bupot dari awal.</p>
+
+
+
+<h2 class="wp-block-heading">Contoh Kasus Nyata</h2>
+
+
+
+<p>Bayangkan seorang pegawai bernama Dimas mulai bekerja pada Februari dan resign pada September. Selama bekerja, pajaknya dicatat dengan NPWP sementara. Saat akhir tahun, HR ingin membuat Bupot A1, namun data Dimas tidak muncul di Coretax. Perusahaan akhirnya harus:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li>Membatalkan seluruh Bupot masa kerja Dimas.</li>
+
+
+
+<li>Memvalidasi NIK Dimas di sistem.</li>
+
+
+
+<li>Menginput ulang seluruh data dari Februari hingga September.</li>
+</ol>
+
+
+
+<p>Proses ini tidak hanya memakan waktu, tetapi juga mengganggu timeline pelaporan tahunan.</p>
+
+
+
+<h2 class="wp-block-heading">Mengatasi Bupot A1 yang Tidak Bisa Diproses</h2>
+
+
+
+<p>Jika perusahaan terlanjur menggunakan NPWP sementara, berikut langkah yang direkomendasikan:</p>
+
+
+
+<h3 class="wp-block-heading">1. Lakukan Validasi NIK</h3>
+
+
+
+<p>Pastikan setiap pegawai memiliki NIK yang sudah terhubung dengan sistem pajak. Proses ini dapat dilakukan melalui:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Aktivasi NIK menjadi NPWP bagi pegawai dengan penghasilan kena pajak.</li>
+
+
+
+<li>Registrasi akun pajak bagi pegawai non-wajib pajak.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">2. Batalkan Bupot Lama</h3>
+
+
+
+<p>Bupot yang sudah dibuat dengan NPWP sementara harus dibatalkan di Coretax sebelum proses ulang.</p>
+
+
+
+<h3 class="wp-block-heading">3. Buat Ulang Bupot dengan NIK Valid</h3>
+
+
+
+<p>Setelah validasi, buat kembali Bupot dari bulan pertama pegawai bekerja hingga bulan terakhir mereka aktif.</p>
+
+
+
+<h3 class="wp-block-heading">4. Susun Kembali Bupot A1</h3>
+
+
+
+<p>Dengan semua data sudah menggunakan NIK valid, Bupot A1 dapat dihasilkan otomatis tanpa input manual.</p>
+
+
+
+<h2 class="wp-block-heading">Contoh Perhitungan PPh 21 dengan NIK Valid</h2>
+
+
+
+<p>Seorang pegawai tetap bernama Lestari bekerja selama 8 bulan dalam setahun dengan gaji bruto Rp7.500.000 per bulan dan status TK/1.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Penghasilan Bruto Tahunan (8 bulan)</strong>: Rp7.500.000 x 8 = Rp60.000.000</li>
+
+
+
+<li><strong>Biaya Jabatan (5%)</strong>: 5% x Rp60.000.000 = Rp3.000.000</li>
+
+
+
+<li><strong>Penghasilan Neto</strong>: Rp60.000.000 &#8211; Rp3.000.000 = Rp57.000.000</li>
+
+
+
+<li><strong>PTKP TK/1</strong>: Rp54.000.000</li>
+
+
+
+<li><strong>Penghasilan Kena Pajak (PKP)</strong>: Rp57.000.000 &#8211; Rp54.000.000 = Rp3.000.000</li>
+
+
+
+<li><strong>PPh 21 Terutang</strong>: 5% x Rp3.000.000 = Rp150.000</li>
+</ul>
+
+
+
+<p>Jika data Lestari sudah tervalidasi dengan NIK, seluruh perhitungan ini akan otomatis masuk dalam formulir A1 di Coretax.</p>
+
+
+
+<h2 class="wp-block-heading">Peran Konsultan Pajak dalam Memastikan Kepatuhan</h2>
+
+
+
+<p>Mengelola validasi NIK dan memastikan seluruh dokumen perpajakan sesuai aturan terkini bukanlah pekerjaan sederhana, terutama bagi perusahaan dengan banyak pegawai. Di sinilah peran tim <strong><a href="https://trusttaxconsultant.id/konsultan-pajak-jogja.html">konsultan pajak Jogja</a></strong> dari Trust Tax Consultant menjadi penting. Dengan dukungan profesional yang berpengalaman, perusahaan dapat menghindari kesalahan administrasi, memastikan setiap pegawai terdata dengan benar, dan menyelesaikan pelaporan pajak tepat waktu.</p>
+
+
+
+<h2 class="wp-block-heading">Tips Mencegah Kendala Bupot A1 di Masa Depan</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Lakukan Validasi Sejak Awal</strong>: Pastikan NIK pegawai diverifikasi sebelum periode penggajian pertama.</li>
+
+
+
+<li><strong>Hindari NPWP Sementara</strong>: Gunakan hanya jika benar-benar darurat dan segera ganti dengan NIK valid.</li>
+
+
+
+<li><strong>Update Data Secara Berkala</strong>: Lakukan pemeriksaan data setiap kuartal.</li>
+
+
+
+<li><strong>Gunakan Sistem Terintegrasi</strong>: Pilih software payroll yang terhubung langsung dengan Coretax.</li>
+</ul>
+
+
+
+<p>Validasi NIK bukan sekadar formalitas, tetapi kunci agar Bupot A1 dapat diproses lancar. Dengan sistem Coretax yang semakin ketat, kesalahan sekecil apapun dapat menghambat pelaporan tahunan. Perusahaan perlu proaktif memastikan seluruh pegawai terdata dengan benar sejak awal. Bagi perusahaan yang ingin fokus pada bisnis utama tanpa terganggu urusan administrasi pajak, menggandeng konsultan pajak profesional adalah langkah bijak.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/perubahan-format-bupot-dan-spt-pph-21-26">Perubahan Format Bupot dan SPT PPh 21/26 Sesuai PER-11/PJ/2025</a></strong></p>
+<p>The post <a href="./../../mengatasi-bupot-a1-tidak-bisa-diproses-di-coretax.html">Mengatasi Bupot A1 Tidak Bisa Diproses di Coretax</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cara Hindari Kompensasi Ganda PPh 21 di Coretax</title>
+		<link>./../../cara-hindari-kompensasi-ganda-pph-21-di-coretax.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2025 07:08:03 +0000</pubDate>
+				<category><![CDATA[Pajak Penghasilan]]></category>
+		<category><![CDATA[coretax]]></category>
+		<category><![CDATA[PPh 21]]></category>
+		<guid isPermaLink="false">./../../index.html?p=972</guid>
+
+					<description><![CDATA[<p>Kesalahan dalam pelaporan pajak tidak hanya berisiko menimbulkan sanksi, tetapi juga dapat mengacaukan perencanaan keuangan perusahaan atau individu. Salah satu [&#8230;]</p>
+<p>The post <a href="./../../cara-hindari-kompensasi-ganda-pph-21-di-coretax.html">Cara Hindari Kompensasi Ganda PPh 21 di Coretax</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax.png" alt="" class="wp-image-973" srcset="./../../wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Kesalahan dalam pelaporan pajak tidak hanya berisiko menimbulkan sanksi, tetapi juga dapat mengacaukan perencanaan keuangan perusahaan atau individu. Salah satu kesalahan yang cukup sering terjadi adalah kompensasi ganda pada SPT Masa PPh 21, terutama ketika dilakukan pembetulan SPT. Fenomena ini sering kali luput dari perhatian, padahal dapat menimbulkan masalah administratif yang rumit jika tidak segera ditangani.</p>
+
+
+
+<p>Kompensasi ganda pada PPh 21 bukan sekadar permasalahan teknis. Dalam praktiknya, hal ini bisa memengaruhi kredibilitas Wajib Pajak di mata Direktorat Jenderal Pajak (DJP), mengganggu kelancaran restitusi, hingga mengakibatkan saldo pajak yang tercatat di sistem tidak sesuai dengan kenyataan. Memahami penyebab, risiko, dan solusi yang tepat merupakan langkah penting untuk menjaga kepatuhan pajak secara profesional.</p>
+
+
+
+<h2 class="wp-block-heading">Mengapa Kompensasi Ganda PPh 21 Bisa Terjadi?</h2>
+
+
+
+<p>Kompensasi ganda biasanya muncul pada SPT Masa PPh 21 bulan Desember. Kondisi ini terjadi ketika Wajib Pajak menyampaikan SPT Pembetulan, namun secara tidak sengaja mengulang kembali nilai kompensasi yang sudah tercatat pada SPT Normal ke kolom &#8220;kompensasi dari masa sebelumnya&#8221;.</p>
+
+
+
+<p>Kesalahan ini membuat sistem DJP (Coretax) membaca data kompensasi dua kali: sekali dari SPT Normal, dan sekali lagi dari SPT Pembetulan. Akibatnya, saldo kompensasi yang terlihat menjadi lebih besar dari yang sebenarnya.</p>
+
+
+
+<h3 class="wp-block-heading">Dampak Administratif dan Fiskal</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Ketidaksesuaian saldo pajak dengan catatan DJP.</li>
+
+
+
+<li>Potensi pemeriksaan atau klarifikasi oleh otoritas pajak.</li>
+
+
+
+<li>Penundaan proses restitusi.</li>
+
+
+
+<li>Penilaian reputasi fiskal yang menurun.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Langkah-Langkah Mengatasi Kompensasi Ganda</h2>
+
+
+
+<p>Terdapat dua metode resmi yang dapat dilakukan untuk mengoreksi kesalahan ini: pembetulan ulang SPT atau koreksi administratif menggunakan BP21.</p>
+
+
+
+<h3 class="wp-block-heading">1. Pembetulan Ulang SPT Masa PPh 21</h3>
+
+
+
+<p>Metode ini adalah pilihan utama jika akses untuk melakukan pembetulan SPT masih tersedia. Prinsipnya adalah menghapus nilai kompensasi yang tercatat ganda sehingga data kembali akurat.</p>
+
+
+
+<p><strong>Tahapan:</strong></p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li>Login ke e-Filing atau Coretax DJP.</li>
+
+
+
+<li>Pilih SPT Masa PPh 21 Desember yang bermasalah.</li>
+
+
+
+<li>Lakukan pembetulan (misalnya menjadi Pembetulan ke-2 atau ke-3).</li>
+
+
+
+<li>Pastikan kolom &#8220;kompensasi dari masa sebelumnya&#8221; diisi dengan benar, hanya mencatat nilai selisih dari koreksi.</li>
+
+
+
+<li>Hitung ulang PPh terutang hingga sistem menunjukkan saldo sesuai kondisi sebenarnya.</li>
+
+
+
+<li>Simpan dan kirim pembetulan.</li>
+</ol>
+
+
+
+<p><strong>Contoh:</strong> Jika pada SPT Normal terdapat Lebih Bayar sebesar Rp8.500.000 dan nilai ini terulang di SPT Pembetulan, maka sistem akan menganggap kompensasi menjadi Rp17.000.000. Melalui pembetulan ulang, kolom kompensasi akan dikosongkan atau diisi sesuai selisih yang benar, sehingga sistem mengembalikan data ke nominal yang sah.</p>
+
+
+
+<h3 class="wp-block-heading">2. Koreksi Administratif Melalui BP21</h3>
+
+
+
+<p>Jika pembetulan ulang tidak memungkinkan (misalnya masa pelaporan telah lewat atau akses sudah ditutup), maka solusi alternatif adalah membuat dokumen koreksi administratif dengan BP21.</p>
+
+
+
+<p><strong>Langkah teknis:</strong></p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li>Akses eBupot Coretax.</li>
+
+
+
+<li>Buat dokumen BP21 baru.</li>
+
+
+
+<li>Pilih masa pajak yang terdampak.</li>
+
+
+
+<li>Masukkan data objek pajak sesuai ketentuan, seperti:
+<ul class="wp-block-list">
+<li>NPWP: 9990000000999000</li>
+
+
+
+<li>NITKU: 9990000000999000000000</li>
+
+
+
+<li>Nama Objek Pajak: Penyesuaian Nilai Kompensasi dari Masa Pajak Sebelumnya</li>
+
+
+
+<li>Kode Objek Pajak: 21-100-38</li>
+
+
+
+<li>PPh: diisi sebesar nilai kompensasi yang akan dikoreksi</li>
+</ul>
+</li>
+
+
+
+<li>Sertakan dokumen referensi atau pernyataan koreksi.</li>
+
+
+
+<li>Simpan untuk keperluan rekonsiliasi sistem.</li>
+</ol>
+
+
+
+<p>Metode ini tidak memerlukan pembayaran pajak tambahan karena sifatnya hanya administratif.</p>
+
+
+
+<h2 class="wp-block-heading">Mana yang Harus Dipilih?</h2>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><th>Kondisi</th><th>Solusi yang Direkomendasikan</th></tr><tr><td>Masih bisa melakukan pembetulan SPT</td><td>Pembetulan Ulang SPT</td></tr><tr><td>Akses pembetulan sudah ditutup</td><td>BP21</td></tr><tr><td>Perlu koreksi cepat tanpa ubah SPT</td><td>BP21</td></tr><tr><td>Perlu perbaikan teknis di sistem</td><td>BP21</td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading">Pentingnya Pendampingan Konsultan Pajak</h2>
+
+
+
+<p>Kesalahan administratif seperti kompensasi ganda PPh 21 dapat menimbulkan masalah berlapis jika tidak segera diperbaiki. Dalam situasi seperti ini, pendampingan dari konsultan pajak profesional menjadi sangat berharga. Dengan pengalaman dan pemahaman mendalam mengenai sistem perpajakan digital, konsultan dapat membantu memastikan proses koreksi berjalan cepat dan sesuai ketentuan.</p>
+
+
+
+<p>Di sinilah banyak perusahaan di Jogja mempercayakan perbaikan data pajak mereka pada <strong><a href="https://isbconsultant.com/konsultan-pajak-yogyakarta/">layanan pengurusan pajak profesional</a></strong> yang ditangani oleh tim akuntan brevet A &amp; B, karena selain memastikan ketepatan data, mereka juga dapat membantu mengoptimalkan strategi perpajakan secara legal dan efisien.</p>
+
+
+
+<h2 class="wp-block-heading">Tips Mencegah Terulangnya Kompensasi Ganda</h2>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>Verifikasi Data Sebelum Submit</strong><br>Pastikan seluruh angka pada kolom kompensasi telah sesuai dengan kondisi terakhir.</li>
+
+
+
+<li><strong>Simpan Salinan SPT</strong><br>Memiliki salinan SPT Normal dan Pembetulan akan memudahkan pengecekan data.</li>
+
+
+
+<li><strong>Gunakan Software Pajak Terintegrasi</strong><br>Sistem internal yang terhubung dengan pelaporan online dapat mengurangi risiko input ganda.</li>
+
+
+
+<li><strong>Rutin Konsultasi Pajak</strong><br>Melibatkan konsultan pajak untuk review sebelum pelaporan dapat meminimalkan kesalahan.</li>
+
+
+
+<li><strong>Pelatihan Internal</strong><br>Tim administrasi pajak perusahaan sebaiknya mendapatkan pelatihan berkala terkait update peraturan.</li>
+</ol>
+
+
+
+<p>Mengatasi kompensasi ganda PPh 21 akibat kesalahan SPT membutuhkan ketelitian, kecepatan, dan pemahaman teknis terhadap sistem Coretax. Dengan dua jalur penyelesaian resmi, yaitu pembetulan ulang SPT atau koreksi administratif BP21, Wajib Pajak dapat memilih langkah yang paling sesuai dengan kondisi.</p>
+
+
+
+<p>Menggandeng konsultan pajak profesional akan membantu proses menjadi lebih aman, efisien, dan terarah, sehingga Anda dapat fokus mengembangkan bisnis tanpa terganggu masalah teknis perpajakan.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/tutorial-isi-formulir-bp21-berdasarkan-per-11-pj-2025">Tutorial Isi Formulir BP21 Berdasarkan PER 11/PJ/2025</a></strong></p>
+<p>The post <a href="./../../cara-hindari-kompensasi-ganda-pph-21-di-coretax.html">Cara Hindari Kompensasi Ganda PPh 21 di Coretax</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Cara Hitung PPh 22 UMKM di Marketplace &#038; Pengecualiannya</title>
 		<link>./../../cara-hitung-pph-22-umkm-di-marketplace.html</link>
 		
@@ -42,7 +491,7 @@
 <p>The post <a href="./../../cara-hitung-pph-22-umkm-di-marketplace.html">Cara Hitung PPh 22 UMKM di Marketplace &amp; Pengecualiannya</a> appeared first on <a href="./../../index.html"></a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya.png" alt="" class="wp-image-957" srcset="./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya.png" alt="" class="wp-image-957" srcset="./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -343,7 +792,7 @@
 <p>The post <a href="./../../cara-menghindari-pph-final-saat-menerima-warisan-properti.html">Cara Menghindari PPh Final Saat Menerima Warisan Properti</a> appeared first on <a href="./../../index.html"></a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti.png" alt="" class="wp-image-954" srcset="./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti.png" alt="" class="wp-image-954" srcset="./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -619,7 +1068,7 @@
 <p>The post <a href="./../../cara-menghadapi-marketplace-tarik-pajak-0-5-persen.html">Cara Menghadapi Marketplace Tarik Pajak 0,5%</a> appeared first on <a href="./../../index.html"></a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/07/Cara-Menghadapi-Marketplace-Tarik-Pajak-05.png" alt="" class="wp-image-916" srcset="./../../wp-content/uploads/2025/07/Cara-Menghadapi-Marketplace-Tarik-Pajak-05.png 1024w, ./../../wp-content/uploads/2025/07/Cara-Menghadapi-Marketplace-Tarik-Pajak-05-300x210.png 300w, ./../../wp-content/uploads/2025/07/Cara-Menghadapi-Marketplace-Tarik-Pajak-05-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/07/Cara-Menghadapi-Marketplace-Tarik-Pajak-05.png" alt="" class="wp-image-916" srcset="./../../wp-content/uploads/2025/07/Cara-Menghadapi-Marketplace-Tarik-Pajak-05.png 1024w, ./../../wp-content/uploads/2025/07/Cara-Menghadapi-Marketplace-Tarik-Pajak-05-300x210.png 300w, ./../../wp-content/uploads/2025/07/Cara-Menghadapi-Marketplace-Tarik-Pajak-05-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1721,391 +2170,6 @@
 
 <p><strong>Baca juga: <a href="https://trusttaxconsultant.id/pph-15">Jenis PPh 15 Objek, Subjek &amp; Tarif Pajak</a></strong></p>
 <p>The post <a href="./../../cara-pengajuan-treaty-relief-berdasarkan-p3b-indonesia.html">Cara Pengajuan Treaty Relief Berdasarkan P3B Indonesia</a> appeared first on <a href="./../../index.html"></a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Uji Arus Piutang dalam Menentukan Kepatuhan Pajak</title>
-		<link>./../../uji-arus-piutang.html</link>
-		
-		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
-		<pubDate>Sun, 25 May 2025 07:28:56 +0000</pubDate>
-				<category><![CDATA[Pajak Penghasilan]]></category>
-		<category><![CDATA[PPh]]></category>
-		<guid isPermaLink="false">./../../index.html?p=748</guid>
-
-					<description><![CDATA[<p>Dalam dunia perpajakan yang kompleks dan terus berkembang, pemahaman mendalam terhadap teknik pemeriksaan pajak menjadi kebutuhan yang tidak dapat diabaikan [&#8230;]</p>
-<p>The post <a href="./../../uji-arus-piutang.html">Uji Arus Piutang dalam Menentukan Kepatuhan Pajak</a> appeared first on <a href="./../../index.html"></a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="768" height="576" src="./../../wp-content/uploads/2025/05/Uji-Arus-Piutang-dalam-Menentukan-Kepatuhan-Pajak.jpg" alt="Uji Arus Piutang dalam Menentukan Kepatuhan Pajak" class="wp-image-749" srcset="./../../wp-content/uploads/2025/05/Uji-Arus-Piutang-dalam-Menentukan-Kepatuhan-Pajak.jpg 768w, ./../../wp-content/uploads/2025/05/Uji-Arus-Piutang-dalam-Menentukan-Kepatuhan-Pajak-300x225.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-
-
-
-<p>Dalam dunia perpajakan yang kompleks dan terus berkembang, pemahaman mendalam terhadap teknik pemeriksaan pajak menjadi kebutuhan yang tidak dapat diabaikan oleh pelaku usaha. Salah satu teknik yang memiliki dampak besar dalam proses verifikasi kepatuhan pajak adalah uji arus piutang. Meskipun kerap dianggap sebagai aspek teknis akuntansi, uji arus piutang merupakan metode analisis yang sangat penting dalam menentukan kebenaran pengakuan penghasilan bruto Wajib Pajak (WP), terutama bagi entitas usaha yang menggunakan metode akrual dalam pencatatan keuangannya.</p>
-
-
-
-<p>Bagi pemilik usaha yang ingin menjaga kepatuhan fiskal dan menghindari risiko koreksi yang merugikan, pemahaman atas uji arus piutang merupakan langkah awal yang strategis. Artikel ini akan membahas secara menyeluruh mengenai definisi, tujuan, metode pelaksanaan, hingga contoh penerapan uji arus piutang, serta pentingnya peran konsultan pajak dalam menghadapi proses pemeriksaan.</p>
-
-
-
-<h2 class="wp-block-heading">Pengertian dan Dasar Uji Arus Piutang</h2>
-
-
-
-<p>Uji arus piutang adalah suatu teknik analisis yang digunakan dalam pemeriksaan pajak untuk mengevaluasi konsistensi dan kewajaran antara penerimaan pembayaran dari pelanggan dengan pengakuan pendapatan yang dilaporkan oleh WP. Dalam metode akrual, penghasilan diakui pada saat hak atas penghasilan timbul, bukan saat kas diterima. Oleh karena itu, penting untuk menelusuri apakah pelunasan piutang, baik berupa uang tunai, transfer bank, atau bentuk non-kas lainnya, sesuai dengan jumlah pendapatan yang tercantum dalam Surat Pemberitahuan Tahunan (SPT).</p>
-
-
-
-<p>Teknik ini umumnya digunakan oleh pemeriksa pajak untuk menilai apakah WP telah melaporkan penghasilan secara wajar, berdasarkan perbandingan antara peredaran usaha yang dilaporkan dengan data pembayaran yang benar-benar diterima.</p>
-
-
-
-<h2 class="wp-block-heading">Tujuan Pelaksanaan Uji Arus Piutang</h2>
-
-
-
-<p>Pelaksanaan uji arus piutang memiliki beberapa tujuan utama, yaitu:</p>
-
-
-
-<h3 class="wp-block-heading">1. Verifikasi Kebenaran Penghasilan Bruto</h3>
-
-
-
-<p>Pemeriksa pajak melakukan uji ini untuk memastikan bahwa penghasilan yang dilaporkan dalam SPT benar-benar mencerminkan aktivitas usaha yang terjadi.</p>
-
-
-
-<h3 class="wp-block-heading">2. Deteksi Ketidaksesuaian dan Potensi Penghindaran Pajak</h3>
-
-
-
-<p>Ketidaksesuaian antara pelunasan piutang dan pengakuan pendapatan dapat mengindikasikan potensi penghindaran pajak atau kesalahan dalam pencatatan.</p>
-
-
-
-<h3 class="wp-block-heading">3. Evaluasi Efektivitas Manajemen Piutang</h3>
-
-
-
-<p>Dari sudut pandang internal perusahaan, hasil uji arus piutang juga berguna untuk menilai efektivitas pengelolaan piutang usaha dan strategi penagihan.</p>
-
-
-
-<h2 class="wp-block-heading">Metode Pelaksanaan Uji Arus Piutang</h2>
-
-
-
-<p>Dalam praktiknya, terdapat dua metode utama yang digunakan untuk melaksanakan uji arus piutang:</p>
-
-
-
-<h3 class="wp-block-heading">1. Analisis Mutasi Piutang Usaha</h3>
-
-
-
-<p>Metode ini dilakukan dengan menganalisis perubahan saldo piutang dari awal hingga akhir tahun. Jika terdapat peningkatan saldo, hal ini menunjukkan adanya penjualan kredit yang belum dilunasi. Sebaliknya, penurunan saldo mengindikasikan adanya pelunasan.</p>
-
-
-
-<h3 class="wp-block-heading">2. Analisis Arus Kas dan Non-Kas</h3>
-
-
-
-<p>Pendekatan yang lebih komprehensif ini tidak hanya mencakup penerimaan kas, tetapi juga pelunasan non-kas, seperti:</p>
-
-
-
-<ul class="wp-block-list">
-<li>Bukti potong pajak</li>
-
-
-
-<li>Penghapusan piutang</li>
-
-
-
-<li>Kompensasi utang</li>
-
-
-
-<li>Koreksi fiskal</li>
-</ul>
-
-
-
-<p>Dengan menghitung total pelunasan, baik dalam bentuk kas maupun non-kas, pemeriksa dapat membuat estimasi peredaran usaha secara lebih akurat.</p>
-
-
-
-<h2 class="wp-block-heading">Rumus dan Contoh Penghitungan Uji Arus Piutang</h2>
-
-
-
-<p>Untuk memperoleh estimasi penghasilan bruto berdasarkan uji arus piutang, digunakan formula berikut:</p>
-
-
-
-<p><strong>Peredaran Usaha = Penerimaan Kas/Bank + Pelunasan Non-Kas + Saldo Piutang Akhir − Saldo Piutang Awal</strong></p>
-
-
-
-<h3 class="wp-block-heading">Contoh Kasus:</h3>
-
-
-
-<p>PT XYZ adalah perusahaan dagang yang menggunakan metode akrual. Berikut data yang tersedia:</p>
-
-
-
-<ul class="wp-block-list">
-<li>Penerimaan Kas/Bank: Rp8.000.000.000</li>
-
-
-
-<li>Pelunasan Non-Kas (bukti potong, penghapusan, kompensasi): Rp1.200.000.000</li>
-
-
-
-<li>Saldo Piutang Awal Tahun: Rp1.000.000.000</li>
-
-
-
-<li>Saldo Piutang Akhir Tahun: Rp2.000.000.000</li>
-</ul>
-
-
-
-<p>Dengan demikian:</p>
-
-
-
-<p><strong>Peredaran Usaha = 8.000.000.000 + 1.200.000.000 + 2.000.000.000 − 1.000.000.000 = Rp10.200.000.000</strong></p>
-
-
-
-<p>Jika dalam SPT Tahunan WP hanya melaporkan penghasilan bruto sebesar Rp9.000.000.000, maka terdapat selisih sebesar Rp1.200.000.000 yang harus diklarifikasi. Tanpa justifikasi yang memadai, pemeriksa berhak melakukan koreksi fiskal.</p>
-
-
-
-<h2 class="wp-block-heading">Implikasi Fiskal dan Hukum</h2>
-
-
-
-<p>Ketidaksesuaian yang ditemukan dari hasil uji arus piutang dapat berakibat pada koreksi terhadap penghasilan bruto. Koreksi ini tidak hanya berdampak pada peningkatan pajak yang harus dibayar, tetapi juga berpotensi dikenakan sanksi administratif berupa denda, bunga keterlambatan, bahkan risiko pidana apabila ditemukan indikasi pelanggaran yang disengaja.</p>
-
-
-
-<p>Lebih dari itu, ketidakpatuhan fiskal juga dapat memengaruhi reputasi perusahaan, menyulitkan proses audit keuangan, hingga menimbulkan kendala dalam pengajuan kredit atau tender proyek pemerintah.</p>
-
-
-
-<h2 class="wp-block-heading">Pentingnya Pendampingan Konsultan Pajak</h2>
-
-
-
-<p>Menghadapi proses pemeriksaan pajak tanpa dukungan profesional merupakan langkah yang berisiko tinggi, terutama bagi WP yang belum sepenuhnya memahami aspek teknis seperti uji arus piutang. Di sinilah peran konsultan pajak menjadi sangat krusial. Konsultan pajak tidak hanya membantu dalam penyusunan dokumentasi yang benar, tetapi juga menyusun strategi perencanaan pajak yang legal dan efisien.</p>
-
-
-
-<p>Sebagai contoh, Trust Tax Consultant (TTC) adalah&nbsp;<strong><a href="https://trusttaxconsultant.id/">konsultan perencanaan pajak Surabaya</a></strong> yang&nbsp;menyediakan layanan komprehensif untuk menghadapi pemeriksaan pajak dengan pendekatan berbasis data dan peraturan terkini. Dengan pengalaman dan keahlian yang dimiliki TTC, WP dapat menjalani proses pemeriksaan dengan lebih tenang dan minim risiko koreksi fiskal.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p><strong>Kesimpulan</strong></p>
-
-
-
-<p>Uji arus piutang adalah teknik penting dalam pemeriksaan pajak yang membantu otoritas pajak mengevaluasi kebenaran laporan penghasilan bruto WP. Dengan menggabungkan analisis kas, pelunasan non-kas, serta saldo piutang, metode ini memberikan gambaran realistis mengenai aktivitas usaha yang dijalankan. Oleh karena itu, memahami dan mempersiapkan uji arus piutang secara tepat merupakan bagian dari strategi kepatuhan pajak yang tidak bisa diabaikan.</p>
-
-
-
-<p>Bagi perusahaan yang ingin memastikan kepatuhan fiskal dan menghindari koreksi yang merugikan, bekerja sama dengan konsultan pajak profesional adalah langkah yang tepat. Pendekatan yang terstruktur dan dukungan profesional akan meningkatkan kepercayaan diri dalam menghadapi pemeriksaan pajak yang semakin kompleks di era modern ini.</p>
-
-
-
-<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/pph-final">Objek PPh Final, Tarif dan Cara Hitungnya</a></strong></p>
-<p>The post <a href="./../../uji-arus-piutang.html">Uji Arus Piutang dalam Menentukan Kepatuhan Pajak</a> appeared first on <a href="./../../index.html"></a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Cara Menghitung PPN &#038; PPh dari Transaksi Pemerintah</title>
-		<link>./../../cara-menghitung-ppn-pph-dari-transaksi-pemerintah.html</link>
-		
-		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
-		<pubDate>Sun, 18 May 2025 10:09:26 +0000</pubDate>
-				<category><![CDATA[Pajak Penghasilan]]></category>
-		<category><![CDATA[PPN]]></category>
-		<category><![CDATA[PPh]]></category>
-		<guid isPermaLink="false">./../../index.html?p=737</guid>
-
-					<description><![CDATA[<p>Dalam dunia perpajakan yang terus berkembang, pemahaman mendalam mengenai metode penghitungan pajak menjadi sangat penting, terutama bagi perusahaan yang menjadi [&#8230;]</p>
-<p>The post <a href="./../../cara-menghitung-ppn-pph-dari-transaksi-pemerintah.html">Cara Menghitung PPN &amp; PPh dari Transaksi Pemerintah</a> appeared first on <a href="./../../index.html"></a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="768" height="576" src="./../../wp-content/uploads/2025/05/Cara-Menghitung-PPN-PPh-dari-Transaksi-Pemerintah.jpg" alt="Cara Menghitung PPN &amp; PPh dari Transaksi Pemerintah" class="wp-image-738" srcset="./../../wp-content/uploads/2025/05/Cara-Menghitung-PPN-PPh-dari-Transaksi-Pemerintah.jpg 768w, ./../../wp-content/uploads/2025/05/Cara-Menghitung-PPN-PPh-dari-Transaksi-Pemerintah-300x225.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-
-
-
-<p>Dalam dunia perpajakan yang terus berkembang, pemahaman mendalam mengenai metode penghitungan pajak menjadi sangat penting, terutama bagi perusahaan yang menjadi mitra instansi pemerintah. Salah satu metode yang sering kali menimbulkan kebingungan adalah penggunaan Faktur Pajak dengan Dasar Pengenaan Pajak (DPP) Nilai Lain. Meskipun bukan metode baru, implementasinya memerlukan ketelitian dan pemahaman yang menyeluruh agar tidak terjadi kekeliruan dalam pelaporan maupun perhitungan.</p>
-
-
-
-<p>Artikel ini hadir untuk menjawab kebutuhan Anda dalam memahami cara menghitung Pajak Pertambahan Nilai (PPN) dan Pajak Penghasilan (PPh) dari faktur dengan DPP Nilai Lain. Diperuntukkan khususnya bagi para profesional, pelaku usaha, serta pihak-pihak yang sering berurusan dengan pengadaan pemerintah, artikel ini juga menjadi sumber referensi penting bagi Anda yang tengah mempertimbangkan menggunakan jasa konsultan pajak.</p>
-
-
-
-<h2 class="wp-block-heading">Pengertian DPP Nilai Lain dalam Pajak</h2>
-
-
-
-<p>Dasar Pengenaan Pajak (DPP) Nilai Lain adalah metode penghitungan pajak yang tidak menggunakan nilai transaksi aktual sebagai acuan. Dalam kasus tertentu, seperti pengadaan barang atau jasa oleh instansi pemerintah, DPP ditentukan berdasarkan persentase tertentu dari nilai pembayaran bruto. Menurut ketentuan yang berlaku, DPP Nilai Lain untuk transaksi pemerintah adalah sebesar 11/12 dari total nilai pembayaran bruto.</p>
-
-
-
-<p>Tujuan dari penerapan metode ini adalah untuk menyederhanakan pelaporan sekaligus menciptakan kepastian hukum dalam transaksi pemerintah. Regulasi ini telah diatur secara rinci dalam Peraturan Direktur Jenderal Pajak, yang mewajibkan para penyedia barang dan jasa untuk mematuhi metode ini saat bertransaksi dengan instansi pemerintah.</p>
-
-
-
-<h2 class="wp-block-heading">Struktur Faktur Pajak dengan DPP Nilai Lain</h2>
-
-
-
-<p>Meskipun berbeda dalam metode perhitungan, struktur faktur pajak dengan DPP Nilai Lain tetap mencantumkan nilai transaksi secara keseluruhan. Yang membedakan adalah dasar penghitungan PPN yang hanya sebesar 11/12 dari nilai tersebut. Sementara itu, untuk perhitungan PPh Pasal 22, acuan yang digunakan tetap nilai pembayaran bruto atau keseluruhan nilai kontrak.</p>
-
-
-
-<p>Struktur ini penting dipahami untuk menghindari kesalahan dalam penyusunan faktur pajak yang dapat menimbulkan koreksi oleh Direktorat Jenderal Pajak (DJP) dan berujung pada sanksi administratif.</p>
-
-
-
-<h2 class="wp-block-heading">Contoh Perhitungan PPN dan PPh dari DPP Nilai Lain</h2>
-
-
-
-<p>Agar lebih jelas, mari kita simak contoh konkret yang relevan dengan praktik bisnis. Misalnya, sebuah instansi pemerintah melakukan pembelian perangkat server sebanyak 100 unit dari PT Solusi Digital Nusantara dengan harga per unit Rp15.000.000. Maka, nilai total transaksinya adalah:</p>
-
-
-
-<p><strong>Total nilai pembayaran bruto: 100 x Rp15.000.000 = Rp1.500.000.000</strong></p>
-
-
-
-<h3 class="wp-block-heading">Langkah-langkah perhitungan:</h3>
-
-
-
-<ol start="1" class="wp-block-list">
-<li><strong>Menghitung DPP (Dasar Pengenaan Pajak):</strong> DPP = 11/12 x Rp1.500.000.000 = Rp1.375.000.000</li>
-
-
-
-<li><strong>Menghitung PPN (11% dari DPP):</strong> PPN = 11% x Rp1.375.000.000 = Rp151.250.000</li>
-
-
-
-<li><strong>Menghitung PPh Pasal 22 (1,5% dari nilai bruto):</strong> PPh 22 = 1,5% x Rp1.500.000.000 = Rp22.500.000</li>
-</ol>
-
-
-
-<p>Dengan demikian, pihak instansi pemerintah akan membayar total Rp1.500.000.000 ditambah PPN sebesar Rp151.250.000, sedangkan PT Solusi Digital Nusantara akan menerima pembayaran setelah dipotong PPh sebesar Rp1.477.500.000.</p>
-
-
-
-<h2 class="wp-block-heading">Alasan dan Manfaat Penggunaan DPP Nilai Lain</h2>
-
-
-
-<p>Penggunaan metode DPP Nilai Lain memberikan sejumlah keuntungan, baik bagi penyedia jasa maupun bagi instansi pemerintah. Beberapa manfaatnya antara lain:</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Penyederhanaan administrasi pajak:</strong> Perhitungan yang menggunakan persentase tetap lebih mudah dipahami dan diterapkan.</li>
-
-
-
-<li><strong>Kepastian hukum:</strong> Adanya dasar hukum yang jelas memberikan perlindungan bagi kedua belah pihak.</li>
-
-
-
-<li><strong>Efisiensi waktu dan biaya:</strong> Menghindari kerumitan penghitungan yang mungkin terjadi dengan metode konvensional.</li>
-</ul>
-
-
-
-<p>Namun, keuntungan ini hanya dapat dirasakan secara maksimal apabila metode penghitungan diterapkan dengan benar. Di sinilah pentingnya dukungan dari tenaga ahli, seperti konsultan pajak berpengalaman.</p>
-
-
-
-<p>Dalam banyak kasus, perusahaan yang belum familiar dengan metode DPP Nilai Lain akan lebih aman dan efisien jika menggandeng pihak profesional. Di sinilah <strong>Trust Tax Consultant (TTC)</strong> berperan sebagai <strong><a href="https://trusttaxconsultant.id/">konsultan pajak terpercaya di Surabaya</a></strong>, yang mampu memberikan pendampingan dan solusi strategis untuk pelaporan perpajakan yang sesuai ketentuan.</p>
-
-
-
-<h2 class="wp-block-heading">Kesalahan Umum dalam Penerapan DPP Nilai Lain</h2>
-
-
-
-<p>Meski regulasi sudah jelas, masih banyak kesalahan yang kerap terjadi dalam praktik. Beberapa kesalahan umum yang harus dihindari antara lain:</p>
-
-
-
-<ul class="wp-block-list">
-<li>Salah menghitung DPP dari nilai bruto</li>
-
-
-
-<li>Menyusun faktur dengan dasar nilai transaksi penuh, bukan 11/12</li>
-
-
-
-<li>Lupa menyertakan PPh Pasal 22 dalam perhitungan</li>
-
-
-
-<li>Tidak melaporkan pajak sesuai waktu yang ditentukan</li>
-</ul>
-
-
-
-<p>Kesalahan-kesalahan tersebut bisa berdampak serius, mulai dari denda administrasi hingga risiko audit pajak. Oleh sebab itu, sangat disarankan untuk memastikan setiap aspek penghitungan dan pelaporan diawasi oleh pihak yang kompeten.</p>
-
-
-
-<h2 class="wp-block-heading">Pentingnya Konsultan Pajak dalam Transaksi Pemerintah</h2>
-
-
-
-<p>Memahami perhitungan pajak dari faktur DPP Nilai Lain memang membutuhkan ketelitian, namun bukan berarti Anda harus menghadapinya sendiri. Mengingat kompleksitas regulasi perpajakan, perusahaan Anda akan sangat terbantu dengan dukungan profesional dari konsultan pajak yang andal. Dengan bekerja sama dengan Trust Tax Consultant, Anda tidak hanya mendapatkan ketenangan dalam pelaporan, tetapi juga memperoleh pemahaman yang lebih mendalam mengenai strategi perpajakan yang optimal.</p>
-
-
-
-<p>Sebagai konsultan pajak di Surabaya, TTC telah berpengalaman menangani berbagai klien dari sektor swasta hingga penyedia jasa pemerintah. Pelayanan yang profesional, responsif, dan sesuai regulasi menjadikan TTC mitra ideal untuk mendampingi Anda dalam mengelola kewajiban perpajakan secara akurat dan efisien.</p>
-
-
-
-<p>Mengelola pajak dalam transaksi dengan instansi pemerintah memerlukan pengetahuan khusus, terutama ketika menggunakan metode Faktur Pajak DPP Nilai Lain. Dengan memahami perhitungan DPP, PPN, dan PPh yang benar, perusahaan dapat terhindar dari potensi kesalahan dan sanksi administratif.</p>
-
-
-
-<p>Melibatkan konsultan pajak profesional seperti Trust Tax Consultant akan sangat membantu dalam menyusun faktur, menghitung pajak, dan memastikan seluruh pelaporan dilakukan sesuai peraturan perpajakan yang berlaku. Dengan strategi perpajakan yang tepat, bukan hanya kepatuhan yang terjaga, tetapi juga efisiensi bisnis yang meningkat.</p>
-
-
-
-<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/kode-faktur-pajak-020.html">Dasar Hukum Kode Faktur Pajak 020 &amp; Penggunaannya</a></strong></p>
-<p>The post <a href="./../../cara-menghitung-ppn-pph-dari-transaksi-pemerintah.html">Cara Menghitung PPN &amp; PPh dari Transaksi Pemerintah</a> appeared first on <a href="./../../index.html"></a>.</p>
 ]]></content:encoded>
 					
 		

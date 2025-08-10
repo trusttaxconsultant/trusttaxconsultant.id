@@ -1,0 +1,2294 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Konsultan Pajak Surabaya • Legal, Akurat &amp; Efisien</title>
+	<atom:link href="./feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 10 Aug 2025 07:18:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+
+<image>
+	<url>./../../wp-content/uploads/2024/09/favicon.webp</url>
+	<title>Konsultan Pajak Surabaya • Legal, Akurat &amp; Efisien</title>
+	<link>./../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mengatasi Bupot A1 Tidak Bisa Diproses di Coretax</title>
+		<link>./../../mengatasi-bupot-a1-tidak-bisa-diproses-di-coretax.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2025 07:18:21 +0000</pubDate>
+				<category><![CDATA[Pajak Penghasilan]]></category>
+		<category><![CDATA[coretax]]></category>
+		<guid isPermaLink="false">./../../index.html?p=975</guid>
+
+					<description><![CDATA[<p>Perubahan kebijakan perpajakan di Indonesia semakin menuntut ketelitian tinggi dalam administrasi, terutama bagi perusahaan yang bertanggung jawab atas pelaporan pajak [&#8230;]</p>
+<p>The post <a href="./../../mengatasi-bupot-a1-tidak-bisa-diproses-di-coretax.html">Mengatasi Bupot A1 Tidak Bisa Diproses di Coretax</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Mengatasi-Bupot-A1-yang-Tidak-Bisa-Diproses-di-Coretax.png" alt="" class="wp-image-976" srcset="./../../wp-content/uploads/2025/08/Mengatasi-Bupot-A1-yang-Tidak-Bisa-Diproses-di-Coretax.png 1024w, ./../../wp-content/uploads/2025/08/Mengatasi-Bupot-A1-yang-Tidak-Bisa-Diproses-di-Coretax-300x210.png 300w, ./../../wp-content/uploads/2025/08/Mengatasi-Bupot-A1-yang-Tidak-Bisa-Diproses-di-Coretax-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Perubahan kebijakan perpajakan di Indonesia semakin menuntut ketelitian tinggi dalam administrasi, terutama bagi perusahaan yang bertanggung jawab atas pelaporan pajak pegawai. Banyak pemberi kerja yang tidak menyadari bahwa kesalahan sederhana seperti tidak memvalidasi Nomor Induk Kependudukan (NIK) pegawai dapat menyebabkan Bupot A1 gagal diproses. Akibatnya, pelaporan pajak tahunan menjadi terhambat dan membutuhkan pembetulan yang memakan waktu.</p>
+
+
+
+<p>Dalam konteks transformasi digital yang dijalankan oleh Direktorat Jenderal Pajak (DJP) melalui sistem Coretax, penggunaan NIK valid kini menjadi syarat mutlak. Sistem ini tidak lagi menerima Nomor Pokok Wajib Pajak (NPWP) sementara atau data yang belum dipadankan. Bagi perusahaan yang ingin menghindari masalah di akhir tahun, memahami prosedur validasi NIK dan implikasinya adalah langkah strategis.</p>
+
+
+
+<h2 class="wp-block-heading">Mengapa NIK Valid Menjadi Syarat Wajib di Coretax?</h2>
+
+
+
+<p>Integrasi NIK ke dalam <strong><a href="https://www.kemenkeu.go.id/informasi-publik/publikasi/berita-utama/Forum-Perpajakan-Asia-Pasifik-%282%29">sistem perpajakan nasional</a></strong> adalah bagian dari upaya pemerintah untuk menyatukan data kependudukan dan pajak. Hanya data pegawai dengan NIK yang tervalidasi yang dapat diproses otomatis di Coretax untuk pembuatan Bupot A1.</p>
+
+
+
+<p>Beberapa alasan mengapa validasi NIK sangat krusial:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Menghindari Data Tidak Terbaca</strong>: Tanpa NIK valid, sistem tidak dapat menarik histori pajak.</li>
+
+
+
+<li><strong>Memastikan Keakuratan Data</strong>: Mengurangi risiko perbedaan data antara laporan bulanan dan tahunan.</li>
+
+
+
+<li><strong>Mendukung Efisiensi Administrasi</strong>: Meminimalkan pembetulan yang memakan waktu.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Dampak Penggunaan NPWP Sementara</h2>
+
+
+
+<p>NPWP sementara awalnya diperkenalkan sebagai solusi praktis untuk pegawai baru yang belum memiliki NPWP. Namun, dalam sistem Coretax, data dari NPWP sementara tidak dapat digunakan untuk membuat Bupot A1. Akibatnya, jika pegawai resign di tengah tahun dan seluruh data mereka terekam dengan NPWP sementara, perusahaan harus membatalkan dan membuat ulang Bupot dari awal.</p>
+
+
+
+<h2 class="wp-block-heading">Contoh Kasus Nyata</h2>
+
+
+
+<p>Bayangkan seorang pegawai bernama Dimas mulai bekerja pada Februari dan resign pada September. Selama bekerja, pajaknya dicatat dengan NPWP sementara. Saat akhir tahun, HR ingin membuat Bupot A1, namun data Dimas tidak muncul di Coretax. Perusahaan akhirnya harus:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li>Membatalkan seluruh Bupot masa kerja Dimas.</li>
+
+
+
+<li>Memvalidasi NIK Dimas di sistem.</li>
+
+
+
+<li>Menginput ulang seluruh data dari Februari hingga September.</li>
+</ol>
+
+
+
+<p>Proses ini tidak hanya memakan waktu, tetapi juga mengganggu timeline pelaporan tahunan.</p>
+
+
+
+<h2 class="wp-block-heading">Mengatasi Bupot A1 yang Tidak Bisa Diproses</h2>
+
+
+
+<p>Jika perusahaan terlanjur menggunakan NPWP sementara, berikut langkah yang direkomendasikan:</p>
+
+
+
+<h3 class="wp-block-heading">1. Lakukan Validasi NIK</h3>
+
+
+
+<p>Pastikan setiap pegawai memiliki NIK yang sudah terhubung dengan sistem pajak. Proses ini dapat dilakukan melalui:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Aktivasi NIK menjadi NPWP bagi pegawai dengan penghasilan kena pajak.</li>
+
+
+
+<li>Registrasi akun pajak bagi pegawai non-wajib pajak.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">2. Batalkan Bupot Lama</h3>
+
+
+
+<p>Bupot yang sudah dibuat dengan NPWP sementara harus dibatalkan di Coretax sebelum proses ulang.</p>
+
+
+
+<h3 class="wp-block-heading">3. Buat Ulang Bupot dengan NIK Valid</h3>
+
+
+
+<p>Setelah validasi, buat kembali Bupot dari bulan pertama pegawai bekerja hingga bulan terakhir mereka aktif.</p>
+
+
+
+<h3 class="wp-block-heading">4. Susun Kembali Bupot A1</h3>
+
+
+
+<p>Dengan semua data sudah menggunakan NIK valid, Bupot A1 dapat dihasilkan otomatis tanpa input manual.</p>
+
+
+
+<h2 class="wp-block-heading">Contoh Perhitungan PPh 21 dengan NIK Valid</h2>
+
+
+
+<p>Seorang pegawai tetap bernama Lestari bekerja selama 8 bulan dalam setahun dengan gaji bruto Rp7.500.000 per bulan dan status TK/1.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Penghasilan Bruto Tahunan (8 bulan)</strong>: Rp7.500.000 x 8 = Rp60.000.000</li>
+
+
+
+<li><strong>Biaya Jabatan (5%)</strong>: 5% x Rp60.000.000 = Rp3.000.000</li>
+
+
+
+<li><strong>Penghasilan Neto</strong>: Rp60.000.000 &#8211; Rp3.000.000 = Rp57.000.000</li>
+
+
+
+<li><strong>PTKP TK/1</strong>: Rp54.000.000</li>
+
+
+
+<li><strong>Penghasilan Kena Pajak (PKP)</strong>: Rp57.000.000 &#8211; Rp54.000.000 = Rp3.000.000</li>
+
+
+
+<li><strong>PPh 21 Terutang</strong>: 5% x Rp3.000.000 = Rp150.000</li>
+</ul>
+
+
+
+<p>Jika data Lestari sudah tervalidasi dengan NIK, seluruh perhitungan ini akan otomatis masuk dalam formulir A1 di Coretax.</p>
+
+
+
+<h2 class="wp-block-heading">Peran Konsultan Pajak dalam Memastikan Kepatuhan</h2>
+
+
+
+<p>Mengelola validasi NIK dan memastikan seluruh dokumen perpajakan sesuai aturan terkini bukanlah pekerjaan sederhana, terutama bagi perusahaan dengan banyak pegawai. Di sinilah peran tim <strong><a href="https://trusttaxconsultant.id/konsultan-pajak-jogja.html">konsultan pajak Jogja</a></strong> dari Trust Tax Consultant menjadi penting. Dengan dukungan profesional yang berpengalaman, perusahaan dapat menghindari kesalahan administrasi, memastikan setiap pegawai terdata dengan benar, dan menyelesaikan pelaporan pajak tepat waktu.</p>
+
+
+
+<h2 class="wp-block-heading">Tips Mencegah Kendala Bupot A1 di Masa Depan</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Lakukan Validasi Sejak Awal</strong>: Pastikan NIK pegawai diverifikasi sebelum periode penggajian pertama.</li>
+
+
+
+<li><strong>Hindari NPWP Sementara</strong>: Gunakan hanya jika benar-benar darurat dan segera ganti dengan NIK valid.</li>
+
+
+
+<li><strong>Update Data Secara Berkala</strong>: Lakukan pemeriksaan data setiap kuartal.</li>
+
+
+
+<li><strong>Gunakan Sistem Terintegrasi</strong>: Pilih software payroll yang terhubung langsung dengan Coretax.</li>
+</ul>
+
+
+
+<p>Validasi NIK bukan sekadar formalitas, tetapi kunci agar Bupot A1 dapat diproses lancar. Dengan sistem Coretax yang semakin ketat, kesalahan sekecil apapun dapat menghambat pelaporan tahunan. Perusahaan perlu proaktif memastikan seluruh pegawai terdata dengan benar sejak awal. Bagi perusahaan yang ingin fokus pada bisnis utama tanpa terganggu urusan administrasi pajak, menggandeng konsultan pajak profesional adalah langkah bijak.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/perubahan-format-bupot-dan-spt-pph-21-26">Perubahan Format Bupot dan SPT PPh 21/26 Sesuai PER-11/PJ/2025</a></strong></p>
+<p>The post <a href="./../../mengatasi-bupot-a1-tidak-bisa-diproses-di-coretax.html">Mengatasi Bupot A1 Tidak Bisa Diproses di Coretax</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cara Hindari Kompensasi Ganda PPh 21 di Coretax</title>
+		<link>./../../cara-hindari-kompensasi-ganda-pph-21-di-coretax.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2025 07:08:03 +0000</pubDate>
+				<category><![CDATA[Pajak Penghasilan]]></category>
+		<category><![CDATA[coretax]]></category>
+		<category><![CDATA[PPh 21]]></category>
+		<guid isPermaLink="false">./../../index.html?p=972</guid>
+
+					<description><![CDATA[<p>Kesalahan dalam pelaporan pajak tidak hanya berisiko menimbulkan sanksi, tetapi juga dapat mengacaukan perencanaan keuangan perusahaan atau individu. Salah satu [&#8230;]</p>
+<p>The post <a href="./../../cara-hindari-kompensasi-ganda-pph-21-di-coretax.html">Cara Hindari Kompensasi Ganda PPh 21 di Coretax</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax.png" alt="" class="wp-image-973" srcset="./../../wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Kesalahan dalam pelaporan pajak tidak hanya berisiko menimbulkan sanksi, tetapi juga dapat mengacaukan perencanaan keuangan perusahaan atau individu. Salah satu kesalahan yang cukup sering terjadi adalah kompensasi ganda pada SPT Masa PPh 21, terutama ketika dilakukan pembetulan SPT. Fenomena ini sering kali luput dari perhatian, padahal dapat menimbulkan masalah administratif yang rumit jika tidak segera ditangani.</p>
+
+
+
+<p>Kompensasi ganda pada PPh 21 bukan sekadar permasalahan teknis. Dalam praktiknya, hal ini bisa memengaruhi kredibilitas Wajib Pajak di mata Direktorat Jenderal Pajak (DJP), mengganggu kelancaran restitusi, hingga mengakibatkan saldo pajak yang tercatat di sistem tidak sesuai dengan kenyataan. Memahami penyebab, risiko, dan solusi yang tepat merupakan langkah penting untuk menjaga kepatuhan pajak secara profesional.</p>
+
+
+
+<h2 class="wp-block-heading">Mengapa Kompensasi Ganda PPh 21 Bisa Terjadi?</h2>
+
+
+
+<p>Kompensasi ganda biasanya muncul pada SPT Masa PPh 21 bulan Desember. Kondisi ini terjadi ketika Wajib Pajak menyampaikan SPT Pembetulan, namun secara tidak sengaja mengulang kembali nilai kompensasi yang sudah tercatat pada SPT Normal ke kolom &#8220;kompensasi dari masa sebelumnya&#8221;.</p>
+
+
+
+<p>Kesalahan ini membuat sistem DJP (Coretax) membaca data kompensasi dua kali: sekali dari SPT Normal, dan sekali lagi dari SPT Pembetulan. Akibatnya, saldo kompensasi yang terlihat menjadi lebih besar dari yang sebenarnya.</p>
+
+
+
+<h3 class="wp-block-heading">Dampak Administratif dan Fiskal</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Ketidaksesuaian saldo pajak dengan catatan DJP.</li>
+
+
+
+<li>Potensi pemeriksaan atau klarifikasi oleh otoritas pajak.</li>
+
+
+
+<li>Penundaan proses restitusi.</li>
+
+
+
+<li>Penilaian reputasi fiskal yang menurun.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Langkah-Langkah Mengatasi Kompensasi Ganda</h2>
+
+
+
+<p>Terdapat dua metode resmi yang dapat dilakukan untuk mengoreksi kesalahan ini: pembetulan ulang SPT atau koreksi administratif menggunakan BP21.</p>
+
+
+
+<h3 class="wp-block-heading">1. Pembetulan Ulang SPT Masa PPh 21</h3>
+
+
+
+<p>Metode ini adalah pilihan utama jika akses untuk melakukan pembetulan SPT masih tersedia. Prinsipnya adalah menghapus nilai kompensasi yang tercatat ganda sehingga data kembali akurat.</p>
+
+
+
+<p><strong>Tahapan:</strong></p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li>Login ke e-Filing atau Coretax DJP.</li>
+
+
+
+<li>Pilih SPT Masa PPh 21 Desember yang bermasalah.</li>
+
+
+
+<li>Lakukan pembetulan (misalnya menjadi Pembetulan ke-2 atau ke-3).</li>
+
+
+
+<li>Pastikan kolom &#8220;kompensasi dari masa sebelumnya&#8221; diisi dengan benar, hanya mencatat nilai selisih dari koreksi.</li>
+
+
+
+<li>Hitung ulang PPh terutang hingga sistem menunjukkan saldo sesuai kondisi sebenarnya.</li>
+
+
+
+<li>Simpan dan kirim pembetulan.</li>
+</ol>
+
+
+
+<p><strong>Contoh:</strong> Jika pada SPT Normal terdapat Lebih Bayar sebesar Rp8.500.000 dan nilai ini terulang di SPT Pembetulan, maka sistem akan menganggap kompensasi menjadi Rp17.000.000. Melalui pembetulan ulang, kolom kompensasi akan dikosongkan atau diisi sesuai selisih yang benar, sehingga sistem mengembalikan data ke nominal yang sah.</p>
+
+
+
+<h3 class="wp-block-heading">2. Koreksi Administratif Melalui BP21</h3>
+
+
+
+<p>Jika pembetulan ulang tidak memungkinkan (misalnya masa pelaporan telah lewat atau akses sudah ditutup), maka solusi alternatif adalah membuat dokumen koreksi administratif dengan BP21.</p>
+
+
+
+<p><strong>Langkah teknis:</strong></p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li>Akses eBupot Coretax.</li>
+
+
+
+<li>Buat dokumen BP21 baru.</li>
+
+
+
+<li>Pilih masa pajak yang terdampak.</li>
+
+
+
+<li>Masukkan data objek pajak sesuai ketentuan, seperti:
+<ul class="wp-block-list">
+<li>NPWP: 9990000000999000</li>
+
+
+
+<li>NITKU: 9990000000999000000000</li>
+
+
+
+<li>Nama Objek Pajak: Penyesuaian Nilai Kompensasi dari Masa Pajak Sebelumnya</li>
+
+
+
+<li>Kode Objek Pajak: 21-100-38</li>
+
+
+
+<li>PPh: diisi sebesar nilai kompensasi yang akan dikoreksi</li>
+</ul>
+</li>
+
+
+
+<li>Sertakan dokumen referensi atau pernyataan koreksi.</li>
+
+
+
+<li>Simpan untuk keperluan rekonsiliasi sistem.</li>
+</ol>
+
+
+
+<p>Metode ini tidak memerlukan pembayaran pajak tambahan karena sifatnya hanya administratif.</p>
+
+
+
+<h2 class="wp-block-heading">Mana yang Harus Dipilih?</h2>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><th>Kondisi</th><th>Solusi yang Direkomendasikan</th></tr><tr><td>Masih bisa melakukan pembetulan SPT</td><td>Pembetulan Ulang SPT</td></tr><tr><td>Akses pembetulan sudah ditutup</td><td>BP21</td></tr><tr><td>Perlu koreksi cepat tanpa ubah SPT</td><td>BP21</td></tr><tr><td>Perlu perbaikan teknis di sistem</td><td>BP21</td></tr></tbody></table></figure>
+
+
+
+<h2 class="wp-block-heading">Pentingnya Pendampingan Konsultan Pajak</h2>
+
+
+
+<p>Kesalahan administratif seperti kompensasi ganda PPh 21 dapat menimbulkan masalah berlapis jika tidak segera diperbaiki. Dalam situasi seperti ini, pendampingan dari konsultan pajak profesional menjadi sangat berharga. Dengan pengalaman dan pemahaman mendalam mengenai sistem perpajakan digital, konsultan dapat membantu memastikan proses koreksi berjalan cepat dan sesuai ketentuan.</p>
+
+
+
+<p>Di sinilah banyak perusahaan di Jogja mempercayakan perbaikan data pajak mereka pada <strong><a href="https://isbconsultant.com/konsultan-pajak-yogyakarta/">layanan pengurusan pajak profesional</a></strong> yang ditangani oleh tim akuntan brevet A &amp; B, karena selain memastikan ketepatan data, mereka juga dapat membantu mengoptimalkan strategi perpajakan secara legal dan efisien.</p>
+
+
+
+<h2 class="wp-block-heading">Tips Mencegah Terulangnya Kompensasi Ganda</h2>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>Verifikasi Data Sebelum Submit</strong><br>Pastikan seluruh angka pada kolom kompensasi telah sesuai dengan kondisi terakhir.</li>
+
+
+
+<li><strong>Simpan Salinan SPT</strong><br>Memiliki salinan SPT Normal dan Pembetulan akan memudahkan pengecekan data.</li>
+
+
+
+<li><strong>Gunakan Software Pajak Terintegrasi</strong><br>Sistem internal yang terhubung dengan pelaporan online dapat mengurangi risiko input ganda.</li>
+
+
+
+<li><strong>Rutin Konsultasi Pajak</strong><br>Melibatkan konsultan pajak untuk review sebelum pelaporan dapat meminimalkan kesalahan.</li>
+
+
+
+<li><strong>Pelatihan Internal</strong><br>Tim administrasi pajak perusahaan sebaiknya mendapatkan pelatihan berkala terkait update peraturan.</li>
+</ol>
+
+
+
+<p>Mengatasi kompensasi ganda PPh 21 akibat kesalahan SPT membutuhkan ketelitian, kecepatan, dan pemahaman teknis terhadap sistem Coretax. Dengan dua jalur penyelesaian resmi, yaitu pembetulan ulang SPT atau koreksi administratif BP21, Wajib Pajak dapat memilih langkah yang paling sesuai dengan kondisi.</p>
+
+
+
+<p>Menggandeng konsultan pajak profesional akan membantu proses menjadi lebih aman, efisien, dan terarah, sehingga Anda dapat fokus mengembangkan bisnis tanpa terganggu masalah teknis perpajakan.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/tutorial-isi-formulir-bp21-berdasarkan-per-11-pj-2025">Tutorial Isi Formulir BP21 Berdasarkan PER 11/PJ/2025</a></strong></p>
+<p>The post <a href="./../../cara-hindari-kompensasi-ganda-pph-21-di-coretax.html">Cara Hindari Kompensasi Ganda PPh 21 di Coretax</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cara Hindari Kesalahan Pembetulan SPT PPN dengan Konsep Delta</title>
+		<link>./../../cara-hindari-kesalahan-pembetulan-spt-ppn-dengan-konsep-delta.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2025 06:58:32 +0000</pubDate>
+				<category><![CDATA[PPN]]></category>
+		<guid isPermaLink="false">./../../index.html?p=969</guid>
+
+					<description><![CDATA[<p>Dalam dunia perpajakan yang terus berkembang, perubahan sistem dan prosedur administrasi menjadi hal yang tidak bisa dihindari. Setiap pelaku usaha [&#8230;]</p>
+<p>The post <a href="./../../cara-hindari-kesalahan-pembetulan-spt-ppn-dengan-konsep-delta.html">Cara Hindari Kesalahan Pembetulan SPT PPN dengan Konsep Delta</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta.png" alt="" class="wp-image-970" srcset="./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Dalam dunia perpajakan yang terus berkembang, perubahan sistem dan prosedur administrasi menjadi hal yang tidak bisa dihindari. Setiap pelaku usaha maupun profesional dituntut untuk selalu memahami aturan terbaru agar dapat menjaga kepatuhan dan mengoptimalkan hak-hak perpajakan yang dimiliki. Salah satu konsep yang kini menjadi sorotan penting, khususnya pada masa sebelum penerapan penuh sistem Coretax DJP, adalah konsep <strong>delta</strong> dalam pembetulan SPT Masa PPN.</p>
+
+
+
+<p>Sayangnya, banyak Wajib Pajak yang belum memahami sepenuhnya bagaimana cara menerapkan konsep ini dengan benar. Kesalahan teknis dalam pengisian SPT pembetulan dapat berakibat langsung pada hilangnya hak kompensasi lebih bayar yang seharusnya bisa dimanfaatkan untuk periode pajak berikutnya. Artikel ini akan mengulas secara komprehensif penerapan konsep delta, kesalahan umum yang harus dihindari, hingga tips praktis untuk memastikan kompensasi lebih bayar tetap tercatat optimal.</p>
+
+
+
+<h2 class="wp-block-heading">Memahami Konsep Delta dalam Pembetulan SPT PPN</h2>
+
+
+
+<p>Konsep delta adalah metode pelaporan pembetulan yang hanya memasukkan selisih atau perbedaan nilai dari SPT sebelumnya, bukan mengganti seluruh angka yang pernah dilaporkan. Dengan kata lain, delta mencerminkan perubahan yang terjadi akibat pembetulan, bukan total nilai baru.</p>
+
+
+
+<p>Pada masa sebelum Desember 2024, sistem Coretax DJP memproses pembetulan berdasarkan delta. Artinya, untuk memastikan kompensasi lebih bayar dapat dimigrasikan ke sistem Coretax, Wajib Pajak harus:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Mempertahankan nilai pada Bagian II.E</strong> sesuai dengan SPT awal.</li>
+
+
+
+<li><strong>Mengisi Bagian II.F</strong> dengan selisih (delta) hasil koreksi.</li>
+</ul>
+
+
+
+<p>Jika nilai Bagian II.E diubah menjadi nol atau diganti seluruhnya, sistem akan menganggap tidak ada kompensasi sebelumnya, sehingga tambahan kompensasi tidak tercatat.</p>
+
+
+
+<h2 class="wp-block-heading">Pentingnya Penerapan Konsep Delta di Era Coretax</h2>
+
+
+
+<p>Coretax hadir dengan tujuan mempermudah administrasi pajak, termasuk pencatatan kompensasi lebih bayar secara otomatis. Namun, keunggulan ini hanya akan berjalan optimal jika format pengisian sesuai prosedur.</p>
+
+
+
+<p>Mengabaikan konsep delta dapat menyebabkan:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>Hak kompensasi hilang</strong> karena sistem tidak membaca adanya tambahan kompensasi.</li>
+
+
+
+<li><strong>Proses administrasi menjadi lambat</strong> akibat perlunya pengajuan tiket atau perbaikan manual.</li>
+
+
+
+<li><strong>Beban administrasi meningkat</strong> untuk perusahaan yang memiliki volume transaksi besar.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Kesalahan Umum yang Sering Terjadi</h2>
+
+
+
+<p>Berikut adalah beberapa kesalahan umum dalam pembetulan SPT Masa PPN sebelum Coretax:</p>
+
+
+
+<h3 class="wp-block-heading">1. Mengosongkan Nilai Bagian II.E</h3>
+
+
+
+<p>Banyak yang beranggapan nilai ini harus dikosongkan saat pembetulan. Padahal, tindakan ini membuat sistem mengira tidak ada kompensasi sebelumnya.</p>
+
+
+
+<h3 class="wp-block-heading">2. Tidak Mengisi Selisih di Bagian II.F</h3>
+
+
+
+<p>Bagian ini wajib diisi dengan angka delta. Jika dibiarkan kosong, sistem menganggap tidak ada perubahan dari SPT awal.</p>
+
+
+
+<h3 class="wp-block-heading">3. Tidak Mengetahui Prosedur Pemulihan</h3>
+
+
+
+<p>Bila terjadi kesalahan, Wajib Pajak dapat mengajukan tiket melalui <strong>Aplikasi Melati</strong>, <strong><a href="https://pajak.go.id/id/berita/ingin-perubahan-data-wajib-pajak-bisa-telepon-atau-chat">Live Chat DJP</a></strong>, atau langsung ke <strong>KPP</strong>. Namun, keterlambatan dalam melakukan perbaikan dapat menghambat proses klaim kompensasi.</p>
+
+
+
+<h2 class="wp-block-heading">Contoh Perhitungan Penerapan Konsep Delta</h2>
+
+
+
+<p>Misalnya, pada SPT awal Masa PPN November 2024, dilaporkan PPN lebih bayar sebesar <strong>Rp15.000.000</strong>. Setelah pengecekan, ditemukan faktur pajak masukan tambahan senilai <strong>Rp3.000.000</strong> yang belum dikreditkan.</p>
+
+
+
+<p>Maka dalam SPT Pembetulan:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Bagian II.E</strong>: tetap diisi <strong>Rp15.000.000</strong> (nilai dari SPT awal).</li>
+
+
+
+<li><strong>Bagian II.F</strong>: diisi <strong>Rp3.000.000</strong> (selisih tambahan dari koreksi).</li>
+</ul>
+
+
+
+<p>Dengan format ini, sistem Coretax akan menambahkan kompensasi sebesar Rp3.000.000 ke akun pajak Anda.</p>
+
+
+
+<h2 class="wp-block-heading">Tips Praktis Agar Pembetulan Sesuai Konsep Delta</h2>
+
+
+
+<ul class="wp-block-list">
+<li>Simpan arsip SPT awal sebelum melakukan pembetulan.</li>
+
+
+
+<li>Lakukan pengecekan menyeluruh atas seluruh faktur pajak masukan dan keluaran.</li>
+
+
+
+<li>Gunakan format e-SPT yang sesuai ketentuan terbaru.</li>
+
+
+
+<li>Isi Bagian II.E dan II.F dengan cermat sesuai panduan konsep delta.</li>
+
+
+
+<li>Gunakan jasa profesional untuk menghindari kesalahan teknis.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Pentingnya Menggandeng Konsultan Pajak Profesional</h2>
+
+
+
+<p>Bagi Wajib Pajak yang ingin memastikan setiap langkah pembetulan berjalan sesuai aturan, menggandeng konsultan pajak profesional adalah langkah strategis. Tidak hanya membantu dalam teknis pelaporan, konsultan pajak juga mampu memberikan arahan perencanaan jangka panjang.</p>
+
+
+
+<p>Di wilayah Jawa Tengah, khususnya bagi pelaku usaha yang membutuhkan <strong><a href="https://isbconsultant.com/konsultan-pajak-semarang/">konsultan perencanaan pajak terpercaya</a></strong>, Trust Tax Consultant di Semarang dapat menjadi mitra yang tepat. Dengan tim berpengalaman dan pemahaman mendalam terhadap regulasi terbaru, mereka dapat memastikan pembetulan SPT PPN sesuai konsep delta dan hak kompensasi lebih bayar Anda tercatat optimal.</p>
+
+
+
+<h2 class="wp-block-heading">Langkah yang Harus Dilakukan Jika Kompensasi Tidak Muncul</h2>
+
+
+
+<p>Jika kompensasi tidak muncul setelah pembetulan, langkah yang dapat diambil antara lain:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>Tunggu Proses Migrasi</strong>: DJP memerlukan waktu untuk memproses data pembetulan.</li>
+
+
+
+<li><strong>Ajukan Tiket Resmi</strong>: Jika setelah 5 hari kerja belum ada perubahan, segera ajukan tiket melalui Melati, Live Chat DJP, atau langsung ke KPP.</li>
+</ol>
+
+
+
+<p>Penerapan konsep delta dalam pembetulan SPT Masa PPN bukan sekadar teknis pelaporan, tetapi juga strategi untuk menjaga hak-hak perpajakan. Kesalahan dalam memahami atau mengisi format dapat berujung pada hilangnya kompensasi yang berharga bagi arus kas perusahaan.</p>
+
+
+
+<p>Dengan mengikuti prosedur yang tepat dan, jika perlu, menggandeng konsultan pajak profesional, Wajib Pajak dapat meminimalkan risiko kesalahan sekaligus memastikan kepatuhan penuh terhadap regulasi DJP. Langkah ini bukan hanya menguntungkan secara finansial, tetapi juga membangun reputasi bisnis yang patuh dan terpercaya.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/lapor-spt-secara-manual">Apakah Masih Bisa Lapor SPT Secara Manual? Ini Penjelasannya</a></strong></p>
+<p>The post <a href="./../../cara-hindari-kesalahan-pembetulan-spt-ppn-dengan-konsep-delta.html">Cara Hindari Kesalahan Pembetulan SPT PPN dengan Konsep Delta</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Daftar Satuan Ukur BKP &#038; JKP e-Faktur Coretax &#038; Cara Penggunaannya</title>
+		<link>./../../daftar-satuan-ukur-bkp-jkp-e-faktur-coretax.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2025 06:38:44 +0000</pubDate>
+				<category><![CDATA[Umum]]></category>
+		<category><![CDATA[administrasi pajak]]></category>
+		<category><![CDATA[coretax]]></category>
+		<guid isPermaLink="false">./../../index.html?p=966</guid>
+
+					<description><![CDATA[<p>Transformasi digital di bidang perpajakan membawa dampak signifikan terhadap cara pelaporan dan pemungutan Pajak Pertambahan Nilai (PPN) di Indonesia. Dengan [&#8230;]</p>
+<p>The post <a href="./../../daftar-satuan-ukur-bkp-jkp-e-faktur-coretax.html">Daftar Satuan Ukur BKP &amp; JKP e-Faktur Coretax &amp; Cara Penggunaannya</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Daftar-Satuan-Ukur-untuk-BKP-JKP-pada-e-Faktur-Coretax.png" alt="" class="wp-image-967" srcset="./../../wp-content/uploads/2025/08/Daftar-Satuan-Ukur-untuk-BKP-JKP-pada-e-Faktur-Coretax.png 1024w, ./../../wp-content/uploads/2025/08/Daftar-Satuan-Ukur-untuk-BKP-JKP-pada-e-Faktur-Coretax-300x210.png 300w, ./../../wp-content/uploads/2025/08/Daftar-Satuan-Ukur-untuk-BKP-JKP-pada-e-Faktur-Coretax-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Transformasi digital di bidang perpajakan membawa dampak signifikan terhadap cara pelaporan dan pemungutan Pajak Pertambahan Nilai (PPN) di Indonesia. Dengan hadirnya sistem e-Faktur yang terintegrasi dalam Coretax Direktorat Jenderal Pajak (DJP), setiap Pengusaha Kena Pajak (PKP) dituntut untuk semakin cermat, akurat, dan patuh dalam menyusun faktur pajak. Salah satu aspek yang sering terabaikan namun sangat menentukan kelancaran administrasi adalah penggunaan standar satuan ukur yang tepat.</p>
+
+
+
+<p>Sering kali, kendala dalam pelaporan pajak bukan terletak pada besaran pajak itu sendiri, tetapi pada kesalahan administratif seperti penggunaan satuan ukur yang tidak sesuai. Hal ini dapat menyebabkan penolakan faktur, selisih perhitungan, hingga sanksi administratif. Oleh karena itu, memahami dan menerapkan satuan ukur yang berlaku di Coretax menjadi langkah strategis bagi PKP agar terhindar dari masalah dan dapat menjaga integritas data perpajakan.</p>
+
+
+
+<h2 class="wp-block-heading">Pentingnya Standar Satuan Ukur Penting dalam e-Faktur</h2>
+
+
+
+<p>Standar satuan ukur bukan sekadar aturan administratif. Ia berfungsi sebagai pedoman agar setiap transaksi tercatat secara seragam, terukur, dan dapat diaudit dengan mudah oleh DJP. Dengan adanya standarisasi, data dari seluruh PKP dapat diolah secara agregat untuk keperluan evaluasi dan pengawasan fiskal.</p>
+
+
+
+<p>Kesalahan dalam memilih satuan ukur berpotensi memicu:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Perbedaan antara data penjual dan pembeli.</li>
+
+
+
+<li>Ketidakcocokan dalam perhitungan Dasar Pengenaan Pajak (DPP) dan PPN.</li>
+
+
+
+<li>Risiko penolakan faktur oleh sistem.</li>
+
+
+
+<li>Potensi sanksi administratif.</li>
+</ul>
+
+
+
+<p>Dengan memahami daftar resmi satuan ukur, PKP tidak hanya menghindari masalah teknis, tetapi juga mempercepat proses pembuatan faktur dan memastikan data yang dilaporkan akurat.</p>
+
+
+
+<h2 class="wp-block-heading">Daftar Satuan Ukur untuk Barang Kena Pajak (BKP)</h2>
+
+
+
+<p>BKP diukur berdasarkan bentuk fisik atau sifat barang yang diperdagangkan. Coretax DJP telah menetapkan daftar resmi yang dapat dipilih, antara lain:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Ampere</li>
+
+
+
+<li>Barrel</li>
+
+
+
+<li>Box / Boks</li>
+
+
+
+<li>Drum</li>
+
+
+
+<li>Gram</li>
+
+
+
+<li>Inch / Inci</li>
+
+
+
+<li>Carat / Karat</li>
+
+
+
+<li>Carton / Karton</li>
+
+
+
+<li>Kilogram</li>
+
+
+
+<li>Kiloliter</li>
+
+
+
+<li>Lembar / Sheet</li>
+
+
+
+<li>Liter</li>
+
+
+
+<li>Lusin / Dozen</li>
+
+
+
+<li>MMBTU</li>
+
+
+
+<li>Meter</li>
+
+
+
+<li>Meter Persegi / Square Meter</li>
+
+
+
+<li>Metric Ton / Ton Metrik</li>
+
+
+
+<li>Piece</li>
+
+
+
+<li>Sentimeter / Centimeter</li>
+
+
+
+<li>Sentimeter Kubik / Cubic Centimeter</li>
+
+
+
+<li>Set</li>
+
+
+
+<li>Unit</li>
+
+
+
+<li>Wet Ton</li>
+
+
+
+<li>Yard</li>
+
+
+
+<li>Lainnya (dengan deskripsi tambahan di faktur)</li>
+</ul>
+
+
+
+<p>Penggunaan satuan &#8220;Lainnya&#8221; sebaiknya menjadi opsi terakhir dan wajib dilengkapi keterangan jelas untuk menghindari kebingungan pihak pembeli maupun auditor.</p>
+
+
+
+<h2 class="wp-block-heading">Daftar Satuan Ukur untuk Jasa Kena Pajak (JKP)</h2>
+
+
+
+<p>JKP memiliki karakteristik berbeda dari BKP, karena tidak berwujud barang fisik. Satuan ukur untuk JKP biasanya berbasis hasil kerja atau periode waktu, seperti:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Bahan / Material</li>
+
+
+
+<li>Bulan / Month</li>
+
+
+
+<li>Hari / Day</li>
+
+
+
+<li>Jam / Hour</li>
+
+
+
+<li>Kegiatan / Activities</li>
+
+
+
+<li>Laporan / Report</li>
+
+
+
+<li>Menit / Minute</li>
+
+
+
+<li>Minggu / Week</li>
+
+
+
+<li>Persen / Percent</li>
+
+
+
+<li>Tahun / Year</li>
+
+
+
+<li>Lainnya (dengan penjelasan tambahan di faktur)</li>
+</ul>
+
+
+
+<p>Pemilihan satuan yang tepat membantu DJP memahami nilai jasa yang diberikan dan mempermudah proses pembukuan bagi PKP.</p>
+
+
+
+<h2 class="wp-block-heading">Contoh Penerapan Satuan Ukur pada Faktur Pajak</h2>
+
+
+
+<p>Sebagai ilustrasi, berikut contoh transaksi yang sesuai dengan standar Coretax:</p>
+
+
+
+<p>Sebuah perusahaan furnitur menjual 120 unit kursi kantor kepada distributor. Harga per unit adalah Rp850.000.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Kuantitas: 120</li>
+
+
+
+<li>Satuan: Unit</li>
+
+
+
+<li>Harga Satuan: Rp850.000</li>
+
+
+
+<li>Jumlah DPP: 120 x Rp850.000 = Rp102.000.000</li>
+
+
+
+<li>PPN 11%: Rp11.220.000</li>
+
+
+
+<li>Total Tagihan: Rp113.220.000</li>
+</ul>
+
+
+
+<p>Penggunaan satuan &#8220;Unit&#8221; dalam transaksi ini jelas dan sesuai dengan daftar resmi, sehingga menghindari risiko penolakan oleh sistem.</p>
+
+
+
+<h2 class="wp-block-heading">Risiko Mengabaikan Standar Satuan Ukur</h2>
+
+
+
+<p>Mengabaikan aturan ini bukan hanya kesalahan administratif, tetapi juga bisa berdampak langsung pada operasional bisnis. Beberapa risikonya meliputi:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Penolakan faktur oleh e-Faktur.</li>
+
+
+
+<li>Perbedaan pencatatan antara penjual dan pembeli.</li>
+
+
+
+<li>Kesalahan perhitungan pajak.</li>
+
+
+
+<li>Pemeriksaan tambahan atau audit oleh DJP.</li>
+</ul>
+
+
+
+<p>Risiko-risiko tersebut bisa dihindari dengan disiplin menggunakan satuan ukur yang berlaku dan melakukan pengecekan sebelum faktur diterbitkan.</p>
+
+
+
+<h2 class="wp-block-heading">Peran Konsultan Pajak dalam Memastikan Kepatuhan</h2>
+
+
+
+<p>Tidak semua pelaku usaha memiliki waktu dan sumber daya untuk memahami detail teknis Coretax. Di sinilah peran konsultan pajak menjadi penting. Mereka tidak hanya membantu dalam pelaporan, tetapi juga memastikan setiap faktur sesuai ketentuan.</p>
+
+
+
+<p>Bagi pelaku usaha di Jawa Timur yang membutuhkan bimbingan profesional, memilih <strong><a href="https://trusttaxconsultant.id/">konsultan pajak terpercaya di Surabaya</a></strong> dari TTC dapat menjadi langkah strategis. Dengan pemahaman mendalam tentang regulasi perpajakan dan pengalaman dalam mengelola administrasi PPN, Trust Tax Consultant mampu membantu bisnis Anda tetap patuh, efisien, dan terhindar dari risiko sanksi.</p>
+
+
+
+<h2 class="wp-block-heading">Tips Mengelola Satuan Ukur di Coretax</h2>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>Pelajari Daftar Resmi</strong>: Pahami satuan ukur yang tersedia di Coretax sesuai jenis barang/jasa Anda.</li>
+
+
+
+<li><strong>Gunakan Satuan yang Relevan</strong>: Hindari penggunaan &#8220;Lainnya&#8221; jika sudah ada satuan resmi yang sesuai.</li>
+
+
+
+<li><strong>Berikan Deskripsi Detail</strong>: Jika terpaksa menggunakan &#8220;Lainnya&#8221;, tulis keterangan yang jelas di kolom deskripsi.</li>
+
+
+
+<li><strong>Lakukan Pengecekan Rutin</strong>: Perbarui informasi satuan ukur jika ada perubahan pada sistem atau produk.</li>
+
+
+
+<li><strong>Gunakan Jasa Profesional</strong>: Pertimbangkan bekerja sama dengan konsultan pajak berpengalaman untuk meminimalkan risiko.</li>
+</ol>
+
+
+
+<p>Standar satuan ukur dalam Coretax DJP bukanlah sekadar formalitas, tetapi bagian penting dari kepatuhan pajak yang berdampak langsung pada kelancaran administrasi dan kesehatan finansial perusahaan. Dengan memahami dan menerapkan satuan ukur yang benar, PKP dapat menghindari penolakan faktur, meminimalkan kesalahan perhitungan, dan mendukung transparansi data perpajakan.</p>
+
+
+
+<p>Bagi pelaku usaha, khususnya yang ingin fokus pada pengembangan bisnis, menggandeng konsultan pajak profesional adalah solusi bijak untuk memastikan seluruh proses administrasi berjalan lancar dan sesuai ketentuan.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/cara-top-up-deposit-pajak-di-coretax.html">Cara Top-Up Deposit Pajak di Coretax, Praktis &amp; Mudah!</a></strong></p>
+
+
+
+<p><a href="https://trusttaxconsultant.id/cara-top-up-deposit-pajak-di-coretax.html"></a></p>
+
+
+
+<p><a href="https://trusttaxconsultant.id/cara-top-up-deposit-pajak-di-coretax.html"></a></p>
+<p>The post <a href="./../../daftar-satuan-ukur-bkp-jkp-e-faktur-coretax.html">Daftar Satuan Ukur BKP &amp; JKP e-Faktur Coretax &amp; Cara Penggunaannya</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pemerintah Bebaskan PPN Kripto, Ini Peluang dan Tantangannya!</title>
+		<link>./../../pemerintah-bebaskan-ppn-kripto.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 10 Aug 2025 06:28:43 +0000</pubDate>
+				<category><![CDATA[PPN]]></category>
+		<category><![CDATA[administrasi pajak]]></category>
+		<guid isPermaLink="false">./../../index.html?p=963</guid>
+
+					<description><![CDATA[<p>Transformasi kebijakan fiskal di Indonesia kembali menunjukkan arah baru yang lebih adaptif terhadap perkembangan ekonomi digital. Mulai 1 Agustus 2025, [&#8230;]</p>
+<p>The post <a href="./../../pemerintah-bebaskan-ppn-kripto.html">Pemerintah Bebaskan PPN Kripto, Ini Peluang dan Tantangannya!</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Pemerintah-Bebaskan-PPN-Kripto.png" alt="" class="wp-image-964" srcset="./../../wp-content/uploads/2025/08/Pemerintah-Bebaskan-PPN-Kripto.png 1024w, ./../../wp-content/uploads/2025/08/Pemerintah-Bebaskan-PPN-Kripto-300x210.png 300w, ./../../wp-content/uploads/2025/08/Pemerintah-Bebaskan-PPN-Kripto-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Transformasi kebijakan fiskal di Indonesia kembali menunjukkan arah baru yang lebih adaptif terhadap perkembangan ekonomi digital. Mulai 1 Agustus 2025, pemerintah resmi menghapus Pajak Pertambahan Nilai (PPN) atas transaksi aset kripto, sebagaimana tertuang dalam Peraturan Menteri Keuangan (PMK) Nomor 53 Tahun 2025. Langkah ini menandai babak baru bagi industri aset digital di Tanah Air dan memberikan sinyal kuat mengenai pengakuan aset kripto sebagai bagian dari ekosistem keuangan nasional.</p>
+
+
+
+<p>Bagi pelaku usaha, investor individu, hingga perusahaan berbasis blockchain, kebijakan ini merupakan dorongan positif. Namun, penghapusan PPN bukan berarti seluruh kewajiban pajak pada sektor ini hilang. Wajib pajak tetap perlu memahami secara detail ketentuan yang berlaku agar terhindar dari kesalahan pelaporan dan potensi sanksi administratif.</p>
+
+
+
+<h2 class="wp-block-heading">Latar Belakang PMK 53/2025</h2>
+
+
+
+<p>PMK 53/2025 merupakan revisi dari PMK 11/2025 yang mengatur ulang dasar pengenaan PPN pada berbagai aktivitas ekonomi. Perubahan paling menonjol adalah dihapusnya pasal-pasal yang selama ini menjadi dasar pemungutan PPN atas transaksi aset kripto, baik untuk penjualan, pembelian, maupun kegiatan penambangan.</p>
+
+
+
+<p>Langkah ini sejalan dengan upaya pemerintah dalam menyelaraskan kebijakan fiskal dengan perkembangan industri digital yang dinamis. Di masa lalu, transaksi aset kripto dikenakan PPN dengan tarif efektif tertentu yang dihitung berdasarkan jenis transaksi dan pihak penyelenggara. Kini, perlakuan pajak terhadap kripto menjadi lebih selaras dengan instrumen pasar modal seperti saham dan obligasi.</p>
+
+
+
+<h2 class="wp-block-heading">Perubahan Penting yang Dibawa PMK 53/2025</h2>
+
+
+
+<p>Beberapa poin penting dalam kebijakan baru ini meliputi:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>Penghapusan PPN untuk Transaksi Kripto</strong><br>Seluruh transaksi kripto yang sebelumnya diatur dalam <strong><a href="https://www.pajak.go.id/id/peraturan/perubahan-atas-peraturan-menteri-keuangan-nomor-11-tahun-2025-tentang-ketentuan-nilai" target="_blank" rel="noreferrer noopener nofollow">Pasal 343 dan 354 PMK 11/2025</a></strong> kini bebas dari PPN. Baik transaksi melalui pedagang fisik aset kripto (PFAK) maupun non-PFAK, termasuk penambangan dan penerimaan block reward, tidak lagi menjadi objek PPN.</li>
+
+
+
+<li><strong>PPh Pasal 22 Final Tetap Berlaku</strong><br>Meskipun PPN dihapus, pajak penghasilan (PPh) tetap dikenakan sesuai ketentuan PMK 50/2025. Artinya, pelaku pasar aset digital wajib melaporkan dan menyetor PPh secara benar.</li>
+
+
+
+<li><strong>Sektor Lain Tetap Terkena PPN</strong><br>Agen asuransi, pialang asuransi, dan kegiatan membangun sendiri masih terikat pada ketentuan PPN berdasarkan nilai lain yang diatur dalam PMK 53/2025.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">PPN untuk Agen dan Pialang Asuransi</h2>
+
+
+
+<p>Walaupun sektor kripto mendapat keringanan, agen dan pialang asuransi tetap wajib memungut PPN dengan mekanisme perhitungan tertentu.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Agen Asuransi</strong>: Besaran tertentu adalah 10% x 11/12 dari tarif PPN dikalikan komisi atau imbalan.</li>
+
+
+
+<li><strong>Pialang Asuransi dan Reasuransi</strong>: Besaran tertentu adalah 20% x 11/12 dari tarif PPN dikalikan komisi atau imbalan.</li>
+</ul>
+
+
+
+<p><strong>Contoh Penghitungan Baru</strong>:<br>Jika seorang agen asuransi menerima komisi Rp150 juta, maka PPN terutang dihitung sebagai:</p>
+
+
+
+<p>10% x 11/12 x 12% x Rp150.000.000 = Rp1.650.000</p>
+
+
+
+<h2 class="wp-block-heading">PPN atas Kegiatan Membangun Sendiri</h2>
+
+
+
+<p>PMK 53/2025 tetap mempertahankan kewajiban PPN untuk kegiatan membangun sendiri. Kegiatan ini mencakup pembangunan gedung atau bangunan oleh orang pribadi atau badan yang digunakan sendiri, bukan untuk dijual.</p>
+
+
+
+<p><strong>Contoh Penghitungan Baru</strong>:<br>Jika seseorang membangun rumah pribadi dengan biaya konstruksi Rp1 miliar (tidak termasuk tanah), maka PPN terutang adalah:</p>
+
+
+
+<p>20% x 11/12 x 12% x Rp1.000.000.000 = Rp22.000.000</p>
+
+
+
+<h2 class="wp-block-heading">Pentingnya Kepatuhan Pajak di Era Digital</h2>
+
+
+
+<p>Perubahan kebijakan pajak seperti ini menuntut pelaku usaha untuk memahami aturan secara menyeluruh. Kesalahan interpretasi bisa berujung pada denda atau sanksi administratif yang tidak diinginkan. Itulah mengapa menggunakan jasa konsultan pajak menjadi langkah strategis.</p>
+
+
+
+<p>Bagi pelaku usaha yang beroperasi di Surabaya, mendapatkan panduan dari <strong><a href="https://trusttaxconsultant.id/">konsultan pajak Surabaya terpercaya</a></strong> atau Trust Tax Consultant dapat membantu memastikan kepatuhan pajak tetap terjaga. Dengan pengalaman dan pemahaman mendalam terhadap regulasi terbaru, layanan profesional ini dapat menjadi mitra strategis untuk mengelola kewajiban pajak secara efektif.</p>
+
+
+
+<h2 class="wp-block-heading">Dampak Ekonomi dan Investasi</h2>
+
+
+
+<p>Penghapusan PPN atas aset kripto diyakini dapat:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Meningkatkan minat investor domestik dan asing.</li>
+
+
+
+<li>Menurunkan biaya transaksi kripto di Indonesia.</li>
+
+
+
+<li>Memperkuat posisi Indonesia dalam ekosistem ekonomi digital global.</li>
+
+
+
+<li>Mendorong pertumbuhan ekosistem blockchain di berbagai sektor.</li>
+</ul>
+
+
+
+<p>Namun, tantangan tetap ada, terutama dalam pengawasan transaksi lintas batas yang kompleks dan rawan penyalahgunaan.</p>
+
+
+
+<h2 class="wp-block-heading">Strategi Menghadapi Perubahan</h2>
+
+
+
+<p>Untuk menghadapi perubahan ini, pelaku usaha dan investor dapat:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Memperbarui sistem pencatatan transaksi sesuai regulasi baru.</li>
+
+
+
+<li>Mengkaji ulang strategi pajak agar tetap efisien.</li>
+
+
+
+<li>Menggunakan jasa konsultan pajak untuk mendapatkan pendampingan profesional.</li>
+
+
+
+<li>Meningkatkan literasi pajak di internal perusahaan.</li>
+</ul>
+
+
+
+<p>PMK 53/2025 adalah tonggak penting dalam evolusi regulasi perpajakan Indonesia. Penghapusan PPN untuk aset kripto membuka peluang pertumbuhan industri digital sekaligus mendorong daya saing global. Meski demikian, kewajiban pajak lain seperti PPh tetap berlaku, dan sektor-sektor tertentu masih terikat PPN.</p>
+
+
+
+<p>Memahami ketentuan ini secara menyeluruh serta bekerja sama dengan konsultan pajak profesional adalah langkah bijak untuk menghindari risiko dan memaksimalkan potensi keuntungan di era ekonomi digital yang terus berkembang.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/cara-menghitung-ppn-pph-dari-transaksi-pemerintah.html">Cara Hitung PPN &amp; PPh dari Transaksi Pemerintah</a></strong></p>
+<p>The post <a href="./../../pemerintah-bebaskan-ppn-kripto.html">Pemerintah Bebaskan PPN Kripto, Ini Peluang dan Tantangannya!</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PMK 44 Tahun 2025: Insentif Bebas PPN untuk Operasi Militer</title>
+		<link>./../../pmk-44-tahun-2025.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2025 04:46:54 +0000</pubDate>
+				<category><![CDATA[Umum]]></category>
+		<category><![CDATA[administrasi pajak]]></category>
+		<category><![CDATA[Pengusaha Kena Pajak (PKP)]]></category>
+		<guid isPermaLink="false">./../../index.html?p=959</guid>
+
+					<description><![CDATA[<p>Dalam dinamika pertahanan nasional yang terus berkembang, kecepatan dan efisiensi logistik menjadi faktor penentu keberhasilan misi militer. Menghadapi kebutuhan tersebut, [&#8230;]</p>
+<p>The post <a href="./../../pmk-44-tahun-2025.html">PMK 44 Tahun 2025: Insentif Bebas PPN untuk Operasi Militer</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Insentif-Bebas-PPN-untuk-Operasi-Militer.png" alt="" class="wp-image-960" srcset="./../../wp-content/uploads/2025/08/Insentif-Bebas-PPN-untuk-Operasi-Militer.png 1024w, ./../../wp-content/uploads/2025/08/Insentif-Bebas-PPN-untuk-Operasi-Militer-300x210.png 300w, ./../../wp-content/uploads/2025/08/Insentif-Bebas-PPN-untuk-Operasi-Militer-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Dalam dinamika pertahanan nasional yang terus berkembang, kecepatan dan efisiensi logistik menjadi faktor penentu keberhasilan misi militer. Menghadapi kebutuhan tersebut, pemerintah mengambil langkah sigap melalui kebijakan fiskal terbaru, yakni Peraturan Menteri Keuangan (PMK) Nomor 44 Tahun 2025.</p>
+
+
+
+<p>Regulasi ini bukan hanya respons terhadap kebutuhan strategis, tetapi juga peluang bagi pelaku usaha untuk berkontribusi langsung dalam pengadaan militer nasional tanpa terbebani pungutan Pajak Pertambahan Nilai (PPN).</p>
+
+
+
+<p>Mulai berlaku sejak 24 Juli 2025 hingga 31 Desember 2025, PMK 44/2025 memberikan insentif berupa pembebasan PPN atas penyerahan bekal khusus untuk operasi tertentu yang ditujukan kepada Tentara Nasional Indonesia (TNI) dan Kementerian Pertahanan (Kemenhan).</p>
+
+
+
+<p>Skema ini menunjukkan bagaimana sinergi antara fiskal dan pertahanan dapat menciptakan efisiensi sekaligus menjaga akuntabilitas keuangan negara.</p>
+
+
+
+<h2 class="wp-block-heading">Tujuan Strategis Diterbitkannya PMK 44/2025</h2>
+
+
+
+<p>PMK 44/2025 hadir sebagai dukungan nyata pemerintah terhadap kesiapsiagaan TNI dalam menghadapi situasi darurat maupun operasi militer khusus.</p>
+
+
+
+<p>Dengan menanggung PPN atas barang tertentu, negara meringankan beban pembiayaan sekaligus mempercepat proses pengadaan logistik strategis.</p>
+
+
+
+<p>Tujuan utama regulasi ini meliputi:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Meningkatkan efisiensi logistik pertahanan nasional</li>
+
+
+
+<li>Mempercepat pemenuhan kebutuhan operasional TNI</li>
+
+
+
+<li>Memberi insentif fiskal bagi pelaku usaha dalam pengadaan strategis</li>
+
+
+
+<li>Menjamin kepastian hukum bagi Pengusaha Kena Pajak (PKP) yang terlibat dalam penyediaan barang</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Ruang Lingkup Barang Bekal Khusus yang Dibebaskan PPN-nya</h2>
+
+
+
+<p>PMK 44/2025 menetapkan tiga jenis utama barang yang termasuk dalam kategori bekal khusus untuk keperluan operasi TNI dan Kemenhan:</p>
+
+
+
+<h3 class="wp-block-heading">1. Bekal Kesehatan</h3>
+
+
+
+<p>Barang-barang ini dirancang untuk memastikan keselamatan dan kesiapan medis pasukan dalam operasi, antara lain:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Peralatan pertolongan pertama (tourniquet auto-lock, chest seal, perban elastis tekan)</li>
+
+
+
+<li>Alat diagnosis dan resusitasi (defibrillator otomatis, stetoskop digital)</li>
+
+
+
+<li>Evakuasi dan imobilisasi (tandu cepat lipat, compact fractured support)</li>
+
+
+
+<li>Airway kit dan alat suction portabel</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">2. Peralatan Rumah Sakit Lapangan</h3>
+
+
+
+<p>Fasilitas medis portabel yang bisa segera dioperasikan di medan tempur:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Tenda EMXL dan sistem tenda medis TMS-54</li>
+
+
+
+<li>Rigid flooring dan sistem sirkulasi udara lapangan</li>
+
+
+
+<li>Perangkat kelistrikan modular</li>
+
+
+
+<li>Mesin ultrasound portabel dan AI-based resuscitation tools</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">3. Ransum Khusus Operasi</h3>
+
+
+
+<p>Untuk menunjang stamina dan kebutuhan nutrisi prajurit selama operasi:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Paket makanan siap saji (MRE) versi taktis</li>
+
+
+
+<li>Suplemen energi dan imunisasi lapangan</li>
+
+
+
+<li>Lauk siap saji dalam kemasan aluminium tahan panas</li>
+
+
+
+<li>Tactical food warmer kits</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Ketentuan Administratif bagi PKP</h2>
+
+
+
+<p>Agar pembebasan PPN dapat diterapkan secara sah, Pengusaha Kena Pajak (PKP) wajib memenuhi ketentuan administratif yang diatur dalam Pasal 5 PMK 44/2025:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Pembuatan Faktur Pajak</strong> dengan keterangan: &#8220;PPN DITANGGUNG PEMERINTAH BERDASARKAN PMK NOMOR 44 TAHUN 2025&#8221;</li>
+
+
+
+<li><strong>Penyampaian Laporan Realisasi PPN DTP</strong> dalam SPT Masa PPN</li>
+
+
+
+<li><strong>Pencantuman Keterangan Tambahan</strong> pada kolom referensi jika e-Faktur belum menyediakan kolom khusus</li>
+</ul>
+
+
+
+<p>Kelalaian dalam pemenuhan ketentuan di atas akan menyebabkan PPN menjadi tanggungan PKP dan tidak bisa diklaim sebagai insentif.</p>
+
+
+
+<h2 class="wp-block-heading">Batasan dan Syarat Fasilitas Pembebasan PPN</h2>
+
+
+
+<p>Tidak semua penyerahan barang otomatis memperoleh fasilitas PPN ditanggung pemerintah. Terdapat beberapa batasan yang harus diperhatikan:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Barang harus sesuai dengan daftar bekal khusus dalam lampiran PMK 44/2025</li>
+
+
+
+<li>Transaksi dilakukan dalam rentang waktu 24 Juli hingga 31 Desember 2025</li>
+
+
+
+<li>Faktur Pajak dan laporan realisasi harus dibuat dan disampaikan dengan benar</li>
+
+
+
+<li>Tidak boleh ada PPN yang telah disetorkan terlebih dahulu ke kas negara</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Ilustrasi Perhitungan PPN Ditanggung Pemerintah</h2>
+
+
+
+<p>Contoh kasus:</p>
+
+
+
+<p>PT Nusantara Medika, PKP yang memproduksi 80 unit tandu lipat taktis senilai Rp500.000 per unit, melakukan penyerahan ke Kementerian Pertahanan pada 30 Agustus 2025. Total nilai barang adalah Rp40.000.000. PPN sebesar 11% adalah Rp4.400.000.</p>
+
+
+
+<p>Karena barang tersebut termasuk dalam kategori bekal kesehatan dan penyerahan dilakukan dalam jangka waktu yang ditentukan, maka PPN sebesar Rp4.400.000 akan ditanggung oleh pemerintah, <strong>asalkan seluruh persyaratan administratif telah terpenuhi dengan benar.</strong></p>
+
+
+
+<h2 class="wp-block-heading">Pentingnya Pendampingan Profesional dalam Penerapan PMK 44/2025</h2>
+
+
+
+<p>Memanfaatkan insentif perpajakan dari regulasi seperti PMK 44/2025 memang memberikan banyak keuntungan. Namun di sisi lain, proses administratif dan interpretasi teknis terhadap jenis barang dan waktu transaksi sering kali menjadi kendala bagi PKP. Hal ini menuntut ketelitian, pemahaman regulasi, serta kepatuhan dokumen.</p>
+
+
+
+<p>Untuk itulah <strong><a href="https://trusttaxconsultant.id/">pendampingan pelaporan pajak</a></strong> menjadi hal yang sangat penting. Terutama bagi pelaku usaha di Surabaya dan sekitarnya, bekerja sama dengan Trust Tax Consultant dapat menjadi solusi strategis dalam memastikan seluruh proses berjalan sesuai aturan tanpa risiko denda atau kehilangan hak insentif.</p>
+
+
+
+<p>Trust Tax Consultant menyediakan layanan konsultasi komprehensif untuk membantu Anda memahami rincian PMK 44/2025, menyusun faktur pajak dengan benar, serta memastikan pelaporan dilakukan tepat waktu dan akurat.</p>
+
+
+
+<h2 class="wp-block-heading">Kesimpulan</h2>
+
+
+
+<p>PMK 44/2025 adalah langkah konkret pemerintah dalam memperkuat pertahanan nasional dengan memberikan insentif fiskal kepada pelaku usaha yang mendukung operasi TNI.</p>
+
+
+
+<p>Dengan membebaskan PPN atas penyerahan bekal khusus, pemerintah tidak hanya menciptakan efisiensi pengadaan, tetapi juga membuka peluang sinergi antara sektor swasta dan pertahanan.</p>
+
+
+
+<p>Namun, regulasi ini menuntut pemahaman yang baik dan kepatuhan administratif yang tinggi. Mengabaikan detail kecil dapat berakibat pada hilangnya hak atas insentif. Oleh karena itu, dukungan dari konsultan pajak profesional sangat disarankan agar pelaku usaha dapat memaksimalkan manfaat dari regulasi ini tanpa risiko hukum.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/cara-menghitung-ppn-pph-dari-transaksi-pemerintah.html">Cara Menghitung PPN &amp; PPh dari Transaksi Pemerintah</a></strong></p>
+<p>The post <a href="./../../pmk-44-tahun-2025.html">PMK 44 Tahun 2025: Insentif Bebas PPN untuk Operasi Militer</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cara Hitung PPh 22 UMKM di Marketplace &#038; Pengecualiannya</title>
+		<link>./../../cara-hitung-pph-22-umkm-di-marketplace.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2025 04:33:58 +0000</pubDate>
+				<category><![CDATA[Pajak Penghasilan]]></category>
+		<category><![CDATA[PPh]]></category>
+		<category><![CDATA[PPh 22]]></category>
+		<guid isPermaLink="false">./../../index.html?p=956</guid>
+
+					<description><![CDATA[<p>Di era digital yang semakin berkembang pesat, cara masyarakat melakukan transaksi jual beli pun mengalami transformasi besar. Marketplace kini bukan [&#8230;]</p>
+<p>The post <a href="./../../cara-hitung-pph-22-umkm-di-marketplace.html">Cara Hitung PPh 22 UMKM di Marketplace &amp; Pengecualiannya</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya.png" alt="" class="wp-image-957" srcset="./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Hitung-PPh-22-UMKM-di-Marketplace-Pengecualiannya-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Di era digital yang semakin berkembang pesat, cara masyarakat melakukan transaksi jual beli pun mengalami transformasi besar. Marketplace kini bukan lagi sekadar alternatif, melainkan menjadi sarana utama bagi banyak pelaku usaha untuk memasarkan produk dan jasanya secara luas, cepat, dan efisien.</p>
+
+
+
+<p>Namun, seiring dengan kemudahan tersebut, muncul pula kewajiban perpajakan baru yang harus dipatuhi oleh para pelaku usaha daring, salah satunya adalah Pajak Penghasilan (PPh) Pasal 22 yang kini diberlakukan atas transaksi di platform digital.</p>
+
+
+
+<p>Pemahaman mendalam mengenai PPh 22 ini sangat penting, khususnya bagi pelaku UMKM dan penjual online di marketplace. Kesalahan kecil seperti tidak menyampaikan surat pernyataan atau tidak memahami komponen yang dikenai pajak dapat menyebabkan beban pajak yang tidak perlu.</p>
+
+
+
+<p>Oleh karena itu, artikel ini akan mengulas studi kasus dan ketentuan perpajakan terkait pemungutan PPh 22 dalam lingkup marketplace secara komprehensif.</p>
+
+
+
+<h2 class="wp-block-heading">Definisi dan Dasar Hukum</h2>
+
+
+
+<p>PPh Pasal 22 merupakan pajak yang dipungut oleh badan-badan tertentu atas kegiatan perdagangan barang dan/atau jasa. Dalam konteks marketplace, platform digital seperti Tokopedia, Shopee, Bukalapak, dan lainnya ditunjuk sebagai pemungut pajak oleh Direktorat Jenderal Pajak (DJP) berdasarkan PMK No. 37 Tahun 2025.</p>
+
+
+
+<p>Marketplace wajib memungut pajak sebesar 0,5% dari Dasar Pengenaan Pajak (DPP), yang meliputi nilai transaksi atas barang dan jasa dalam negeri yang diperjualbelikan oleh para penjual atau penyedia layanan.</p>
+
+
+
+<h2 class="wp-block-heading">Pengecualian dan Ketentuan Khusus</h2>
+
+
+
+<p>Tidak semua transaksi langsung dikenai PPh 22. Beberapa ketentuan pengecualian dan keringanan diberlakukan untuk mendorong pertumbuhan UMKM, di antaranya:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Pengecualian bagi penjual dengan omzet tahunan di bawah Rp500 juta</strong>, selama menyampaikan <strong>Surat Pernyataan</strong> kepada marketplace.</li>
+
+
+
+<li><strong>Pemungutan tidak berlaku bagi transaksi dengan penjual luar negeri</strong>, apabila penjual tersebut menyertakan <strong>Surat Keterangan Domisili</strong> dari negaranya.</li>
+
+
+
+<li><strong>Jasa pengiriman dan asuransi</strong> yang ditagihkan dalam satu transaksi juga dapat dikenai PPh 22, asalkan disediakan oleh badan usaha dalam negeri.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Studi Kasus Penerapan PPh 22</h2>
+
+
+
+<p>Agar lebih mudah dipahami, berikut ini beberapa contoh kasus nyata dan terkini yang menggambarkan bagaimana pemungutan PPh 22 diterapkan oleh marketplace:</p>
+
+
+
+<h3 class="wp-block-heading">Kasus 1: Penjual Karya Seni Digital Tanpa Pemungutan Pajak</h3>
+
+
+
+<p><strong>Profil Penjual:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Nama: Ibu Alia</li>
+
+
+
+<li>Produk: Template presentasi PowerPoint</li>
+
+
+
+<li>Status: Wajib Pajak Orang Pribadi Dalam Negeri</li>
+
+
+
+<li>Platform: MarketVisio.id</li>
+</ul>
+
+
+
+<p><strong>Detail Transaksi:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Tanggal transaksi: 12 Juli 2025</li>
+
+
+
+<li>Nilai penjualan: Rp6.000.000</li>
+
+
+
+<li>Produk digital (tidak ada ongkos kirim)</li>
+
+
+
+<li>Surat Pernyataan: Sudah disampaikan</li>
+</ul>
+
+
+
+<p><strong>Skema Pajak:</strong> Karena omzet tahunan Ibu Alia belum melebihi Rp500 juta dan surat pernyataan telah disampaikan, maka pihak marketplace tidak melakukan pemungutan PPh 22.</p>
+
+
+
+<h3 class="wp-block-heading">Kasus 2: Penjual Tanpa Surat Pernyataan Dikenai PPh 22</h3>
+
+
+
+<p><strong>Profil Penjual:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Nama: Sdr. Fikri</li>
+
+
+
+<li>Produk: Pakaian anak</li>
+
+
+
+<li>Platform: NiagaOnline</li>
+</ul>
+
+
+
+<p><strong>Detail Transaksi:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Nilai barang: Rp900.000</li>
+
+
+
+<li>Ongkos kirim: Rp50.000 (oleh PT KirimAman)</li>
+
+
+
+<li>Surat Pernyataan: Tidak disampaikan</li>
+</ul>
+
+
+
+<p><strong>Perhitungan Pajak:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>PPh 22 atas barang: 0,5% x Rp900.000 = Rp4.500</li>
+
+
+
+<li>PPh 22 atas jasa kirim: 0,5% x Rp50.000 = Rp250</li>
+
+
+
+<li><strong>Total PPh 22 dipungut: Rp4.750</strong></li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Kasus 3: Penjual Badan Usaha Menjual Barang dan Jasa</h3>
+
+
+
+<p><strong>Profil Penjual:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Nama: PT Solusi Digital Cerdas</li>
+
+
+
+<li>Produk: Modul pelatihan daring dan perangkat lunak edukasi</li>
+
+
+
+<li>Platform: EduMarket.id</li>
+</ul>
+
+
+
+<p><strong>Detail Transaksi:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Harga perangkat lunak: Rp5.000.000</li>
+
+
+
+<li>Biaya pelatihan: Rp3.000.000</li>
+</ul>
+
+
+
+<p><strong>Perhitungan Pajak:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>PPh 22 atas barang: 0,5% x Rp5.000.000 = Rp25.000</li>
+
+
+
+<li>PPh 22 atas jasa: 0,5% x Rp3.000.000 = Rp15.000</li>
+
+
+
+<li><strong>Total PPh 22 dipungut: Rp40.000</strong></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Risiko Ketidakpatuhan dan Pentingnya Pendampingan Profesional</h2>
+
+
+
+<p>Banyak pelaku usaha online yang masih belum memahami sepenuhnya kewajiban PPh 22, terutama dalam hal menyampaikan surat pernyataan, mengklasifikasi objek pajak, atau menyusun bukti potong.</p>
+
+
+
+<p>Ketidaktahuan ini dapat menyebabkan pemungutan yang seharusnya tidak perlu, atau bahkan sanksi administratif karena dianggap tidak patuh.</p>
+
+
+
+<p>Untuk itu, pendampingan dari tenaga ahli sangat disarankan. Dalam hal ini, <strong><a href="https://trusttaxconsultant.id/konsultan-pajak-denpasar.html">konsultasi pajak</a></strong> bersama konsultan berpengalaman dari Trust Tax Consultant di Denpasar dapat memberikan solusi terbaik untuk memastikan semua kewajiban perpajakan Anda terpenuhi dengan benar, efisien, dan sesuai peraturan terbaru.</p>
+
+
+
+<h2 class="wp-block-heading">Tips Agar Patuh PPh 22 di Marketplace</h2>
+
+
+
+<p>Berikut adalah beberapa langkah strategis yang dapat dilakukan oleh penjual online:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>Sampaikan Surat Pernyataan secara berkala</strong> kepada pihak marketplace bila omzet tahunan Anda di bawah Rp500 juta.</li>
+
+
+
+<li><strong>Pisahkan transaksi barang dan jasa</strong>, agar bisa memverifikasi jumlah yang dikenai pemungutan pajak.</li>
+
+
+
+<li><strong>Simpan dan arsipkan bukti pemungutan PPh 22</strong> dari marketplace sebagai dokumen pajak.</li>
+
+
+
+<li><strong>Pahami objek pajak secara menyeluruh</strong>, termasuk jasa kirim dan asuransi bila ditagihkan oleh badan dalam negeri.</li>
+
+
+
+<li><strong>Libatkan konsultan pajak</strong> untuk review laporan dan perencanaan pajak tahunan Anda.</li>
+</ol>
+
+
+
+<p>Pengenaan PPh Pasal 22 atas transaksi di marketplace adalah bentuk adaptasi kebijakan fiskal Indonesia terhadap pola perdagangan modern. Meskipun terlihat sederhana, namun implementasinya membutuhkan pemahaman menyeluruh atas aturan yang berlaku. Penjual online wajib mengetahui batas omzet, skema pemungutan, serta perhitungan pajaknya agar tidak mengalami kerugian.</p>
+
+
+
+<p>Melalui edukasi dan kolaborasi dengan pihak profesional, pelaku usaha dapat menjalankan bisnis secara legal, aman, dan berkelanjutan dalam ekosistem digital yang semakin kompetitif.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/beda-pkp-dan-non-pkp.html">Beda PKP dan Non PKP, Mana Lebih Untung?</a></strong></p>
+<p>The post <a href="./../../cara-hitung-pph-22-umkm-di-marketplace.html">Cara Hitung PPh 22 UMKM di Marketplace &amp; Pengecualiannya</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cara Menghindari PPh Final Saat Menerima Warisan Properti</title>
+		<link>./../../cara-menghindari-pph-final-saat-menerima-warisan-properti.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2025 04:11:11 +0000</pubDate>
+				<category><![CDATA[Pajak Penghasilan]]></category>
+		<category><![CDATA[PPh]]></category>
+		<guid isPermaLink="false">./../../index.html?p=953</guid>
+
+					<description><![CDATA[<p>Mengurus perpindahan hak atas tanah atau bangunan karena warisan tidak hanya menuntut kelengkapan dokumen perdata, tetapi juga pemahaman mendalam atas [&#8230;]</p>
+<p>The post <a href="./../../cara-menghindari-pph-final-saat-menerima-warisan-properti.html">Cara Menghindari PPh Final Saat Menerima Warisan Properti</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti.png" alt="" class="wp-image-954" srcset="./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Menghindari-PPh-Final-Saat-Menerima-Warisan-Properti-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Mengurus perpindahan hak atas tanah atau bangunan karena warisan tidak hanya menuntut kelengkapan dokumen perdata, tetapi juga pemahaman mendalam atas ketentuan perpajakan.</p>
+
+
+
+<p>Di sinilah banyak ahli waris menemui hambatan. Meskipun warisan bukan objek Pajak Penghasilan (PPh), realisasi pengalihan hak tetap harus dibuktikan melalui pengajuan Surat Keterangan Bebas (SKB) PPh Final.</p>
+
+
+
+<p>Banyak yang belum menyadari bahwa tanpa SKB, pengalihan warisan bisa disalahartikan sebagai transaksi komersial dan berakibat pada pengenaan PPh Final sebesar 2,5%.</p>
+
+
+
+<p>Padahal, dengan persiapan yang tepat dan pemahaman terhadap alur prosedur yang berlaku, beban pajak ini dapat dihindari secara sah. Artikel ini mengulas secara lengkap dan terperinci bagaimana langkah-langkah strategis yang perlu diambil untuk mendapatkan SKB PPh Final atas warisan tanah dan bangunan.</p>
+
+
+
+<h2 class="wp-block-heading">Warisan Bukan Objek PPh</h2>
+
+
+
+<p>Dalam konteks hukum perpajakan Indonesia, warisan tidak termasuk ke dalam objek Pajak Penghasilan. Hal ini berarti setiap perolehan hak atas tanah atau bangunan karena warisan semestinya bebas dari PPh Final.</p>
+
+
+
+<p>Namun, DJP mewajibkan pembuktian terhadap status warisan tersebut. SKB menjadi dokumen kunci yang menegaskan bahwa pengalihan tersebut bukan objek pajak.</p>
+
+
+
+<p>Tanpa SKB, sistem akan memperlakukan transaksi tersebut sebagaimana pengalihan biasa akibat jual beli, sehingga secara otomatis memunculkan kewajiban PPh Final sebesar 2,5% dari nilai pengalihan atau Nilai Jual Objek Pajak (NJOP). Oleh karena itu, peran SKB sangat vital dalam menjamin tidak adanya pungutan yang tidak semestinya.</p>
+
+
+
+<h2 class="wp-block-heading">Siapa yang Dapat Mengajukan SKB PPh Final Warisan?</h2>
+
+
+
+<p>Pengajuan SKB dapat dilakukan oleh:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Ahli waris langsung yang tercantum dalam akta waris, surat wasiat, atau penetapan pengadilan.</li>
+
+
+
+<li>Kuasa ahli waris, dengan surat kuasa sah dan legalisir sesuai ketentuan.</li>
+</ul>
+
+
+
+<p>Permohonan bisa disampaikan melalui tiga jalur:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li>Datang langsung ke KPP tempat objek pajak terdaftar;</li>
+
+
+
+<li>Melalui layanan pos tercatat;</li>
+
+
+
+<li>Secara daring melalui platform Coretax DJP.</li>
+</ol>
+
+
+
+<p>Penting dicatat bahwa pengajuan SKB dilakukan menggunakan NIK dan/atau NPWP ahli waris, bukan pewaris. Jika terdapat beberapa ahli waris, maka cukup satu orang yang mengajukan, dengan catatan menyertakan surat pernyataan persetujuan dari semua ahli waris lainnya.</p>
+
+
+
+<h2 class="wp-block-heading">Dokumen yang Harus Disiapkan</h2>
+
+
+
+<p>Berikut adalah daftar kelengkapan dokumen pengajuan SKB PPh Final karena warisan:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>Surat Permohonan SKB</strong>, ditujukan kepada Kepala KPP terkait.</li>
+
+
+
+<li><strong>Surat Pernyataan Pembagian Warisan</strong> yang mencakup:
+<ul class="wp-block-list">
+<li>Identitas lengkap seluruh ahli waris (nama, NIK, NPWP, alamat);</li>
+
+
+
+<li>Informasi objek warisan (NOP, NIB, alamat, luas, nilai objek);</li>
+
+
+
+<li>Tanda tangan seluruh ahli waris.</li>
+</ul>
+</li>
+
+
+
+<li><strong>Dokumen Pendukung</strong>:
+<ul class="wp-block-list">
+<li>Sertifikat tanah/bangunan;</li>
+
+
+
+<li>SPPT PBB tahun terakhir;</li>
+
+
+
+<li>Akta kematian pewaris;</li>
+
+
+
+<li>KTP dan KK pewaris serta seluruh ahli waris;</li>
+
+
+
+<li>Surat wasiat/akta waris jika ada.</li>
+</ul>
+</li>
+</ol>
+
+
+
+<p>Dokumen harus disusun rapi, lengkap, dan konsisten antara satu dengan lainnya. Ketidaksesuaian data akan memperlambat proses verifikasi dan berpotensi ditolaknya permohonan.</p>
+
+
+
+<h2 class="wp-block-heading">Syarat Administratif Tambahan</h2>
+
+
+
+<p>Selain kelengkapan dokumen, DJP juga mensyaratkan pemenuhan kewajiban administrasi berikut:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Seluruh data objek warisan dan identitas ahli waris sesuai dengan basis data perpajakan (NOP, NIB, alamat, nilai NJOP/BPHTB, dll).</li>
+
+
+
+<li>Ahli waris harus:
+<ul class="wp-block-list">
+<li>Telah melaporkan SPT Tahunan PPh dua tahun terakhir;</li>
+
+
+
+<li>Tidak memiliki tunggakan pajak kecuali yang sudah memperoleh izin angsuran atau penundaan;</li>
+
+
+
+<li>Tidak sedang menjalani pemeriksaan atau penyidikan pajak;</li>
+
+
+
+<li>Jika PKP, telah menyampaikan SPT Masa PPN tiga masa terakhir.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Prosedur dan Estimasi Waktu Penerbitan SKB</h2>
+
+
+
+<p>Setelah permohonan diajukan, KPP akan melakukan pemeriksaan administratif:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li>Verifikasi kelengkapan dan keabsahan dokumen;</li>
+
+
+
+<li>Jika lengkap, SKB akan diterbitkan maksimal dalam 3 hari kerja;</li>
+
+
+
+<li>Jika DJP tidak memberikan keputusan dalam waktu tersebut, maka permohonan dianggap disetujui secara otomatis (by system);</li>
+
+
+
+<li>SKB akan diterbitkan maksimal 2 hari kerja setelah batas waktu tersebut.</li>
+</ol>
+
+
+
+<p>Proses ini dapat dipantau secara daring melalui dashboard wajib pajak di sistem Coretax. Untuk pengajuan manual, pastikan Anda memantau statusnya melalui TPT (Tempat Pelayanan Terpadu).</p>
+
+
+
+<h2 class="wp-block-heading">Ilustrasi Perhitungan: Tanpa dan Dengan SKB</h2>
+
+
+
+<p>Contoh kasus: Ahli waris memperoleh sebidang tanah dengan NJOP senilai Rp950.000.000. Bila tidak mengajukan SKB:</p>
+
+
+
+<p><strong>PPh Final = Rp950.000.000 x 2,5% = Rp23.750.000</strong></p>
+
+
+
+<p>Namun dengan SKB yang disetujui, beban PPh Final tersebut dapat dihindari secara sah. Dana sebesar ini tentu lebih baik digunakan untuk keperluan administrasi atau proses balik nama di BPN.</p>
+
+
+
+<h2 class="wp-block-heading">Perhatian Khusus bagi WP Wanita Kawin</h2>
+
+
+
+<p>Jika ahli waris adalah wanita kawin dan terdaftar dalam keluarga sebagai tanggungan (misalnya di DUK Coretax), maka evaluasi pengajuan akan dilakukan berdasarkan NPWP suami atau kepala keluarga. Ini penting agar tidak terjadi kendala validasi data dalam sistem.</p>
+
+
+
+<p>Selain itu, sejak berlakunya <strong><a href="https://jdih.kemenkeu.go.id/api/download/0c94617c-9e34-4183-a09a-1922d3b89157/Lampiran%20PER-8_PJ_2025.pdf" target="_blank" rel="noreferrer noopener nofollow">PER-08/PJ/2025</a></strong>, validasi objek warisan dalam SPT Tahunan pewaris tidak lagi diwajibkan. Namun tetap disarankan untuk menyimpan bukti pendukung lengkap sebagai antisipasi klarifikasi.</p>
+
+
+
+<h2 class="wp-block-heading">Konsultasi Profesional untuk Proses yang Lebih Efisien</h2>
+
+
+
+<p>Mengurus SKB PPh Final warisan memang bukan hal yang sederhana. Mulai dari dokumen legal, administratif, hingga pelaporan pajak yang harus sinkron. Untuk itu, bagi Anda yang berdomisili di Yogyakarta atau sekitarnya, <strong><a href="https://trusttaxconsultant.id/konsultan-pajak-jogja.html">konsultasi perencanaan pajak</a></strong> bersama Trust Tax Consultant menjadi langkah strategis agar seluruh proses berjalan dengan cepat, akurat, dan sesuai ketentuan perpajakan terkini.</p>
+
+
+
+<p>Tim profesional yang memahami sistem Coretax dan peraturan terbaru siap mendampingi mulai dari penyusunan dokumen, pengajuan SKB, hingga koordinasi dengan KPP dan BPN. Layanan ini sangat direkomendasikan terutama bagi Anda yang ingin menghindari potensi kesalahan administratif yang berujung pada penolakan permohonan.</p>
+
+
+
+<h2 class="wp-block-heading">Penutup</h2>
+
+
+
+<p>Pengalihan hak atas tanah atau bangunan karena warisan memang bebas dari kewajiban PPh Final, tetapi bukan berarti bebas dari prosedur administratif. SKB adalah bukti formal yang harus dimiliki agar pembebasan pajak ini sah di mata hukum.</p>
+
+
+
+<p>Dengan memahami setiap tahapannya dan memastikan dokumen serta kepatuhan Anda terpenuhi, maka proses ini dapat dilalui dengan lancar.</p>
+
+
+
+<p>Apabila Anda membutuhkan pendampingan profesional, jangan ragu untuk berkonsultasi. Menyerahkan proses pengurusan kepada pihak yang kompeten dapat menjadi solusi cerdas dalam menghadapi kompleksitas peraturan perpajakan yang terus berkembang.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/beda-pph-final-jual-beli-dan-sewa-properti.html">Apa Bedanya PPh Final Jual Beli dan Sewa Properti?</a></strong></p>
+<p>The post <a href="./../../cara-menghindari-pph-final-saat-menerima-warisan-properti.html">Cara Menghindari PPh Final Saat Menerima Warisan Properti</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cara Aktifkan NIK Deregistered Pasca Nikah (Penggabungan Pajak)</title>
+		<link>./../../cara-aktifkan-nik-deregistered.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2025 03:59:16 +0000</pubDate>
+				<category><![CDATA[Umum]]></category>
+		<category><![CDATA[administrasi pajak]]></category>
+		<category><![CDATA[coretax]]></category>
+		<guid isPermaLink="false">./../../index.html?p=950</guid>
+
+					<description><![CDATA[<p>Banyak perusahaan maupun individu kini menghadapi kebingungan baru dalam sistem perpajakan digital, khususnya ketika menemukan status &#8220;NIK Deregistered&#8221; pada wanita [&#8230;]</p>
+<p>The post <a href="./../../cara-aktifkan-nik-deregistered.html">Cara Aktifkan NIK Deregistered Pasca Nikah (Penggabungan Pajak)</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Aktifkan-NIK-Deregistered-Pasca-Nikah-Penggabungan-Pajak.png" alt="" class="wp-image-951" srcset="./../../wp-content/uploads/2025/08/Cara-Aktifkan-NIK-Deregistered-Pasca-Nikah-Penggabungan-Pajak.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Aktifkan-NIK-Deregistered-Pasca-Nikah-Penggabungan-Pajak-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Aktifkan-NIK-Deregistered-Pasca-Nikah-Penggabungan-Pajak-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Banyak perusahaan maupun individu kini menghadapi kebingungan baru dalam sistem perpajakan digital, khususnya ketika menemukan status &#8220;NIK Deregistered&#8221; pada wanita yang telah menikah. Situasi ini kerap menjadi kendala teknis dalam pelaporan pajak, pemotongan PPh 21, dan akses layanan DJP yang berbasis Coretax. Namun, persoalan ini sejatinya dapat diurai dengan pemahaman yang tepat mengenai sistem baru dan ketentuan hukum yang menyertainya.</p>
+
+
+
+<p>Artikel ini akan membahas secara tuntas bagaimana mekanisme dan solusi terkait status deregistered pada wanita kawin, disertai langkah-langkah administratif dan teknis yang perlu dilakukan. Panduan ini penting, terutama bagi pemberi kerja dan konsultan pajak yang mengelola administrasi perpajakan secara kolektif dan taat regulasi.</p>
+
+
+
+<h2 class="wp-block-heading">Perubahan Sistem Perpajakan Berbasis NIK</h2>
+
+
+
+<p>Dengan diberlakukannya sistem Coretax oleh Direktorat Jenderal Pajak (DJP), terjadi integrasi antara Nomor Pokok Wajib Pajak (NPWP) dan Nomor Induk Kependudukan (NIK). Bagi wanita yang menikah dan sebelumnya memilih gabung kewajiban pajak dengan suami, NPWP miliknya sempat dapat dihapus secara permanen. Namun kini, konsep penghapusan permanen itu tidak lagi berlaku.</p>
+
+
+
+<p>Dalam sistem Coretax, NIK tetap wajib tercatat aktif meskipun kewajiban pajaknya dilaporkan melalui NPWP suami. Dengan kata lain, wanita kawin tetap merupakan subjek pajak individual, dan NIK-nya akan dimasukkan ke dalam Daftar Uji Kepatuhan (DUK) milik suami.</p>
+
+
+
+<h2 class="wp-block-heading">Mengapa NIK Bisa Berstatus Deregistered?</h2>
+
+
+
+<p>Status deregistered biasanya terjadi akibat penghapusan NPWP sebelum diberlakukannya Coretax. Sistem lama memungkinkan penghapusan total NPWP, namun ketika integrasi NIK diberlakukan, data yang telah dihapus tidak langsung aktif kembali. Akibatnya, ketika digunakan dalam sistem Coretax, NIK wanita tersebut dianggap tidak aktif dan tidak dapat digunakan untuk membuat bukti potong.</p>
+
+
+
+<p>Beberapa penyebab umum status deregistered:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Penghapusan NPWP saat penggabungan pajak dengan suami</li>
+
+
+
+<li>Perubahan data administrasi tanpa pembaruan ke DJP</li>
+
+
+
+<li>Perpindahan domisili tanpa sinkronisasi data NIK</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Dampak Status Deregistered Terhadap Pelaporan Pajak</h2>
+
+
+
+<p>Dampak paling langsung dari NIK deregistered adalah kegagalan pembuatan bukti potong PPh 21/26. Dalam sistem perpajakan, setiap penerima penghasilan harus teridentifikasi secara individu, bahkan jika pelaporan pajaknya digabungkan dengan suami. Menggunakan NIK atau NPWP suami sebagai pengganti bukanlah solusi yang sah.</p>
+
+
+
+<p>Risiko lain yang timbul antara lain:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Penolakan validasi bukti potong</li>
+
+
+
+<li>Ketidaksesuaian dalam laporan SPT</li>
+
+
+
+<li>Potensi sanksi administratif</li>
+
+
+
+<li>Ketidaksesuaian data saat audit</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Langkah Teknis Mengaktifkan Kembali NIK Wanita Kawin</h2>
+
+
+
+<p>Berikut adalah tahapan yang harus dilakukan untuk mengatasi status deregistered pada wanita kawin:</p>
+
+
+
+<h3 class="wp-block-heading">1. Menghubungi KPP atau Layanan DJP</h3>
+
+
+
+<p>Permintaan reaktivasi dapat diajukan oleh individu atau pemberi kerja ke Kantor Pelayanan Pajak (KPP) tempat NIK terdaftar. Alternatifnya, bisa juga melalui:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Kring Pajak <strong>(<a href="tel:1500200">1500200</a>)</strong></li>
+
+
+
+<li><strong><a href="https://play.google.com/store/apps/dev?id=7611599770217938811&amp;hl=id" target="_blank" rel="noreferrer noopener sponsored nofollow">Aplikasi resmi DJP</a></strong></li>
+
+
+
+<li><strong><a href="https://portal115.id/faq/106" target="_blank" rel="noreferrer noopener nofollow">Tiket Melati DJP</a></strong>, sistem online yang terhubung langsung dengan KPP</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">2. Status Diubah Menjadi SPDN</h3>
+
+
+
+<p>Setelah permintaan disetujui, status NIK akan diubah menjadi &#8220;Belum Aktif (SPDN)&#8221;. Dengan status ini, NIK sudah dapat digunakan untuk pembuatan bukti potong, meskipun kewajiban perpajakan tetap digabung ke suami.</p>
+
+
+
+<h3 class="wp-block-heading">3. Pembaruan Data Kontak Pribadi</h3>
+
+
+
+<p>Agar akses akun pajak tetap dapat digunakan oleh istri, data email dan nomor HP perlu diperbarui melalui KPP. Ini penting untuk akses e-Filing, e-Bupot, maupun pengecekan bukti potong secara mandiri.</p>
+
+
+
+<h3 class="wp-block-heading">4. Pembetulan Bukti Potong (Jika Sudah Terlanjur Salah)</h3>
+
+
+
+<p>Apabila perusahaan terlanjur membuat bukti potong dengan menggunakan NPWP suami, maka setelah NIK istri aktif kembali, perlu dilakukan pembetulan bukti potong. Permohonan ini dapat diajukan ke KPP disertai dokumentasi yang mendukung alasan administratif.</p>
+
+
+
+<h2 class="wp-block-heading">Contoh Penghitungan PPh 21 untuk Wanita Kawin</h2>
+
+
+
+<p>Contoh: Fatimah bekerja sebagai dosen lepas di sebuah universitas swasta di Sleman, Yogyakarta. Ia menerima honor bulanan sebesar Rp12.000.000. Status perpajakannya digabung dengan suaminya. Namun, untuk keperluan bukti potong, perusahaan tetap wajib menggunakan NIK Fatimah.</p>
+
+
+
+<p>Penghitungan:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Penghasilan bruto: Rp12.000.000</li>
+
+
+
+<li>Biaya jabatan (5%): Rp600.000</li>
+
+
+
+<li>Penghasilan neto: Rp11.400.000</li>
+
+
+
+<li>PTKP (sudah digabung di SPT suami)</li>
+
+
+
+<li>PPh 21 ditanggung karyawan dan dicatat di bukti potong atas nama Fatimah dengan NIK aktif</li>
+</ul>
+
+
+
+<p>Jika NIK Fatimah masih deregistered, maka sistem akan menolak pembuatan bukti potong hingga dilakukan reaktivasi melalui langkah-langkah yang telah dijelaskan di atas.</p>
+
+
+
+<h2 class="wp-block-heading">Pentingnya Peran Pemberi Kerja dan Konsultan Pajak</h2>
+
+
+
+<p>Bagian HRD, payroll, dan tim pajak perusahaan harus memiliki pemahaman terbaru mengenai status perpajakan wanita kawin dalam sistem Coretax. Ketidaktahuan terhadap kebijakan baru dapat menimbulkan kesalahan pelaporan dan beban administratif tambahan.</p>
+
+
+
+<p>Untuk itu, kolaborasi dengan profesional perpajakan menjadi sangat penting. Jika perusahaan Anda berlokasi di Jogja dan membutuhkan pendampingan, <strong><a href="https://trusttaxconsultant.id/konsultan-pajak-jogja.html">layanan konsultasi pajak</a></strong> dari Trust Tax Consultant Jogja dapat menjadi solusi tepat. Dengan pengalaman menangani kasus reaktivasi NIK deregistered hingga pelaporan SPT gabungan, Trust Tax Consultant memberikan dukungan strategis dan teknis agar seluruh proses berjalan sesuai aturan.</p>
+
+
+
+<h2 class="wp-block-heading">Pastikan Setiap NIK Terdaftar dan Aktif</h2>
+
+
+
+<p>Status deregistered bukanlah akhir dari proses perpajakan. Dengan pemahaman yang komprehensif dan kepatuhan terhadap regulasi terbaru DJP, setiap kendala administratif dapat diatasi. Baik individu maupun perusahaan wajib memastikan bahwa seluruh identitas perpajakan yang digunakan dalam bukti potong telah aktif dan sinkron dalam sistem Coretax.</p>
+
+
+
+<p>Dengan sinergi antara wajib pajak, pemberi kerja, dan konsultan pajak profesional, maka sistem pelaporan akan menjadi lebih tertib, akurat, dan menghindarkan dari risiko sanksi.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/nonaktifkan-atau-hapus-npwp.html">Kriteria dan Prosedur Nonaktifkan atau Hapus NPWP</a></strong></p>
+<p>The post <a href="./../../cara-aktifkan-nik-deregistered.html">Cara Aktifkan NIK Deregistered Pasca Nikah (Penggabungan Pajak)</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
