@@ -12,7 +12,7 @@
 	<atom:link href="./feed/index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sun, 10 Aug 2025 06:58:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Aug 2025 08:24:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,210 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mengatasi Permohonan NPPN Tidak Bisa Disimpan di Coretax</title>
+		<link>./../../mengatasi-permohonan-nppn-tidak-bisa-disimpan-di-coretax.html</link>
+		
+		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 08:24:48 +0000</pubDate>
+				<category><![CDATA[PPN]]></category>
+		<category><![CDATA[administrasi pajak]]></category>
+		<category><![CDATA[pajak perusahaan]]></category>
+		<guid isPermaLink="false">./../../index.html?p=992</guid>
+
+					<description><![CDATA[<p>Pernahkah Anda sudah mengisi permohonan Norma Penghitungan Penghasilan Neto (NPPN) di Coretax dengan teliti, tetapi saat menekan tombol simpan justru [&#8230;]</p>
+<p>The post <a href="./../../mengatasi-permohonan-nppn-tidak-bisa-disimpan-di-coretax.html">Mengatasi Permohonan NPPN Tidak Bisa Disimpan di Coretax</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Mengatasi-Permohonan-NPPN-Tidak-Bisa-Disimpan-di-Coretax.png" alt="" class="wp-image-993" srcset="./../../wp-content/uploads/2025/08/Mengatasi-Permohonan-NPPN-Tidak-Bisa-Disimpan-di-Coretax.png 1024w, ./../../wp-content/uploads/2025/08/Mengatasi-Permohonan-NPPN-Tidak-Bisa-Disimpan-di-Coretax-300x210.png 300w, ./../../wp-content/uploads/2025/08/Mengatasi-Permohonan-NPPN-Tidak-Bisa-Disimpan-di-Coretax-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Pernahkah Anda sudah mengisi permohonan Norma Penghitungan Penghasilan Neto (NPPN) di Coretax dengan teliti, tetapi saat menekan tombol simpan justru gagal? Masalah seperti ini cukup sering ditemui, terutama oleh pelaku usaha atau staf administrasi yang baru pertama kali menggunakan sistem daring. Bukan hanya membuang waktu, kegagalan ini juga dapat menunda kepatuhan pajak yang semestinya berjalan lancar.</p>
+
+
+
+<p>Di balik masalah teknis ini, sering kali terdapat faktor administratif yang kurang diperhatikan. Padahal, NPPN adalah fasilitas penting untuk mempermudah perhitungan pajak bagi wajib pajak tertentu. Oleh sebab itu, memahami penyebab kegagalan sekaligus cara menyelesaikannya sangat membantu agar proses pajak tidak terganggu.</p>
+
+
+
+<h2 class="wp-block-heading">Penyebab Umum Permohonan NPPN Tidak Tersimpan</h2>
+
+
+
+<p>Kendala gagal simpan biasanya dipicu oleh beberapa hal berikut:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Status sertifikat elektronik tidak valid</strong> akibat proses penerbitan sebelumnya yang tidak sempurna.</li>
+
+
+
+<li><strong>Internet tidak stabil</strong>, sehingga sistem tidak bisa menyimpan data dengan benar.</li>
+
+
+
+<li><strong>Profil wajib pajak belum diperbarui</strong> pada sistem, misalnya email atau alamat yang sudah berubah.</li>
+
+
+
+<li><strong>Kapasitas server Coretax</strong> yang penuh saat jam sibuk.</li>
+</ul>
+
+
+
+<p>Penyebab-penyebab ini sering kali terlihat teknis, namun efeknya cukup serius karena membuat permohonan tidak bisa dilanjutkan.</p>
+
+
+
+<h2 class="wp-block-heading">Cara Mengatasi Masalah Gagal Simpan</h2>
+
+
+
+<p>Agar tidak panik, berikut langkah-langkah praktis yang bisa Anda ikuti:</p>
+
+
+
+<h3 class="wp-block-heading">1. Periksa Status Sertifikat Elektronik</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Masuk ke <strong>Portal Saya</strong>, lalu buka menu <strong>Profil Saya</strong>.</li>
+
+
+
+<li>Pilih <strong>Cek Nomor Identifikasi Eksternal</strong>.</li>
+
+
+
+<li>Lihat di tab <strong>Digital Certificate</strong> untuk memastikan statusnya.</li>
+
+
+
+<li>Jika status masih VALID, lanjutkan permohonan. Jika INVALID, Anda perlu memperbaikinya terlebih dahulu.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">2. Lakukan Perbaikan Jika Sertifikat INVALID</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Tekan <strong>Periksa Status</strong> pada sertifikat.</li>
+
+
+
+<li>Jika sukses, sistem akan menyediakan tombol <strong>Hasilkan</strong> untuk membuat <strong>Kode Otorisasi DJP (KO DJP)</strong>.</li>
+
+
+
+<li>Jika muncul pesan gagal (<em>KO Created Failed</em>), segera ulangi permintaan sertifikat baru melalui menu <strong>Permintaan Kode Otorisasi/Sertifikat Elektronik</strong>.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">3. Lanjutkan Pengisian yang Belum Disimpan</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Masuk ke <strong>Layanan Administrasi</strong>.</li>
+
+
+
+<li>Cari daftar <strong>Permohonan Belum Disampaikan</strong>.</li>
+
+
+
+<li>Lengkapi data yang masih kosong atau salah, lalu simpan ulang.</li>
+</ul>
+
+
+
+<p>Dengan cara ini, Anda tidak perlu membuat permohonan baru dari awal.</p>
+
+
+
+<h2 class="wp-block-heading">Tips Agar Proses Lebih Mulus</h2>
+
+
+
+<ul class="wp-block-list">
+<li>Lakukan pengajuan pada pagi hari ketika server lebih longgar.</li>
+
+
+
+<li>Gunakan jaringan internet yang stabil.</li>
+
+
+
+<li>Perbarui data wajib pajak secara rutin agar sesuai dengan kondisi terbaru.</li>
+
+
+
+<li>Simpan dokumen pendukung di perangkat lokal sebagai cadangan.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Ilustrasi Perhitungan NPPN</h2>
+
+
+
+<p>Contoh kasus: seorang pemilik toko kelontong memiliki omzet Rp900.000.000 setahun. Bidang usahanya dikenakan persentase NPPN sebesar 20%.</p>
+
+
+
+<p>Rumus perhitungan:</p>
+
+
+
+<p><strong>Penghasilan Neto = Omzet × Persentase NPPN</strong><br>= Rp900.000.000 × 20%<br>= Rp180.000.000</p>
+
+
+
+<p>Kemudian, jika dikenakan tarif PPh Final UMKM 0,5%, maka:</p>
+
+
+
+<p><strong>PPh Terutang = Penghasilan Neto × Tarif</strong><br>= Rp180.000.000 × 0,5%<br>= Rp900.000</p>
+
+
+
+<p>Dari ilustrasi ini terlihat bahwa penggunaan NPPN membuat proses perhitungan lebih sederhana tanpa laporan keuangan yang rumit.</p>
+
+
+
+<h2 class="wp-block-heading">Pentingnya Dukungan Profesional</h2>
+
+
+
+<p>Banyak wajib pajak yang akhirnya membutuhkan bantuan konsultan ketika menemui hambatan administratif seperti gagal simpan permohonan NPPN. Tidak hanya soal teknis, tetapi juga untuk memastikan langkah yang ditempuh sesuai dengan regulasi terbaru.</p>
+
+
+
+<p>Jika Anda berada di Yogyakarta, mencari <a href="https://trusttaxconsultant.id/konsultan-pajak-jogja.html"><strong>kantor</strong> <strong>konsultan pajak Jogja terdekat</strong></a> bisa menjadi solusi. Salah satu rekomendasi adalah Trust Tax Consultant yang berpengalaman membantu klien di area Jogja &amp; sekitarnya. Dengan dukungan profesional, Anda bisa fokus mengelola bisnis sementara urusan pajak berjalan lebih rapi dan sesuai aturan.</p>
+
+
+
+<p>Gagal menyimpan permohonan NPPN di Coretax bukanlah akhir dari segalanya. Umumnya, penyebabnya bisa dilacak pada validitas sertifikat elektronik, kondisi server, atau data wajib pajak yang belum diperbarui.</p>
+
+
+
+<p>Dengan langkah perbaikan yang tepat, Anda dapat melanjutkan permohonan tanpa mengulang dari awal. Untuk hasil yang lebih optimal, pertimbangkan bekerja sama dengan konsultan pajak yang siap membantu dari sisi teknis maupun regulasi.</p>
+
+
+
+<p><strong>Baca juga: <a href="https://trusttaxconsultant.id/penyebab-error-96-99-225-di-coretax.html">Penyebab Error 96, 99, 225 di Coretax &amp; Penyelesaiannya</a></strong></p>
+<p>The post <a href="./../../mengatasi-permohonan-nppn-tidak-bisa-disimpan-di-coretax.html">Mengatasi Permohonan NPPN Tidak Bisa Disimpan di Coretax</a> appeared first on <a href="./../../index.html"></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Cara Hindari Kesalahan Pembetulan SPT PPN dengan Konsep Delta</title>
 		<link>./../../cara-hindari-kesalahan-pembetulan-spt-ppn-dengan-konsep-delta.html</link>
 		
@@ -40,7 +244,7 @@
 <p>The post <a href="./../../cara-hindari-kesalahan-pembetulan-spt-ppn-dengan-konsep-delta.html">Cara Hindari Kesalahan Pembetulan SPT PPN dengan Konsep Delta</a> appeared first on <a href="./../../index.html"></a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta.png" alt="" class="wp-image-970" srcset="./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta.png" alt="" class="wp-image-970" srcset="./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta.png 1024w, ./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta-300x210.png 300w, ./../../wp-content/uploads/2025/08/Cara-Hindari-Kesalahan-Pembetulan-SPT-PPN-dengan-Konsep-Delta-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -432,7 +636,7 @@
 <p>The post <a href="./../../pmk-25-2025.html">PMK 25/2025: Regulasi Impor Barang Pindahan yang Wajib Diketahui</a> appeared first on <a href="./../../index.html"></a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/06/PMK-252025.png" alt="" class="wp-image-821" srcset="./../../wp-content/uploads/2025/06/PMK-252025.png 1024w, ./../../wp-content/uploads/2025/06/PMK-252025-300x210.png 300w, ./../../wp-content/uploads/2025/06/PMK-252025-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="717" src="./../../wp-content/uploads/2025/06/PMK-252025.png" alt="" class="wp-image-821" srcset="./../../wp-content/uploads/2025/06/PMK-252025.png 1024w, ./../../wp-content/uploads/2025/06/PMK-252025-300x210.png 300w, ./../../wp-content/uploads/2025/06/PMK-252025-768x538.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -1665,106 +1869,6 @@
 
 <p></p>
 <p>The post <a href="./../../pajak-jasa-bengkel.html">Pajak Jasa Bengkel: Tarif, Jenis, Contoh &amp; Cara Hitung</a> appeared first on <a href="./../../index.html"></a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Dampak Kenaikan Tarif Pajak Hiburan Baru 2024</title>
-		<link>./../../dampak-kenaikan-tarif-pajak-hiburan-baru-2024.html</link>
-		
-		<dc:creator><![CDATA[Trust Tax Consultant]]></dc:creator>
-		<pubDate>Sun, 19 Jan 2025 08:57:12 +0000</pubDate>
-				<category><![CDATA[PPN]]></category>
-		<guid isPermaLink="false">./../../index.html?p=434</guid>
-
-					<description><![CDATA[<p>Undang-Undang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintah Daerah (UU HKPD) yang baru saja diberlakukan telah menimbulkan kontroversi terkait tarif [&#8230;]</p>
-<p>The post <a href="./../../dampak-kenaikan-tarif-pajak-hiburan-baru-2024.html">Dampak Kenaikan Tarif Pajak Hiburan Baru 2024</a> appeared first on <a href="./../../index.html"></a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="800" height="600" src="./../../wp-content/uploads/2025/01/kenaikan-pajak.jpeg" alt="kenaikan pajak" class="wp-image-424" srcset="./../../wp-content/uploads/2025/01/kenaikan-pajak.jpeg 800w, ./../../wp-content/uploads/2025/01/kenaikan-pajak-300x225.jpeg 300w, ./../../wp-content/uploads/2025/01/kenaikan-pajak-768x576.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
-
-
-
-<p>Undang-Undang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintah Daerah (UU HKPD) yang baru saja diberlakukan telah menimbulkan kontroversi terkait tarif pajak hiburan. Beberapa tokoh terkemuka, seperti pengacara kondang Hotman Paris dan penyanyi dangdut Inul Daratista, menyuarakan ketidakpuasan mereka terhadap kenaikan tarif pajak hiburan yang signifikan. Dalam artikel ini, kita akan melakukan analisis mendalam terhadap perubahan tarif pajak hiburan tersebut, memahami ketentuannya, dan mengidentifikasi potensi dampaknya terhadap industri hiburan di Indonesia.</p>
-
-
-
-<h2 class="wp-block-heading">Perubahan Tarif Pajak Hiburan</h2>
-
-
-
-<p>Berdasarkan UU HKPD Nomor 1 Tahun 2022, pajak hiburan dikategori sebagai objek pajak barang dan jasa tertentu (PBJT). Pasal 58 UU tersebut menetapkan tarif PBJT paling tinggi 10%, namun, untuk jasa hiburan pada diskotek, karaoke, kelab malam, bar, dan mandi uap/spa, tarifnya kini berkisar antara 40% hingga 75%. Sebelumnya, Undang-Undang Pajak Daerah dan Retribusi Daerah (UU PDRD) Nomor 28 Tahun 2009 menetapkan tarif pajak hiburan paling tinggi sebesar 35%.</p>
-
-
-
-<p>Protes dari berbagai pihak, termasuk Inul Daratista dan Hotman Paris, muncul karena kenaikan tarif yang signifikan. Inul Daratista bahkan menyampaikan kekecewaannya melalui akun media sosialnya, menilai bahwa kenaikan dari 25% menjadi 40-75% adalah suatu ketidakadilan. Sementara Hotman Paris, yang memiliki pengalaman sebagai pemegang saham Hollywings, mengkhawatirkan bahwa besaran tarif baru dapat menghancurkan industri pariwisata.</p>
-
-
-
-<h2 class="wp-block-heading">Perbandingan dengan UU PDRD Tahun 2009</h2>
-
-
-
-<p>Dalam konteks perbandingan, UU PDRD Tahun 2009 tidak menggunakan istilah PBJT seperti yang terdapat dalam UU HKPD. Meskipun keduanya mengatur tentang pajak hiburan sebagai jenis pajak kabupaten/kota, UU PDRD tidak memiliki batasan tarif minimal seperti yang diatur dalam UU HKPD. Pasal 45 UU PDRD hanya menyebutkan bahwa tarif pajak hiburan ditetapkan paling tinggi sebesar 35%, tanpa membedakan tarif minimum atau maksimum berdasarkan jenis usaha hiburan.</p>
-
-
-
-<h2 class="wp-block-heading">Ketentuan Minimum dan Dampaknya</h2>
-
-
-
-<p>Pada intinya, perubahan yang signifikan terletak pada penambahan ketentuan minimum tarif pajak hiburan dalam UU HKPD. Dalam UU tersebut, tarif minimal pajak hiburan untuk jenis usaha tertentu, seperti diskotek, karaoke, kelab malam, bar, dan mandi uap/spa, ditetapkan sebesar 40%. Fajry Akbar, Manajer Riset Center for Indonesia Taxation Analysis (CITA), menyatakan bahwa ketentuan ini memberatkan pelaku usaha di sektor hiburan dan menimbulkan kebingungan di tingkat daerah dalam menetapkan tarif pajak yang sesuai dengan kondisi ekonomi dan industri mereka.</p>
-
-
-
-<h2 class="wp-block-heading">Dampak pada Pelaku Usaha dan Keputusan Daerah</h2>
-
-
-
-<p>Ketentuan minimum tarif 40% dalam UU HKPD membuat para pelaku usaha di sektor hiburan merasa tertekan. Fajry Akbar menekankan bahwa besaran tarif yang sudah diatur oleh UU membuat penyesuaian tarif minimal pajak menjadi sulit diubah. Opsi yang tersedia hanyalah melalui judicial review di Mahkamah Konstitusi, seperti yang dilakukan oleh sejumlah asosiasi yang terdampak aturan ini. Namun, proses judicial review ini bukanlah solusi instan dan dapat memakan waktu serta biaya yang cukup besar.</p>
-
-
-
-<p>Prianto Budi Saptono, Direktur Eksekutif Pratama-Kreston Tax Research Institute (PK-TRI), menambahkan bahwa keputusan tarif 40%-75% merupakan hasil keputusan politis antara DPR dan Pemerintah Pusat sesuai Pasal 23A UUD 1945. Hal ini membatasi opsi yang dimiliki oleh pemerintah daerah (kabupaten/kota) untuk menyesuaikan tarif sesuai dengan kondisi perekonomian mereka. Jika daerah tidak setuju dengan tarif yang ditetapkan, opsi mereka hanyalah untuk tidak menerapkan pajak hiburan atau mencari substitusi untuk mengisi Pendapatan Asli Daerah (PAD).</p>
-
-
-
-<p>Tuntaskan masalah kenaikan tarif pajak hiburan dengan bijak bersama Trust Tax Consultant. Kunjungi laman penawaran kami di&nbsp;<strong><a href="./../../.id/konsultan-pajak-semarang/index.html">./../../.id/konsultan-pajak-semarang/index.html</a></strong>&nbsp;untuk mendapatkan panduan dan solusi terbaik. Kami siap membimbing Anda melalui kompleksitas regulasi pajak, membantu mengoptimalkan kewajiban pajak, dan mengurangi beban finansial.</p>
-
-
-
-<h2 class="wp-block-heading">Ketidaksetujuan dan Upaya Pemerintah Daerah</h2>
-
-
-
-<p>Pemerintah daerah dihadapkan pada dilema ketika mereka merasa tertekan untuk menerapkan tarif minimal 40%, sementara kondisi ekonomi dan industri hiburan di daerah mereka mungkin tidak mendukung tarif tersebut. Prianto Budi Saptono menjelaskan bahwa jika pemda merasa tertekan untuk menerapkan tarif minimal 40%, mereka harus mencari alternatif untuk mengisi PAD di masing-masing kota/kabupaten. Hal ini dapat melibatkan pembebasan pengenaan pajak atau penerapan tarif 40% yang menjadi satu-satunya opsi yang tersedia.</p>
-
-
-
-<h2 class="wp-block-heading">Pertimbangan Dampak Ekonomi dan Sosial</h2>
-
-
-
-<p>Meskipun tarif 40%-75% dianggap cukup tinggi dan berpotensi menurunkan konsumsi masyarakat atas hiburan, perlu dicatat bahwa tarif ini hanya berlaku untuk jenis usaha tertentu, seperti diskotek, karaoke, kelab malam, bar, dan spa. Ketentuan ini dirancang untuk memberikan kebijakan yang lebih fokus pada jenis hiburan yang dianggap memiliki potensi risiko atau dampak negatif terhadap masyarakat.</p>
-
-
-
-<p>Menurut Prianto, pertimbangan daerah untuk menerapkan tarif tersebut tergantung pada dua hal utama: pertama, apakah pajak tersebut berfungsi sebagai sumber pendapatan untuk meningkatkan penerimaan APBN/APBD; dan kedua, apakah pajak tersebut memiliki fungsi regulasi untuk mengatur perilaku masyarakat. Dalam situasi di mana tarif pajak hiburan dianggap tinggi, pemda harus mempertimbangkan keseimbangan antara pendapatan dan dampaknya terhadap konsumsi serta aktivitas ekonomi di daerah tersebut.</p>
-
-
-
-<p><strong>Kesimpulan</strong></p>
-
-
-
-<p>Perubahan tarif pajak hiburan dalam UU HKPD telah menimbulkan pro dan kontra di kalangan masyarakat, terutama dari pelaku usaha dan tokoh terkemuka seperti Hotman Paris dan Inul Daratista. Penetapan tarif minimal 40% bagi jenis usaha tertentu menciptakan tantangan bagi pelaku usaha di sektor hiburan dan memberikan dilema pada pemerintah daerah dalam menyesuaikan tarif sesuai dengan kondisi ekonomi mereka.</p>
-
-
-
-<p>Meskipun keputusan tarif 40%-75% dianggap sebagai hasil keputusan politis, dampaknya pada industri hiburan dan ekonomi lokal harus dipertimbangkan dengan cermat. Pemerintah daerah perlu mengambil keputusan yang bijak, mempertimbangkan keseimbangan antara pendapatan dan dampak ekonomi serta sosial yang dihasilkan. Seiring dengan itu, dialog terbuka antara pemerintah daerah, pelaku usaha, dan masyarakat menjadi krusial untuk mencapai kesepakatan yang adil dan berkelanjutan dalam mengelola pajak hiburan di Indonesia.</p>
-<p>The post <a href="./../../dampak-kenaikan-tarif-pajak-hiburan-baru-2024.html">Dampak Kenaikan Tarif Pajak Hiburan Baru 2024</a> appeared first on <a href="./../../index.html"></a>.</p>
 ]]></content:encoded>
 					
 		
