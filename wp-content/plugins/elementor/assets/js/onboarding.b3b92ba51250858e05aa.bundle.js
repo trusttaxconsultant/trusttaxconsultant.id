@@ -1,174 +1,6 @@
-/*! elementor - v3.31.0 - 09-09-2025 */
+/*! elementor - v3.32.0 - 18-09-2025 */
 "use strict";
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["onboarding"],{
-
-/***/ "../app/assets/js/ui/popover-dialog/popover-dialog.js":
-/*!************************************************************!*\
-  !*** ../app/assets/js/ui/popover-dialog/popover-dialog.js ***!
-  \************************************************************/
-/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
-
-/* provided dependency */ var PropTypes = __webpack_require__(/*! prop-types */ "../node_modules/prop-types/index.js");
-
-
-var _typeof = __webpack_require__(/*! @babel/runtime/helpers/typeof */ "../node_modules/@babel/runtime/helpers/typeof.js");
-Object.defineProperty(exports, "__esModule", ({
-  value: true
-}));
-exports["default"] = PopoverDialog;
-var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
-function _interopRequireWildcard(e, t) { if ("function" == typeof WeakMap) var r = new WeakMap(), n = new WeakMap(); return (_interopRequireWildcard = function _interopRequireWildcard(e, t) { if (!t && e && e.__esModule) return e; var o, i, f = { __proto__: null, default: e }; if (null === e || "object" != _typeof(e) && "function" != typeof e) return f; if (o = t ? n : r) { if (o.has(e)) return o.get(e); o.set(e, f); } for (var _t in e) "default" !== _t && {}.hasOwnProperty.call(e, _t) && ((i = (o = Object.defineProperty) && Object.getOwnPropertyDescriptor(e, _t)) && (i.get || i.set) ? o(f, _t, i) : f[_t] = e[_t]); return f; })(e, t); }
-function PopoverDialog(props) {
-  var targetRef = props.targetRef,
-    offsetTop = props.offsetTop,
-    offsetLeft = props.offsetLeft,
-    wrapperClass = props.wrapperClass,
-    trigger = props.trigger,
-    hideAfter = props.hideAfter,
-    popoverRef = (0, _react.useCallback)(function (popoverEl) {
-      var target = targetRef === null || targetRef === void 0 ? void 0 : targetRef.current;
-
-      // If the target or the popover element does not exist on the page anymore after a re-render, do nothing.
-      if (!target || !popoverEl) {
-        return;
-      }
-
-      /**
-       * Show Popover
-       */
-      var showPopover = function showPopover() {
-        popoverEl.style.display = 'block';
-        popoverEl.setAttribute('aria-expanded', true);
-        var targetRect = target.getBoundingClientRect(),
-          popoverRect = popoverEl.getBoundingClientRect(),
-          widthDifference = popoverRect.width - targetRect.width;
-        popoverEl.style.top = targetRect.bottom + offsetTop + 'px';
-        popoverEl.style.left = targetRect.left - widthDifference / 2 - offsetLeft + 'px';
-
-        // 16px to compensate for the arrow width.
-        popoverEl.style.setProperty('--popover-arrow-offset-end', (popoverRect.width - 16) / 2 + 'px');
-      };
-
-      /**
-       * Hide Popover
-       */
-      var hidePopover = function hidePopover() {
-        popoverEl.style.display = 'none';
-        popoverEl.setAttribute('aria-expanded', false);
-      };
-
-      /**
-       * Handle the Popover's hover functionality
-       */
-      var handlePopoverHover = function handlePopoverHover() {
-        var hideOnMouseOut = true,
-          timeOut = null;
-
-        // Show popover on hover of the target
-        target.addEventListener('mouseover', function () {
-          hideOnMouseOut = true;
-          showPopover();
-        });
-
-        // Hide popover when not overing over the target or the popover itself
-        target.addEventListener('mouseleave', function () {
-          timeOut = setTimeout(function () {
-            if (hideOnMouseOut) {
-              if ('block' === popoverEl.style.display) {
-                hidePopover();
-              }
-            }
-          }, hideAfter);
-        });
-
-        // Don't hide the popover if the user is still hovering over it.
-        popoverEl.addEventListener('mouseover', function () {
-          hideOnMouseOut = false;
-          if (timeOut) {
-            clearTimeout(timeOut);
-            timeOut = null;
-          }
-        });
-
-        // Once the user stops hovering over the popover, hide it.
-        popoverEl.addEventListener('mouseleave', function () {
-          timeOut = setTimeout(function () {
-            if (hideOnMouseOut) {
-              if ('block' === popoverEl.style.display) {
-                hidePopover();
-              }
-            }
-          }, hideAfter);
-          hideOnMouseOut = true;
-        });
-      };
-
-      /**
-       * Handle the Popover's click functionality
-       */
-      var handlePopoverClick = function handlePopoverClick() {
-        var popoverIsActive = false;
-        target.addEventListener('click', function (e) {
-          e.preventDefault();
-          e.stopPropagation();
-          if (popoverIsActive) {
-            hidePopover();
-            popoverIsActive = false;
-          } else {
-            showPopover();
-            popoverIsActive = true;
-          }
-        });
-
-        // Make sure the popover doesn't close when it is clicked on.
-        popoverEl.addEventListener('click', function (e) {
-          e.stopPropagation();
-        });
-
-        // Hide the popover when clicking outside of it.
-        document.body.addEventListener('click', function () {
-          if (popoverIsActive) {
-            hidePopover();
-            popoverIsActive = false;
-          }
-        });
-      };
-      if ('hover' === trigger) {
-        handlePopoverHover();
-      } else if ('click' === trigger) {
-        handlePopoverClick();
-      }
-    }, [targetRef]);
-  var wrapperClasses = 'e-app__popover';
-  if (wrapperClass) {
-    wrapperClasses += ' ' + wrapperClass;
-  }
-  return /*#__PURE__*/_react.default.createElement("div", {
-    className: wrapperClasses,
-    ref: popoverRef
-  }, props.children);
-}
-PopoverDialog.propTypes = {
-  targetRef: PropTypes.oneOfType([PropTypes.func, PropTypes.shape({
-    current: PropTypes.any
-  })]).isRequired,
-  trigger: PropTypes.string,
-  direction: PropTypes.string,
-  offsetTop: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
-  offsetLeft: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
-  wrapperClass: PropTypes.string,
-  children: PropTypes.any,
-  hideAfter: PropTypes.number
-};
-PopoverDialog.defaultProps = {
-  direction: 'bottom',
-  trigger: 'hover',
-  offsetTop: 10,
-  offsetLeft: 0,
-  hideAfter: 300
-};
-
-/***/ }),
 
 /***/ "../app/modules/onboarding/assets/js/app.js":
 /*!**************************************************!*\
@@ -200,13 +32,14 @@ function App() {
   // Send an AJAX request to update the database option which makes sure the Onboarding process only runs once,
   // for new Elementor sites.
   (0, _react.useEffect)(function () {
+    var _elementorAppConfig;
     // This is to prevent dark theme in onboarding app from the frontend and not backend
     var darkThemeClassName = 'eps-theme-dark';
     var hasDarkMode = document.body.classList.contains(darkThemeClassName);
     if (hasDarkMode) {
       document.body.classList.remove(darkThemeClassName);
     }
-    if (!elementorAppConfig.onboarding.onboardingAlreadyRan) {
+    if (!((_elementorAppConfig = elementorAppConfig) !== null && _elementorAppConfig !== void 0 && (_elementorAppConfig = _elementorAppConfig.onboarding) !== null && _elementorAppConfig !== void 0 && _elementorAppConfig.onboardingAlreadyRan)) {
       var formData = new FormData();
       formData.append('_nonce', elementorCommon.config.ajax.nonce);
       formData.append('action', 'elementor_update_onboarding_option');
@@ -1193,6 +1026,7 @@ var _context = __webpack_require__(/*! ../context/context */ "../app/modules/onb
 var _connect = _interopRequireDefault(__webpack_require__(/*! ../utils/connect */ "../app/modules/onboarding/assets/js/utils/connect.js"));
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../components/layout/layout */ "../app/modules/onboarding/assets/js/components/layout/layout.js"));
 var _pageContentLayout = _interopRequireDefault(__webpack_require__(/*! ../components/layout/page-content-layout */ "../app/modules/onboarding/assets/js/components/layout/page-content-layout.js"));
+var _utils = __webpack_require__(/*! ../utils/utils */ "../app/modules/onboarding/assets/js/utils/utils.js");
 function _interopRequireWildcard(e, t) { if ("function" == typeof WeakMap) var r = new WeakMap(), n = new WeakMap(); return (_interopRequireWildcard = function _interopRequireWildcard(e, t) { if (!t && e && e.__esModule) return e; var o, i, f = { __proto__: null, default: e }; if (null === e || "object" != _typeof(e) && "function" != typeof e) return f; if (o = t ? n : r) { if (o.has(e)) return o.get(e); o.set(e, f); } for (var _t in e) "default" !== _t && {}.hasOwnProperty.call(e, _t) && ((i = (o = Object.defineProperty) && Object.getOwnPropertyDescriptor(e, _t)) && (i.get || i.set) ? o(f, _t, i) : f[_t] = e[_t]); return f; })(e, t); }
 function Account() {
   var _useContext = (0, _react.useContext)(_context.OnboardingContext),
@@ -1208,10 +1042,34 @@ function Account() {
     pageId = 'account',
     actionButtonRef = (0, _react.useRef)(),
     alreadyHaveAccountLinkRef = (0, _react.useRef)();
+  (0, _react.useEffect)(function () {
+    if (!state.isLibraryConnected) {
+      var _elementorCommon$even;
+      (0, _utils.safeDispatchEvent)('view_account_setup', {
+        location: 'plugin_onboarding',
+        trigger: ((_elementorCommon$even = elementorCommon.eventsManager) === null || _elementorCommon$even === void 0 || (_elementorCommon$even = _elementorCommon$even.config) === null || _elementorCommon$even === void 0 || (_elementorCommon$even = _elementorCommon$even.triggers) === null || _elementorCommon$even === void 0 ? void 0 : _elementorCommon$even.pageLoaded) || 'page_loaded',
+        step_number: 1,
+        step_name: 'account_setup',
+        is_library_connected: (state === null || state === void 0 ? void 0 : state.isLibraryConnected) || false
+      });
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
   var skipButton;
   if ('completed' !== state.steps[pageId]) {
     skipButton = {
-      text: __('Skip', 'elementor')
+      text: __('Skip setup', 'elementor'),
+      action: function action() {
+        var _elementorCommon$even2;
+        (0, _utils.safeDispatchEvent)('skip_setup', {
+          location: 'plugin_onboarding',
+          trigger: ((_elementorCommon$even2 = elementorCommon.eventsManager) === null || _elementorCommon$even2 === void 0 || (_elementorCommon$even2 = _elementorCommon$even2.config) === null || _elementorCommon$even2 === void 0 || (_elementorCommon$even2 = _elementorCommon$even2.triggers) === null || _elementorCommon$even2 === void 0 ? void 0 : _elementorCommon$even2.click) || 'click',
+          step_number: 1,
+          step_name: 'account_setup'
+        });
+        updateState(getStateObjectToUpdate(state, 'steps', pageId, 'skipped'));
+        navigate('onboarding/' + nextStep);
+      }
     };
   }
   var pageTexts = {};
@@ -1222,8 +1080,8 @@ function Account() {
     };
   } else {
     pageTexts = elementorAppConfig.onboarding.experiment ? {
-      firstLine: __('Once you connect your Elementor account, you can choose from dozens of professional templates and manage your site with the My Elementor dashboard.', 'elementor'),
-      listItems: []
+      firstLine: /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, __('To get the most of Elementor, we\'ll connect your account.', 'elementor'), "  ", /*#__PURE__*/_react.default.createElement("br", null), " ", __('Then you can:', 'elementor')),
+      listItems: [__('Access dozens of professionally designed templates', 'elementor'), __('Manage all your sites from the My Elementor dashboard', 'elementor'), __('Unlock tools that streamline your workflow and site setup', 'elementor')]
     } : {
       firstLine: __('To get the most out of Elementor, we’ll connect your account.', 'elementor') + ' ' + __('Then you can:', 'elementor'),
       listItems: [__('Choose from countless professional templates', 'elementor'), __('Manage your site with our handy dashboard', 'elementor'), __('Take part in the community forum, share & grow together', 'elementor')]
@@ -1250,27 +1108,41 @@ function Account() {
       navigate('onboarding/' + nextStep);
     };
   } else {
-    actionButton.text = __('Create my account', 'elementor');
+    actionButton.text = __('Start setup', 'elementor');
     actionButton.href = elementorAppConfig.onboarding.urls.signUp + elementorAppConfig.onboarding.utms.connectCta;
     actionButton.ref = actionButtonRef;
     actionButton.onClick = function () {
-      elementorCommon.events.dispatchEvent({
-        event: 'create account',
-        version: '',
-        details: {
-          placement: elementorAppConfig.onboarding.eventPlacement,
-          source: 'cta'
-        }
+      var _elementorCommon$even3;
+      (0, _utils.safeDispatchEvent)('new_account_connect', {
+        location: 'plugin_onboarding',
+        trigger: ((_elementorCommon$even3 = elementorCommon.eventsManager) === null || _elementorCommon$even3 === void 0 || (_elementorCommon$even3 = _elementorCommon$even3.config) === null || _elementorCommon$even3 === void 0 || (_elementorCommon$even3 = _elementorCommon$even3.triggers) === null || _elementorCommon$even3 === void 0 ? void 0 : _elementorCommon$even3.click) || 'click',
+        step_number: 1,
+        step_name: 'account_setup',
+        button_text: 'Start setup'
       });
     };
   }
-  var connectSuccessCallback = function connectSuccessCallback(data) {
+  var connectSuccessCallback = function connectSuccessCallback(event, data) {
+    var _elementorCommon$even4;
     var stateToUpdate = getStateObjectToUpdate(state, 'steps', pageId, 'completed');
+    var isTrackingOptedInConnect = data.tracking_opted_in && elementorCommon.config.editor_events;
     stateToUpdate.isLibraryConnected = true;
     elementorCommon.config.library_connect.is_connected = true;
     elementorCommon.config.library_connect.current_access_level = data.kits_access_level || data.access_level || 0;
     elementorCommon.config.library_connect.current_access_tier = data.access_tier;
+    elementorCommon.config.library_connect.plan_type = data.plan_type;
+    if (isTrackingOptedInConnect) {
+      elementorCommon.config.editor_events.can_send_events = true;
+    }
     updateState(stateToUpdate);
+    (0, _utils.safeDispatchEvent)('account_connected_success', {
+      location: 'plugin_onboarding',
+      trigger: (_elementorCommon$even4 = elementorCommon.eventsManager) === null || _elementorCommon$even4 === void 0 || (_elementorCommon$even4 = _elementorCommon$even4.config) === null || _elementorCommon$even4 === void 0 || (_elementorCommon$even4 = _elementorCommon$even4.triggers) === null || _elementorCommon$even4 === void 0 ? void 0 : _elementorCommon$even4.success,
+      step_number: 1,
+      step_name: 'account_setup',
+      connection_successful: true,
+      user_tier: data.access_tier
+    });
     elementorCommon.events.dispatchEvent({
       event: 'indication prompt',
       version: '',
@@ -1324,8 +1196,8 @@ function Account() {
     noticeState: noticeState
   }, actionButton.ref && !state.isLibraryConnected && /*#__PURE__*/_react.default.createElement(_connect.default, {
     buttonRef: actionButton.ref,
-    successCallback: function successCallback(data) {
-      return connectSuccessCallback(data);
+    successCallback: function successCallback(event, data) {
+      return connectSuccessCallback(event, data);
     },
     errorCallback: connectFailureCallback
   }), /*#__PURE__*/_react.default.createElement("span", null, pageTexts.firstLine), /*#__PURE__*/_react.default.createElement("ul", null, pageTexts.listItems.map(function (listItem, index) {
@@ -1334,19 +1206,20 @@ function Account() {
     }, listItem);
   }))), !state.isLibraryConnected && /*#__PURE__*/_react.default.createElement("div", {
     className: "e-onboarding__footnote"
-  }, /*#__PURE__*/_react.default.createElement("p", null, __('Already have one?', 'elementor') + ' ', /*#__PURE__*/_react.default.createElement("a", {
+  }, /*#__PURE__*/_react.default.createElement("p", null, __('Already have an account?', 'elementor') + ' ', /*#__PURE__*/_react.default.createElement("a", {
     ref: alreadyHaveAccountLinkRef,
     href: elementorAppConfig.onboarding.urls.connect + elementorAppConfig.onboarding.utms.connectCtaLink,
     onClick: function onClick() {
-      elementorCommon.events.dispatchEvent({
-        event: 'connect account',
-        version: '',
-        details: {
-          placement: elementorAppConfig.onboarding.eventPlacement
-        }
+      var _elementorCommon$even5;
+      (0, _utils.safeDispatchEvent)('existing_account_connect', {
+        location: 'plugin_onboarding',
+        trigger: ((_elementorCommon$even5 = elementorCommon.eventsManager) === null || _elementorCommon$even5 === void 0 || (_elementorCommon$even5 = _elementorCommon$even5.config) === null || _elementorCommon$even5 === void 0 || (_elementorCommon$even5 = _elementorCommon$even5.triggers) === null || _elementorCommon$even5 === void 0 ? void 0 : _elementorCommon$even5.click) || 'click',
+        step_number: 1,
+        step_name: 'account_setup',
+        button_text: 'Click here to connect'
       });
     }
-  }, __('Connect your account', 'elementor'))), /*#__PURE__*/_react.default.createElement(_connect.default, {
+  }, __('Click here to connect', 'elementor'))), /*#__PURE__*/_react.default.createElement(_connect.default, {
     buttonRef: alreadyHaveAccountLinkRef,
     successCallback: connectSuccessCallback,
     errorCallback: connectFailureCallback
@@ -2496,18 +2369,19 @@ function Connect(props) {
     state = _useContext.state,
     updateState = _useContext.updateState,
     getStateObjectToUpdate = _useContext.getStateObjectToUpdate;
-  var connectSuccessCallback = function connectSuccessCallback(data) {
+  var connectSuccessCallback = function connectSuccessCallback(event, data) {
     var stateToUpdate = getStateObjectToUpdate(state, 'steps', 'account', 'completed');
     elementorCommon.config.library_connect.is_connected = true;
     elementorCommon.config.library_connect.current_access_level = data.kits_access_level || data.access_level || 0;
     elementorCommon.config.library_connect.current_access_tier = data.access_tier;
+    elementorCommon.config.library_connect.plan_type = data.plan_type;
     stateToUpdate.isLibraryConnected = true;
     updateState(stateToUpdate);
   };
   (0, _react.useEffect)(function () {
     jQuery(props.buttonRef.current).elementorConnect({
-      success: function success(data) {
-        return props.successCallback ? props.successCallback(data) : connectSuccessCallback(data);
+      success: function success(event, data) {
+        return props.successCallback ? props.successCallback(event, data) : connectSuccessCallback(event, data);
       },
       error: function error() {
         if (props.errorCallback) {
@@ -2577,7 +2451,7 @@ var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/inte
 Object.defineProperty(exports, "__esModule", ({
   value: true
 }));
-exports.setSelectedFeatureList = exports.options = void 0;
+exports.setSelectedFeatureList = exports.safeDispatchEvent = exports.options = void 0;
 var _toConsumableArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/toConsumableArray */ "../node_modules/@babel/runtime/helpers/toConsumableArray.js"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 function ownKeys(e, r) { var t = Object.keys(e); if (Object.getOwnPropertySymbols) { var o = Object.getOwnPropertySymbols(e); r && (o = o.filter(function (r) { return Object.getOwnPropertyDescriptor(e, r).enumerable; })), t.push.apply(t, o); } return t; }
@@ -2635,8 +2509,16 @@ var setSelectedFeatureList = exports.setSelectedFeatureList = function setSelect
     }))));
   }
 };
+var safeDispatchEvent = exports.safeDispatchEvent = function safeDispatchEvent(eventName, eventData) {
+  try {
+    var _elementorCommon, _elementorCommon$disp;
+    (_elementorCommon = elementorCommon) === null || _elementorCommon === void 0 || (_elementorCommon = _elementorCommon.eventsManager) === null || _elementorCommon === void 0 || (_elementorCommon$disp = _elementorCommon.dispatchEvent) === null || _elementorCommon$disp === void 0 || _elementorCommon$disp.call(_elementorCommon, eventName, eventData);
+  } catch (error) {
+    // Silently fail - don't let tracking break the user experience
+  }
+};
 
 /***/ })
 
 }]);
-//# sourceMappingURL=onboarding.04d189eccf40ae88f85d.bundle.js.map
+//# sourceMappingURL=onboarding.b3b92ba51250858e05aa.bundle.js.map
