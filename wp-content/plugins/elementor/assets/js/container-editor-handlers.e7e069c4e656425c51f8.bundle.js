@@ -166,11 +166,13 @@ class GridContainer extends elementorModules.frontend.handlers.Base {
         }
       } = this.getDefaultSettings(),
       numberOfItems = this.getMaxOutlineElementsNumber();
+    const gridOutlineItems = [];
     for (let i = 0; i < numberOfItems; i++) {
       const gridOutlineItem = document.createElement('div');
       gridOutlineItem.classList.add(outlineItem);
-      gridOutline.appendChild(gridOutlineItem);
+      gridOutlineItems.push(gridOutlineItem);
     }
+    gridOutline.append(...gridOutlineItems);
   }
 
   /**
@@ -469,4 +471,4 @@ exports["default"] = Shapes;
 /***/ })
 
 }]);
-//# sourceMappingURL=container-editor-handlers.48e4e3303dfb31ec6cf5.bundle.js.map
+//# sourceMappingURL=container-editor-handlers.e7e069c4e656425c51f8.bundle.js.map

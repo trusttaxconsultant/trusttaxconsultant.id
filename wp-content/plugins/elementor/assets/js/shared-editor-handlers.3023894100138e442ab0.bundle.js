@@ -5,7 +5,7 @@
 /*!**************************************************************!*\
   !*** ../assets/dev/js/frontend/handlers/handles-position.js ***!
   \**************************************************************/
-/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
+/***/ ((__unused_webpack_module, exports) => {
 
 
 
@@ -13,10 +13,8 @@ Object.defineProperty(exports, "__esModule", ({
   value: true
 }));
 exports["default"] = void 0;
-__webpack_require__(/*! core-js/modules/esnext.iterator.constructor.js */ "../node_modules/core-js/modules/esnext.iterator.constructor.js");
-__webpack_require__(/*! core-js/modules/esnext.iterator.find.js */ "../node_modules/core-js/modules/esnext.iterator.find.js");
 const handlesInsideClass = 'e-handles-inside';
-const handlesHeight = 25;
+const handlesHeight = 100;
 class HandlesPosition extends elementorModules.frontend.handlers.Base {
   onInit() {
     this.$element.on('mouseenter', this.setHandlesPosition.bind(this));
@@ -39,22 +37,18 @@ class HandlesPosition extends elementorModules.frontend.handlers.Base {
   }
   setHandlesPosition() {
     const document = elementor.documents.getCurrent();
-    if (!document || !document.container.isEditable()) {
+    if (!document?.container.isEditable()) {
       return;
     }
     if (this.isSectionScrollSnapEnabled()) {
       this.$element.addClass(handlesInsideClass);
       return;
     }
-    if (!this.isOverflowHidden() && !this.isFirstElement()) {
-      this.$element.removeClass(handlesInsideClass);
-      return;
-    }
-    const offset = this.getOffset(),
-      $handlesElement = this.$element.find('> .elementor-element-overlay > .elementor-editor-section-settings');
-    if (offset < handlesHeight) {
+    const {
+      top
+    } = this.$element[0].getBoundingClientRect();
+    if (top < handlesHeight || this.isOverflowHidden()) {
       this.$element.addClass(handlesInsideClass);
-      $handlesElement.css('top', offset < -5 ? -offset : '');
     } else {
       this.$element.removeClass(handlesInsideClass);
     }
@@ -65,4 +59,4 @@ exports["default"] = HandlesPosition;
 /***/ })
 
 }]);
-//# sourceMappingURL=shared-editor-handlers.2bd41204c7f5b9ac048f.bundle.js.map
+//# sourceMappingURL=shared-editor-handlers.3023894100138e442ab0.bundle.js.map

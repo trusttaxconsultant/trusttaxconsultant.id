@@ -440,9 +440,19 @@ class NestedAccordion extends _base.default {
     window.requestAnimationFrame(() => this.openAccordionItem(accordionItem, accordionItemTitle, accordionItemContent));
   }
   openAccordionItem(accordionItem, accordionItemTitle, accordionItemContent) {
-    const startHeight = `${accordionItem.offsetHeight}px`,
-      endHeight = `${accordionItemTitle.offsetHeight + accordionItemContent.offsetHeight}px`;
-    this.animateItem(accordionItem, startHeight, endHeight, true);
+    const {
+      offsetHeight: accordionItemHeight
+    } = accordionItem;
+    const {
+      offsetHeight: accordionItemTitleHeight
+    } = accordionItemTitle;
+    const {
+      offsetHeight: accordionItemContentHeight
+    } = accordionItemContent;
+    if (!accordionItemHeight || !accordionItemTitleHeight || !accordionItemContentHeight) {
+      return;
+    }
+    this.animateItem(accordionItem, `${accordionItemHeight}px`, `${accordionItemTitleHeight + accordionItemContentHeight}px`, true);
   }
   onAnimationFinish(accordionItem, isOpen) {
     accordionItem.open = isOpen;
@@ -467,4 +477,4 @@ exports["default"] = NestedAccordion;
 /***/ })
 
 }]);
-//# sourceMappingURL=nested-accordion.cb37a0fa563959afdb4c.bundle.js.map
+//# sourceMappingURL=nested-accordion.4340b64226322f36bcc0.bundle.js.map
