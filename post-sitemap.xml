@@ -1155,16 +1155,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./pph-24.html</loc>
-		<lastmod>2026-01-18T11:21:27+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/tax-pajak.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/tax-pajak.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./cara-lapor-spt-dan-urus-npwp-pewaris.html</loc>
 		<lastmod>2026-01-21T23:03:47+00:00</lastmod>
 		<image:image>
@@ -2489,6 +2479,56 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2026/03/Letter-of-Credit.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./perbedaan-tax-holiday-dan-refundable-tax-credit.html</loc>
+		<lastmod>2026-03-15T06:47:09+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/03/Perbedaan-Tax-Holiday-dan-Refundable-Tax-Credit.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/03/Perbedaan-Tax-Holiday-dan-Refundable-Tax-Credit.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./perbedaan-metode-gross-up-dan-non-gross-up.html</loc>
+		<lastmod>2026-03-15T06:50:33+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/03/Metode-Gross-Up-dan-Non-Gross-Up.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/03/Metode-Gross-Up-dan-Non-Gross-Up.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pph-24.html</loc>
+		<lastmod>2026-03-15T07:09:26+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/pajak-penghasilan-24.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/pajak-penghasilan-24.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./ppn-kendaraan-bekas.html</loc>
+		<lastmod>2026-03-15T07:30:16+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/03/PPN-Kendaraan-Bekas.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/03/PPN-Kendaraan-Bekas.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./kontraktor-di-bali-kemplang-pajak.html</loc>
+		<lastmod>2026-03-15T08:10:14+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/03/Kontraktor-di-Bali-Kemplang-Pajak.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/03/Kontraktor-di-Bali-Kemplang-Pajak.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
