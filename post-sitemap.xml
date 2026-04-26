@@ -2202,16 +2202,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./pph-24.html</loc>
-		<lastmod>2026-03-15T07:09:26+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/12/pajak-penghasilan-24.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/12/pajak-penghasilan-24.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./ppn-kendaraan-bekas.html</loc>
 		<lastmod>2026-03-15T07:30:16+00:00</lastmod>
 		<image:image>
@@ -2522,16 +2512,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./pajak-sewa-alat-berat.html</loc>
-		<lastmod>2026-04-12T12:40:40+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/04/Pajak-Sewa-Alat-Berat.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/04/Pajak-Sewa-Alat-Berat.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./pajak-jasa-arsitek.html</loc>
 		<lastmod>2026-04-12T12:43:45+00:00</lastmod>
 		<image:image>
@@ -2589,6 +2569,36 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2026/04/pemutihan-PBB-2026-di-Surabaya.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-sewa-alat-berat.html</loc>
+		<lastmod>2026-04-26T09:27:44+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/04/Pajak-Sewa-Alat-Berat.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/04/Pajak-Sewa-Alat-Berat.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pph-24.html</loc>
+		<lastmod>2026-04-26T10:04:59+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/pajak-penghasilan-24.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/12/pajak-penghasilan-24.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./tax-clearance-adalah.html</loc>
+		<lastmod>2026-04-26T10:25:49+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/04/Tax-Clearance-Adalah.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/04/Tax-Clearance-Adalah.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
