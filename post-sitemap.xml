@@ -1495,16 +1495,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./cara-memperpanjang-penyampaian-spt-tahunan-badan-via-coretax.html</loc>
-		<lastmod>2026-02-01T05:15:48+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/12/Cara-Memperpanjang-Penyampaian-SPT-Tahunan-Badan-via-Coretax.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/12/Cara-Memperpanjang-Penyampaian-SPT-Tahunan-Badan-via-Coretax.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./cek-status-validasi-dan-registrasi-nik-massal-di-portal-npwp.html</loc>
 		<lastmod>2026-02-01T05:16:19+00:00</lastmod>
 		<image:image>
@@ -2572,16 +2562,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./pajak-sewa-alat-berat.html</loc>
-		<lastmod>2026-04-26T09:27:44+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/04/Pajak-Sewa-Alat-Berat.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/04/Pajak-Sewa-Alat-Berat.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./pph-24.html</loc>
 		<lastmod>2026-04-26T10:04:59+00:00</lastmod>
 		<image:image>
@@ -2599,6 +2579,26 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2026/04/Tax-Clearance-Adalah.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-sewa-alat-berat.html</loc>
+		<lastmod>2026-04-26T23:37:19+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/04/Pajak-Sewa-Alat-Berat.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/04/Pajak-Sewa-Alat-Berat.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-memperpanjang-penyampaian-spt-tahunan-badan-via-coretax.html</loc>
+		<lastmod>2026-04-26T23:44:48+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/12/Cara-Memperpanjang-Penyampaian-SPT-Tahunan-Badan-via-Coretax.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/12/Cara-Memperpanjang-Penyampaian-SPT-Tahunan-Badan-via-Coretax.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
