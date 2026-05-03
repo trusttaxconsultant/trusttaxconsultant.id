@@ -61,16 +61,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./nppkp-nomor-pengukuhan-pkp.html</loc>
-		<lastmod>2024-09-21T12:16:05+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/pajak-perpajakan.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/pajak-perpajakan.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./hak-kewajiban-pkp.html</loc>
 		<lastmod>2024-09-21T12:18:32+00:00</lastmod>
 		<image:image>
@@ -372,16 +362,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/11/belanja.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./pajak-pusat.html</loc>
-		<lastmod>2024-11-24T08:33:54+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/tax-pajak.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/09/tax-pajak.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1295,16 +1275,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./cara-hindari-kompensasi-ganda-pph-21-di-coretax.html</loc>
-		<lastmod>2026-02-01T02:03:10+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./cara-aktifkan-nik-deregistered.html</loc>
 		<lastmod>2026-02-01T02:03:57+00:00</lastmod>
 		<image:image>
@@ -1819,16 +1789,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/06/Lapor-SPT-Secara-Manual.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./tutorial-isi-formulir-bp21-berdasarkan-per-11-pj-2025.html</loc>
-		<lastmod>2026-02-15T04:08:00+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/06/Tutorial-Isi-Formulir-BP21-Berdasarkan-PER-11PJ2025.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/06/Tutorial-Isi-Formulir-BP21-Berdasarkan-PER-11PJ2025.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2582,8 +2542,38 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>./cara-memperpanjang-penyampaian-spt-tahunan-badan-via-coretax.html</loc>
+		<lastmod>2026-04-26T23:44:48+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/12/Cara-Memperpanjang-Penyampaian-SPT-Tahunan-Badan-via-Coretax.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/12/Cara-Memperpanjang-Penyampaian-SPT-Tahunan-Badan-via-Coretax.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-mengatasi-spt-lebih-bayar.html</loc>
+		<lastmod>2026-05-03T06:00:16+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/05/Cara-Mengatasi-SPT-Lebih-Bayar.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/05/Cara-Mengatasi-SPT-Lebih-Bayar.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-mengurus-sppt-pbb-yang-hilang.html</loc>
+		<lastmod>2026-05-03T07:23:31+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/05/Cara-Mengurus-SPPT-PBB-yang-Hilang.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/05/Cara-Mengurus-SPPT-PBB-yang-Hilang.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>./pajak-sewa-alat-berat.html</loc>
-		<lastmod>2026-04-26T23:37:19+00:00</lastmod>
+		<lastmod>2026-05-03T07:29:08+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/04/Pajak-Sewa-Alat-Berat.png</image:loc>
 		</image:image>
@@ -2592,13 +2582,43 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./cara-memperpanjang-penyampaian-spt-tahunan-badan-via-coretax.html</loc>
-		<lastmod>2026-04-26T23:44:48+00:00</lastmod>
+		<loc>./apa-itu-nppkp.html</loc>
+		<lastmod>2026-05-03T08:14:30+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/12/Cara-Memperpanjang-Penyampaian-SPT-Tahunan-Badan-via-Coretax.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2024/09/Apa-itu-NPPKP.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/12/Cara-Memperpanjang-Penyampaian-SPT-Tahunan-Badan-via-Coretax.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2024/09/Apa-itu-NPPKP.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-hindari-kompensasi-ganda-pph-21-di-coretax.html</loc>
+		<lastmod>2026-05-03T08:20:32+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Cara-Hindari-Kompensasi-Ganda-PPh-21-di-Coretax.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./bp21-adalah.html</loc>
+		<lastmod>2026-05-03T08:44:50+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/05/BP21-Adalah.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/05/BP21-Adalah.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-pusat.html</loc>
+		<lastmod>2026-05-03T09:46:59+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/11/Pajak-Pusat.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/11/Pajak-Pusat.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
