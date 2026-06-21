@@ -221,16 +221,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./kode-faktur-pajak-040.html</loc>
-		<lastmod>2024-10-13T09:59:31+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/10/perpajakan.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2024/10/perpajakan.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./nomor-seri-faktur-pajak.html</loc>
 		<lastmod>2024-10-27T07:56:09+00:00</lastmod>
 		<image:image>
@@ -2639,6 +2629,86 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2024/10/kode-faktur-pajak-020.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./tax-identification-number-adalah.html</loc>
+		<lastmod>2026-06-07T10:38:59+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/tax-identification-number-adalah.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/tax-identification-number-adalah.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./apa-itu-global-tax-identity-number.html</loc>
+		<lastmod>2026-06-07T11:46:26+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/apa-itu-global-tax-identity-number.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/apa-itu-global-tax-identity-number.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./cara-mengurus-nip-wna-untuk-penandatangan-spt-di-coretax.html</loc>
+		<lastmod>2026-06-07T12:10:01+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/cara-mengurus-nip-wna-untuk-penandatangan-spt-di-coretax.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/cara-mengurus-nip-wna-untuk-penandatangan-spt-di-coretax.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./drkb-adalah.html</loc>
+		<lastmod>2026-06-21T08:27:28+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/drkb-adalah.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/drkb-adalah.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-jasa-konstruksi.html</loc>
+		<lastmod>2026-06-21T08:51:42+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/pajak-jasa-konstruksi.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/pajak-jasa-konstruksi.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./kode-faktur-pajak-040.html</loc>
+		<lastmod>2026-06-21T10:04:00+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/10/perpajakan.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2024/10/perpajakan.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-jasa-percetakan.html</loc>
+		<lastmod>2026-06-21T10:33:55+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/pajak-jasa-percetakan.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/pajak-jasa-percetakan.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./pajak-jasa-katering.html</loc>
+		<lastmod>2026-06-21T11:29:02+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/pajak-jasa-catering.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2026/06/pajak-jasa-catering.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
